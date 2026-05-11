@@ -1,0 +1,181 @@
+[
+  {
+    "name": "Terra Keyblade Graveyard Chests",
+    "children": [
+      {
+        "name": "Twister Trench",
+        "sections": [
+          {
+            "name": "Mega-Potion Chest",
+            "ref": "Terra Overview/Keyblade Graveyard/Twister Trench Mega-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_kg",
+            "x": 298,
+            "y": 347
+          }
+        ]
+      },
+      {
+        "name": "Twister Trench",
+        "sections": [
+          {
+            "name": "Windcutter Chest",
+            "ref": "Terra Overview/Keyblade Graveyard/Twister Trench Windcutter Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_kg",
+            "x": 277,
+            "y": 355
+          }
+        ]
+      },
+      {
+        "name": "Twister Trench",
+        "sections": [
+          {
+            "name": "Mega-Ether Chest",
+            "ref": "Terra Overview/Keyblade Graveyard/Twister Trench Mega-Ether Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_kg",
+            "x": 276,
+            "y": 276
+          }
+        ]
+      },
+      {
+        "name": "Twister Trench",
+        "sections": [
+          {
+            "name": "Megalixir Chest",
+            "ref": "Terra Overview/Keyblade Graveyard/Twister Trench Megalixir Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_kg",
+            "x": 245,
+            "y": 331
+          }
+        ]
+      },
+      {
+        "name": "Seat of War",
+        "sections": [
+          {
+            "name": "Elixir Chest",
+            "ref": "Terra Overview/Keyblade Graveyard/Seat of War Elixir Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_kg",
+            "x": 620,
+            "y": 442
+          }
+        ]
+      },
+      {
+        "name": "Seat of War",
+        "sections": [
+          {
+            "name": "Mega-Potion Chest",
+            "ref": "Terra Overview/Keyblade Graveyard/Seat of War Mega-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_kg",
+            "x": 637,
+            "y": 548
+          }
+        ]
+      },
+      {
+        "name": "Seat of War",
+        "sections": [
+          {
+            "name": "Map Chest",
+            "ref": "Terra Overview/Keyblade Graveyard/Seat of War Map Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_kg",
+            "x": 474,
+            "y": 394
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Terra Keyblade Graveyard Stickers",
+    "children": [
+      {
+        "name": "Twister Trench",
+        "sections": [
+          {
+            "name": "Traffic Cone Sticker",
+            "ref": "Terra Overview/Keyblade Graveyard/Twister Trench Traffic Cone Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_kg",
+            "x": 273,
+            "y": 334
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Terra Keyblade Graveyard Events",
+    "children": [
+      {
+        "name": "Final Fights",
+        "sections": [
+          {
+            "name": "Defeat Xehanort Max HP Increase",
+            "ref": "Terra Overview/Keyblade Graveyard/Defeat Xehanort Max HP Increase"
+          },
+          {
+            "name": "Defeat Terra-Xehanort",
+            "ref": "Terra Overview/Keyblade Graveyard/Defeat Terra-Xehanort"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_kg",
+            "x": 56,
+            "y": 27
+          }
+        ]
+      },
+      {
+        "name": "Badlands - Vanitas Remnant",
+        "sections": [
+          {
+            "name": "Void Gear",
+            "ref": "Terra Overview/Keyblade Graveyard - Vanitas Remnant/Defeat Vanitas Remnant Void Gear"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_kg",
+            "x": 100,
+            "y": 27
+          }
+        ]
+      }
+    ]
+  }
+]

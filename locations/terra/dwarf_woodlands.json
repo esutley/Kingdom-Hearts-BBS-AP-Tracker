@@ -1,0 +1,297 @@
+[
+  {
+    "name": "Terra Dwarf Woodlands Chests",
+    "children": [
+      {
+        "name": "Vault",
+        "sections": [
+          {
+            "name": "Balloon Letter Chest",
+            "ref": "Terra Overview/Dwarf Woodlands/Vault Balloon Letter Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dw",
+            "x": 228,
+            "y": 127
+          }
+        ]
+      },
+      {
+        "name": "Vault",
+        "sections": [
+          {
+            "name": "Ether Chest",
+            "ref": "Terra Overview/Dwarf Woodlands/Vault Ether Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dw",
+            "x": 184,
+            "y": 108
+          }
+        ]
+      },
+      {
+        "name": "Vault",
+        "sections": [
+          {
+            "name": "Potion Chest",
+            "ref": "Terra Overview/Dwarf Woodlands/Vault Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dw",
+            "x": 205,
+            "y": 214
+          }
+        ]
+      },
+      {
+        "name": "Vault",
+        "sections": [
+          {
+            "name": "Flame Salvo Chest",
+            "ref": "Terra Overview/Dwarf Woodlands/Vault Flame Salvo Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dw",
+            "x": 200,
+            "y": 119
+          }
+        ]
+      },
+      {
+        "name": "Underground Waterway",
+        "sections": [
+          {
+            "name": "Potion Chest",
+            "ref": "Terra Overview/Dwarf Woodlands/Underground Waterway Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dw",
+            "x": 425,
+            "y": 24
+          }
+        ]
+      },
+      {
+        "name": "Underground Waterway",
+        "sections": [
+          {
+            "name": "Block Recipe Chest",
+            "ref": "Terra Overview/Dwarf Woodlands/Underground Waterway Block Recipe Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dw",
+            "x": 485,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Underground Waterway",
+        "sections": [
+          {
+            "name": "Poison Edge Chest",
+            "ref": "Terra Overview/Dwarf Woodlands/Underground Waterway Poison Edge Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dw",
+            "x": 513,
+            "y": 235
+          }
+        ]
+      },
+      {
+        "name": "Underground Waterway",
+        "sections": [
+          {
+            "name": "Fire Chest",
+            "ref": "Terra Overview/Dwarf Woodlands/Underground Waterway Fire Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dw",
+            "x": 509,
+            "y": 245
+          }
+        ]
+      },
+      {
+        "name": "Courtyard",
+        "sections": [
+          {
+            "name": "Fission Firaga Chest",
+            "ref": "Terra Overview/Dwarf Woodlands/Courtyard Fission Firaga Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dw",
+            "x": 357,
+            "y": 380
+          }
+        ]
+      },
+      {
+        "name": "Courtyard",
+        "sections": [
+          {
+            "name": "Potion Chest",
+            "ref": "Terra Overview/Dwarf Woodlands/Courtyard Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dw",
+            "x": 437,
+            "y": 328
+          }
+        ]
+      },
+      {
+        "name": "Courtyard",
+        "sections": [
+          {
+            "name": "Map Chest",
+            "ref": "Terra Overview/Dwarf Woodlands/Courtyard Map Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dw",
+            "x": 394,
+            "y": 377
+          }
+        ]
+      },
+      {
+        "name": "Courtyard",
+        "sections": [
+          {
+            "name": "Soothing Crystal Chest",
+            "ref": "Terra Overview/Dwarf Woodlands/Courtyard Soothing Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dw",
+            "x": 394,
+            "y": 366
+          }
+        ]
+      },
+      {
+        "name": "Flower Glade",
+        "sections": [
+          {
+            "name": "Hungry Crystal Chest",
+            "ref": "Terra Overview/Dwarf Woodlands/Flower Glade Hungry Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dw",
+            "x": 439,
+            "y": 526
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Terra Dwarf Woodlands Stickers",
+    "children": [
+      {
+        "name": "Underground Waterway",
+        "sections": [
+          {
+            "name": "Louie Sticker",
+            "ref": "Terra Overview/Dwarf Woodlands/Underground Waterway Louie Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dw",
+            "x": 502,
+            "y": 61
+          }
+        ]
+      },
+      {
+        "name": "Flower Glade",
+        "sections": [
+          {
+            "name": "Balloon Sticker",
+            "ref": "Terra Overview/Dwarf Woodlands/Flower Glade Balloon Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dw",
+            "x": 376,
+            "y": 524
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Terra Dwarf Woodlands Events",
+    "children": [
+      {
+        "name": "Flower Glade",
+        "sections": [
+          {
+            "name": "Defeat Unversed Air Slide",
+            "ref": "Terra Overview/Dwarf Woodlands/Defeat Flower Glade Unversed Air Slide"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dw",
+            "x": 405,
+            "y": 505
+          }
+        ]
+      },
+      {
+        "name": "Defeat Spirit of the Magic Mirror",
+        "sections": [
+          {
+            "name": "Max HP Increase",
+            "ref": "Terra Overview/Dwarf Woodlands/Defeat Spirit of the Magic Mirror Max HP Increase"
+          },
+          {
+            "name": "Firestorm",
+            "ref": "Terra Overview/Dwarf Woodlands/Defeat Spirit of the Magic Mirror Firestorm"
+          },
+          {
+            "name": "Treasure Trove",
+            "ref": "Terra Overview/Dwarf Woodlands/World Cleared Treasure Trove"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dw",
+            "x": 45,
+            "y": 120
+          }
+        ]
+      }
+    ]
+  }
+]

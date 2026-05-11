@@ -1,0 +1,520 @@
+{
+  "settings_popup": {
+        "type": "array",
+        "content": [
+            {
+                "type": "group",
+                "header": "Settings",
+                "content": {
+                    "type": "layout",
+                    "key": "settings_grid"
+                }
+            }
+        ]
+    },
+  "tracker_default": {
+    "type": "container",
+    "background": "#000000",
+    "content": {
+      "type": "tabbed",
+          "tabs": [         
+            {
+              "title": "Ventus",
+              "content": {
+                "type": "dock",
+                "dropshadow": true,
+                "content": [
+                  {
+                    "type": "dock",
+                    "dock": "left",
+                    "v_alignment": "stretch",
+                    "content": [
+                      {
+                        "type": "group",
+                        "header": "Wayfinders",
+                        "dock": "top",
+                        "content": {
+                          "type": "layout",
+                          "key": "wayfinders"
+                        }
+                      },
+                      {
+                        "type": "group",
+                        "header": "Worlds",
+                        "dock": "top",
+                        "content": {
+                          "type": "layout",
+                          "key": "tv_worlds"
+                        }
+                      },
+                      {
+                        "type": "group",
+                        "header": "Movement",
+                        "dock": "top",
+                        "content": {
+                          "type": "layout",
+                          "key": "v_movement"
+                        }
+                      },
+                      {
+                        "type": "group",
+                        "header": "Abilities",
+                        "dock": "top",
+                        "content": {
+                          "type": "layout",
+                          "key": "abilities"
+                        }
+                      },
+                      {
+                        "type": "group",
+                        "header": "Misc",
+                        "dock": "top",
+                        "content": {
+                          "type": "layout",
+                          "key": "v_misc"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "Overworld",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "v_overworld"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Dwarf Woodslands",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "v_dw"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Castle of Dreams",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "v_cod"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Enchanted Dominion",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "v_ed"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Radiant Garden",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "v_rg"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Deep Space",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "v_ds"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Olympus Coliseum",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "v_oc"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Disney Town",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "v_dt"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Never Land",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "v_nl"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Keyblade Graveyard",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "v_kg"
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Aqua",
+              "content": {
+                "type": "dock",
+                "dropshadow": true,
+                "content": [
+                  {
+                    "type": "dock",
+                    "dock": "left",
+                    "v_alignment": "stretch",
+                    "content": [
+                      {
+                        "type": "group",
+                        "header": "Wayfinders",
+                        "dock": "top",
+                        "content": {
+                          "type": "layout",
+                          "key": "wayfinders"
+                        }
+                      },
+                      {
+                        "type": "group",
+                        "header": "Worlds",
+                        "dock": "top",
+                        "content": {
+                          "type": "layout",
+                          "key": "a_worlds"
+                        }
+                      },
+                      {
+                        "type": "group",
+                        "header": "Movement",
+                        "dock": "top",
+                        "content": {
+                          "type": "layout",
+                          "key": "a_movement"
+                        }
+                      },
+                      {
+                        "type": "group",
+                        "header": "Abilities",
+                        "dock": "top",
+                        "content": {
+                          "type": "layout",
+                          "key": "abilities"
+                        }
+                      },
+                      {
+                        "type": "group",
+                        "header": "Misc",
+                        "dock": "top",
+                        "content": {
+                          "type": "layout",
+                          "key": "a_misc"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "Overworld",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "a_overworld"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Land of Departure",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "a_lod"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Dwarf Woodslands",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "a_dw"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Castle of Dreams",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "a_cod"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Enchanted Dominion",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "a_ed"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Radiant Garden",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "a_rg"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Deep Space",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "a_ds"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Olympus Coliseum",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "a_oc"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Disney Town",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "a_dt"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Never Land",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "a_nl"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Realm of Darkness",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "a_rod"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Keyblade Graveyard",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "a_kg"
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Terra",
+              "content": {
+                "type": "dock",
+                "dropshadow": true,
+                "content": [
+                  {
+                    "type": "dock",
+                    "dock": "left",
+                    "v_alignment": "stretch",
+                    "content": [
+                      {
+                        "type": "group",
+                        "header": "Wayfinders",
+                        "dock": "top",
+                        "content": {
+                          "type": "layout",
+                          "key": "wayfinders"
+                        }
+                      },
+                      {
+                        "type": "group",
+                        "header": "Worlds",
+                        "dock": "top",
+                        "content": {
+                          "type": "layout",
+                          "key": "tv_worlds"
+                        }
+                      },
+                      {
+                        "type": "group",
+                        "header": "Movement",
+                        "dock": "top",
+                        "content": {
+                          "type": "layout",
+                          "key": "t_movement"
+                        }
+                      },
+                      {
+                        "type": "group",
+                        "header": "Abilities",
+                        "dock": "top",
+                        "content": {
+                          "type": "layout",
+                          "key": "abilities"
+                        }
+                      },
+                      {
+                        "type": "group",
+                        "header": "Misc",
+                        "dock": "top",
+                        "content": {
+                          "type": "layout",
+                          "key": "t_misc"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tabbed",
+                    "tabs": [
+                      {
+                        "title": "Overworld",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "t_overworld"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Land of Departure",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "t_lod"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Dwarf Woodslands",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "t_dw"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Castle of Dreams",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "t_cod"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Enchanted Dominion",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "t_ed"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Radiant Garden",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "t_rg"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Deep Space",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "t_ds"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Olympus Coliseum",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "t_oc"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Disney Town",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "t_dt"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Never Land",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "t_nl"
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Keyblade Graveyard",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                            "t_kg"
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+      
+    }
+  }
+}

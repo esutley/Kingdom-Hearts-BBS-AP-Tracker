@@ -1,0 +1,257 @@
+[
+  {
+    "name": "Ventus Keyblade Graveyard Chests",
+    "children": [
+      {
+        "name": "Seat of War",
+        "sections": [
+          {
+            "name": "Elixir Chest",
+            "ref": "Ventus Overview/Keyblade Graveyard/Seat of War Elixir Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_kg",
+            "x": 602,
+            "y": 501
+          }
+        ]
+      },
+      {
+        "name": "Seat of War",
+        "sections": [
+          {
+            "name": "Mega-Potion Chest",
+            "ref": "Ventus Overview/Keyblade Graveyard/Seat of War Mega-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_kg",
+            "x": 638,
+            "y": 551
+          }
+        ]
+      },
+      {
+        "name": "Seat of War",
+        "sections": [
+          {
+            "name": "Map Chest",
+            "ref": "Ventus Overview/Keyblade Graveyard/Seat of War Map Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_kg",
+            "x": 530,
+            "y": 438
+          }
+        ]
+      },
+      {
+        "name": "Seat of War",
+        "sections": [
+          {
+            "name": "Xehanort's Report 12 Chest",
+            "ref": "Ventus Overview/Keyblade Graveyard/Seat of War Xehanort's Report 12 Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_kg",
+            "x": 619,
+            "y": 442
+          }
+        ]
+      },
+      {
+        "name": "Twister Trench",
+        "sections": [
+          {
+            "name": "Wind Raid Chest",
+            "ref": "Ventus Overview/Keyblade Graveyard/Twister Trench Wind Raid Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_kg",
+            "x": 275,
+            "y": 353
+          }
+        ]
+      },
+      {
+        "name": "Twister Trench",
+        "sections": [
+          {
+            "name": "Mega-Ether Chest",
+            "ref": "Ventus Overview/Keyblade Graveyard/Twister Trench Mega-Ether Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_kg",
+            "x": 288,
+            "y": 336
+          }
+        ]
+      },
+      {
+        "name": "Twister Trench",
+        "sections": [
+          {
+            "name": "Mega-Potion Chest",
+            "ref": "Ventus Overview/Keyblade Graveyard/Twister Trench Mega-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_kg",
+            "x": 285,
+            "y": 277
+          }
+        ]
+      },
+      {
+        "name": "Twister Trench",
+        "sections": [
+          {
+            "name": "Megalixir Chest",
+            "ref": "Ventus Overview/Keyblade Graveyard/Twister Trench Megalixir Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_kg",
+            "x": 238,
+            "y": 310
+          }
+        ]
+      },
+      {
+        "name": "Twister Trench",
+        "sections": [
+          {
+            "name": "Elixir Chest",
+            "ref": "Ventus Overview/Keyblade Graveyard/Twister Trench Elixir Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_kg",
+            "x": 274,
+            "y": 372
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ventus Keyblade Graveyard Stickers",
+    "children": [
+      {
+        "name": "Seat of War",
+        "sections": [
+          {
+            "name": "Ice Cream Sticker",
+            "ref": "Ventus Overview/Keyblade Graveyard/Seat of War Ice Cream Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_kg",
+            "x": 598,
+            "y": 465
+          }
+        ]
+      },
+      {
+        "name": "Twister Trench",
+        "sections": [
+          {
+            "name": "Ice Cream Sticker",
+            "ref": "Ventus Overview/Keyblade Graveyard/Twister Trench Ice Cream Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_kg",
+            "x": 315,
+            "y": 315
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ventus Keyblade Graveyard Events",
+    "children": [
+      {
+        "name": "Final Fights",
+        "sections": [
+          {
+            "name": "Defeat Vanitas 2 Max HP Increase",
+            "ref": "Ventus Overview/Keyblade Graveyard/Defeat Vanitas 2 Max HP Increase"
+          },
+          {
+            "name": "Defeat Final Vanitas",
+            "ref": "Ventus Overview/Keyblade Graveyard/Defeat Final Vanitas"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_kg",
+            "x": 56,
+            "y": 27
+          }
+        ]
+      },
+      {
+        "name": "Badlands - Vanitas 1",
+        "sections": [
+          {
+            "name": "Max HP Increase",
+            "ref": "Ventus Overview/Keyblade Graveyard - Vanitas 1/Defeat Vanitas 1 Max HP Increase"
+          },
+          {
+            "name": "Deck Capacity Increase",
+            "ref": "Ventus Overview/Keyblade Graveyard - Vanitas 1/Defeat Vanitas 1 Deck Capacity Increase"
+          },
+          {
+            "name": "High Jump",
+            "ref": "Ventus Overview/Keyblade Graveyard - Vanitas 1/Defeat Vanitas 1 High Jump"
+          },
+          {
+            "name": "Mickey D-Link",
+            "ref": "Ventus Overview/Keyblade Graveyard - Vanitas 1/Defeat Vanitas 1 Mickey D-Link"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_kg",
+            "x": 100,
+            "y": 27
+          }
+        ]
+      },
+      {
+        "name": "Badlands - Vanitas Remnant",
+        "sections": [
+          {
+            "name": "Void Gear",
+            "ref": "Ventus Overview/Keyblade Graveyard - Vanitas Remnant/Defeat Vanitas Remnant Void Gear"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_kg",
+            "x": 100,
+            "y": 42
+          }
+        ]
+      }
+    ]
+  }
+]

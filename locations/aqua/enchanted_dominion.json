@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Aqua Enchanted Dominion Chests",
+    "children": [
+      {
+        "name": "Forbidden Mountain",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Aqua Overview/Enchanted Dominion/Forbidden Mountain Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ed",
+            "x": 135,
+            "y": 369
+          }
+        ]
+      },
+      {
+        "name": "Gates",
+        "sections": [
+          {
+            "name": "Cure Chest",
+            "ref": "Aqua Overview/Enchanted Dominion/Gates Cure Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ed",
+            "x": 398,
+            "y": 620
+          }
+        ]
+      },
+      {
+        "name": "Gates",
+        "sections": [
+          {
+            "name": "Sleep Chest",
+            "ref": "Aqua Overview/Enchanted Dominion/Gates Sleep Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ed",
+            "x": 262,
+            "y": 573
+          }
+        ]
+      },
+      {
+        "name": "Dungeon Cell",
+        "sections": [
+          {
+            "name": "Map Chest",
+            "ref": "Aqua Overview/Enchanted Dominion/Dungeon Cell Map Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ed",
+            "x": 423,
+            "y": 1372
+          }
+        ]
+      },
+      {
+        "name": "Dungeon",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Aqua Overview/Enchanted Dominion/Dungeon Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ed",
+            "x": 357,
+            "y": 1175
+          }
+        ]
+      },
+      {
+        "name": "Dungeon",
+        "sections": [
+          {
+            "name": "Ice Barrage Chest",
+            "ref": "Aqua Overview/Enchanted Dominion/Dungeon Ice Barrage Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ed",
+            "x": 327,
+            "y": 1237
+          }
+        ]
+      },
+      {
+        "name": "Maleficent's Throne",
+        "sections": [
+          {
+            "name": "Confusion Strike Chest",
+            "ref": "Aqua Overview/Enchanted Dominion/Maleficent's Throne Confusion Strike Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ed",
+            "x": 393,
+            "y": 791
+          }
+        ]
+      },
+      {
+        "name": "Gates",
+        "sections": [
+          {
+            "name": "Absolute Zero Chest",
+            "ref": "Aqua Overview/Enchanted Dominion/Gates Absolute Zero Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ed",
+            "x": 308,
+            "y": 671
+          }
+        ]
+      },
+      {
+        "name": "Gates",
+        "sections": [
+          {
+            "name": "Wellsprings Crystal Chest",
+            "ref": "Aqua Overview/Enchanted Dominion/Gates Wellsprings Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ed",
+            "x": 321,
+            "y": 549
+          }
+        ]
+      },
+      {
+        "name": "Gates",
+        "sections": [
+          {
+            "name": "Pulsing Crystal Chest",
+            "ref": "Aqua Overview/Enchanted Dominion/Gates Pulsing Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ed",
+            "x": 308,
+            "y": 692
+          }
+        ]
+      },
+      {
+        "name": "Waterside",
+        "sections": [
+          {
+            "name": "Ether Chest",
+            "ref": "Aqua Overview/Enchanted Dominion/Waterside Ether Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ed",
+            "x": 119,
+            "y": 226
+          }
+        ]
+      },
+      {
+        "name": "Waterside",
+        "sections": [
+          {
+            "name": "Balloon Letter Chest",
+            "ref": "Aqua Overview/Enchanted Dominion/Waterside Balloon Letter Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ed",
+            "x": 87,
+            "y": 176
+          }
+        ]
+      },
+      {
+        "name": "Waterside",
+        "sections": [
+          {
+            "name": "Potion Chest",
+            "ref": "Aqua Overview/Enchanted Dominion/Waterside Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ed",
+            "x": 73,
+            "y": 120
+          }
+        ]
+      },
+      {
+        "name": "Forest Clearing",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Aqua Overview/Enchanted Dominion/Forest Clearing Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ed",
+            "x": 88,
+            "y": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Enchanted Dominion Stickers",
+    "children": [
+      {
+        "name": "Dungeon",
+        "sections": [
+          {
+            "name": "Horace Sticker",
+            "ref": "Aqua Overview/Enchanted Dominion/Dungeon Horace Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ed",
+            "x": 362,
+            "y": 1237
+          }
+        ]
+      },
+      {
+        "name": "Forest Clearing",
+        "sections": [
+          {
+            "name": "Flower Sticker",
+            "ref": "Aqua Overview/Enchanted Dominion/Forest Clearing Flower Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ed",
+            "x": 110,
+            "y": 31
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Enchanted Dominion Events",
+    "children": [
+      {
+        "name": "Escape Castle",
+        "sections": [
+          {
+            "name": "High Jump",
+            "ref": "Aqua Overview/Enchanted Dominion/Escape Castle High Jump"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ed",
+            "x": 236,
+            "y": 635
+          }
+        ]
+      },
+      {
+        "name": "Defeat Dragon Maleficent",
+        "sections": [
+          {
+            "name": "Max HP Increase",
+            "ref": "Aqua Overview/Enchanted Dominion/Defeat Dragon Maleficent Max HP Increase"
+          },
+          {
+            "name": "Firestorm",
+            "ref": "Aqua Overview/Enchanted Dominion/Defeat Dragon Maleficent Firestorm"
+          },
+          {
+            "name": "Fairy Stars",
+            "ref": "Aqua Overview/Enchanted Dominion/World Cleared Fairy Stars"
+          },
+          {
+            "name": "Xehanort's Report 6",
+            "ref": "Aqua Overview/Enchanted Dominion/World Cleared Xehanort's Report 6"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ed",
+            "x": 117,
+            "y": 14
+          }
+        ]
+      }
+    ]
+  }
+]

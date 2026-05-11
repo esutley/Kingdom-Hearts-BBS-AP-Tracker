@@ -1,0 +1,377 @@
+[
+  {
+    "name": "Ventus Radiant Garden Chests",
+    "children": [
+      {
+        "name": "Fountain Court",
+        "sections": [
+          {
+            "name": "Counter Rush Chest",
+            "ref": "Ventus Overview/Radiant Garden/Fountain Court Counter Rush Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_rg",
+            "x": 650,
+            "y": 37
+          }
+        ]
+      },
+      {
+        "name": "Outer Gardens",
+        "sections": [
+          {
+            "name": "Soothing Crystal Chest",
+            "ref": "Ventus Overview/Radiant Garden/Outer Gardens Soothing Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_rg",
+            "x": 517,
+            "y": 1095
+          }
+        ]
+      },
+      {
+        "name": "Outer Gardens",
+        "sections": [
+          {
+            "name": "Pulsing Crystal Chest",
+            "ref": "Ventus Overview/Radiant Garden/Outer Gardens Pulsing Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_rg",
+            "x": 453,
+            "y": 1143
+          }
+        ]
+      },
+      {
+        "name": "Central Square",
+        "sections": [
+          {
+            "name": "Ether Chest",
+            "ref": "Ventus Overview/Radiant Garden/Central Square Ether Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_rg",
+            "x": 547,
+            "y": 715
+          }
+        ]
+      },
+      {
+        "name": "Central Square",
+        "sections": [
+          {
+            "name": "Potion Chest",
+            "ref": "Ventus Overview/Radiant Garden/Central Square Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_rg",
+            "x": 421,
+            "y": 778
+          }
+        ]
+      },
+      {
+        "name": "Aqueduct",
+        "sections": [
+          {
+            "name": "Panacea Chest",
+            "ref": "Ventus Overview/Radiant Garden/Aqueduct Panacea Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_rg",
+            "x": 127,
+            "y": 188
+          }
+        ]
+      },
+      {
+        "name": "Aqueduct",
+        "sections": [
+          {
+            "name": "Fira Chest",
+            "ref": "Ventus Overview/Radiant Garden/Aqueduct Fira Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_rg",
+            "x": 106,
+            "y": 168
+          }
+        ]
+      },
+      {
+        "name": "Aqueduct",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Ventus Overview/Radiant Garden/Aqueduct Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_rg",
+            "x": 59,
+            "y": 324
+          }
+        ]
+      },
+      {
+        "name": "Castle Town",
+        "sections": [
+          {
+            "name": "Map Chest",
+            "ref": "Ventus Overview/Radiant Garden/Castle Town Map Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_rg",
+            "x": 853,
+            "y": 543
+          }
+        ]
+      },
+      {
+        "name": "Merlin's House",
+        "sections": [
+          {
+            "name": "Block Recipe Chest",
+            "ref": "Ventus Overview/Radiant Garden/Merlin's House Block Recipe Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_rg",
+            "x": 775,
+            "y": 555
+          }
+        ]
+      },
+      {
+        "name": "Gardens",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Ventus Overview/Radiant Garden/Gardens Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_rg",
+            "x": 101,
+            "y": 589
+          }
+        ]
+      },
+      {
+        "name": "Gardens",
+        "sections": [
+          {
+            "name": "Binding Strike Chest",
+            "ref": "Ventus Overview/Radiant Garden/Gardens Binding Strike Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_rg",
+            "x": 228,
+            "y": 615
+          }
+        ]
+      },
+      {
+        "name": "Gardens",
+        "sections": [
+          {
+            "name": "Wellspring Crystal Chest",
+            "ref": "Ventus Overview/Radiant Garden/Gardens Wellspring Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_rg",
+            "x": 100,
+            "y": 494
+          }
+        ]
+      },
+      {
+        "name": "Gardens",
+        "sections": [
+          {
+            "name": "Slow Chest",
+            "ref": "Ventus Overview/Radiant Garden/Gardens Slow Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_rg",
+            "x": 220,
+            "y": 486
+          }
+        ]
+      },
+      {
+        "name": "Front Doors",
+        "sections": [
+          {
+            "name": "Freeze Raid Chest",
+            "ref": "Ventus Overview/Radiant Garden/Front Doors Freeze Raid Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_rg",
+            "x": 415,
+            "y": 397
+          }
+        ]
+      },
+      {
+        "name": "Front Doors",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Ventus Overview/Radiant Garden/Front Doors Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_rg",
+            "x": 485,
+            "y": 513
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ventus Radiant Garden Stickers",
+    "children": [
+      {
+        "name": "Fountain Court",
+        "sections": [
+          {
+            "name": "Huey Sticker",
+            "ref": "Ventus Overview/Radiant Garden/Fountain Court Huey Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_rg",
+            "x": 626,
+            "y": 49
+          }
+        ]
+      },
+      {
+        "name": "Gardens",
+        "sections": [
+          {
+            "name": "Ice Cream Sticker",
+            "ref": "Ventus Overview/Radiant Garden/Gardens Ice Cream Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_rg",
+            "x": 99,
+            "y": 476
+          }
+        ]
+      },
+      {
+        "name": "Front Doors",
+        "sections": [
+          {
+            "name": "Fireworks Sticker",
+            "ref": "Ventus Overview/Radiant Garden/Front Doors Fireworks Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_rg",
+            "x": 444,
+            "y": 348
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ventus Radiant Garden Events",
+    "children": [
+      {
+        "name": "Meet Scrooge",
+        "sections": [
+          {
+            "name": "Disney Town Pass",
+            "ref": "Ventus Overview/Radiant Garden/Meet Scrooge Disney Town Pass"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_rg",
+            "x": 467,
+            "y": 754
+          }
+        ]
+      },
+      {
+        "name": "Defeat Trinity Armor",
+        "sections": [
+          {
+            "name": "Max HP Increase",
+            "ref": "Ventus Overview/Radiant Garden/Defeat Trinity Armor Max HP Increase"
+          },
+          {
+            "name": "Cyclone",
+            "ref": "Ventus Overview/Radiant Garden/Defeat Trinity Armor Cyclone"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_rg",
+            "x": 141,
+            "y": 358
+          }
+        ]
+      },
+      {
+        "name": "Rescue Ienzo",
+        "sections": [
+          {
+            "name": "Reversal",
+            "ref": "Ventus Overview/Radiant Garden/Rescue Ienzo Reversal"
+          },
+          {
+            "name": "Frolic Flame",
+            "ref": "Ventus Overview/Radiant Garden/World Cleared Frolic Flame"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_rg",
+            "x": 503,
+            "y": 754
+          }
+        ]
+      }
+    ]
+  }
+]

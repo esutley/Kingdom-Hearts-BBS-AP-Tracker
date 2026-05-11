@@ -1,0 +1,333 @@
+[
+  {
+    "name": "Aqua Deep Space Chests",
+    "children": [
+      {
+        "name": "Control Room",
+        "sections": [
+          {
+            "name": "Ether Chest",
+            "ref": "Aqua Overview/Deep Space/Control Room Ether Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ds",
+            "x": 442,
+            "y": 94
+          }
+        ]
+      },
+      {
+        "name": "Control Room",
+        "sections": [
+          {
+            "name": "Balloon Letter Chest",
+            "ref": "Aqua Overview/Deep Space/Control Room Balloon Letter Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ds",
+            "x": 484,
+            "y": 158
+          }
+        ]
+      },
+      {
+        "name": "Durgon Transporter",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Aqua Overview/Deep Space/Durgon Transporter Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ds",
+            "x": 326,
+            "y": 399
+          }
+        ]
+      },
+      {
+        "name": "Turo Transporter",
+        "sections": [
+          {
+            "name": "Map Chest",
+            "ref": "Aqua Overview/Deep Space/Turo Transporter Map Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ds",
+            "x": 122,
+            "y": 402
+          }
+        ]
+      },
+      {
+        "name": "Turo Prison Block",
+        "sections": [
+          {
+            "name": "Teleport Chest",
+            "ref": "Aqua Overview/Deep Space/Turo Prison Block Teleport Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ds",
+            "x": 105,
+            "y": 520
+          }
+        ]
+      },
+      {
+        "name": "Turo Prison Block",
+        "sections": [
+          {
+            "name": "Blitz Chest",
+            "ref": "Aqua Overview/Deep Space/Turo Prison Block Blitz Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ds",
+            "x": 22,
+            "y": 520
+          }
+        ]
+      },
+      {
+        "name": "Turo Prison Block",
+        "sections": [
+          {
+            "name": "Abounding Crystal Chest",
+            "ref": "Aqua Overview/Deep Space/Turo Prison Block Abounding Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ds",
+            "x": 22,
+            "y": 546
+          }
+        ]
+      },
+      {
+        "name": "Turo Prison Block",
+        "sections": [
+          {
+            "name": "Mega-Potion Chest",
+            "ref": "Aqua Overview/Deep Space/Turo Prison Block Mega-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ds",
+            "x": 105,
+            "y": 667
+          }
+        ]
+      },
+      {
+        "name": "Ship Hub",
+        "sections": [
+          {
+            "name": "Fire Surge Chest",
+            "ref": "Aqua Overview/Deep Space/Ship Hub Fire Surge Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ds",
+            "x": 591,
+            "y": 111
+          }
+        ]
+      },
+      {
+        "name": "Ship Hub",
+        "sections": [
+          {
+            "name": "Prism Rain Chest",
+            "ref": "Aqua Overview/Deep Space/Ship Hub Prism Rain Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ds",
+            "x": 608,
+            "y": 74
+          }
+        ]
+      },
+      {
+        "name": "Launch Deck",
+        "sections": [
+          {
+            "name": "Zero Gravira Chest",
+            "ref": "Aqua Overview/Deep Space/Launch Deck Zero Gravira Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ds",
+            "x": 747,
+            "y": 85
+          }
+        ]
+      },
+      {
+        "name": "Launch Deck",
+        "sections": [
+          {
+            "name": "Hungry Crystal Chest",
+            "ref": "Aqua Overview/Deep Space/Launch Deck Hungry Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ds",
+            "x": 748,
+            "y": 109
+          }
+        ]
+      },
+      {
+        "name": "Launch Deck",
+        "sections": [
+          {
+            "name": "Mega-Ether Chest",
+            "ref": "Aqua Overview/Deep Space/Launch Deck Mega-Ether Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ds",
+            "x": 736,
+            "y": 49
+          }
+        ]
+      },
+      {
+        "name": "Machinery Bay Access",
+        "sections": [
+          {
+            "name": "Mega Attack Recipe Chest",
+            "ref": "Aqua Overview/Deep Space/Machinery Bay Access Mega Attack Recipe Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ds",
+            "x": 863,
+            "y": 99
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Deep Space Stickers",
+    "children": [
+      {
+        "name": "Turo Prison Block",
+        "sections": [
+          {
+            "name": "Dale Sticker",
+            "ref": "Aqua Overview/Deep Space/Turo Prison Block Dale Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ds",
+            "x": 105,
+            "y": 642
+          }
+        ]
+      },
+      {
+        "name": "Ship Hub",
+        "sections": [
+          {
+            "name": "UFO Sticker",
+            "ref": "Aqua Overview/Deep Space/Ship Hub UFO Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ds",
+            "x": 577,
+            "y": 83
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Deep Space Events",
+    "children": [
+      {
+        "name": "Defeat Glidewinders",
+        "sections": [
+          {
+            "name": "Air Slide",
+            "ref": "Aqua Overview/Deep Space/Defeat Glidewinders Air Slide"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ds",
+            "x": 760,
+            "y": 345
+          }
+        ]
+      },
+      {
+        "name": "Defeat Turo Prison Block Unversed",
+        "sections": [
+          {
+            "name": "Max HP Increase",
+            "ref": "Aqua Overview/Deep Space/Defeat Turo Prison Block Unversed Max HP Increase"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ds",
+            "x": 62,
+            "y": 587
+          }
+        ]
+      },
+      {
+        "name": "Defeat Gantu",
+        "sections": [
+          {
+            "name": "Deck Capacity Increase",
+            "ref": "Aqua Overview/Deep Space/Defeat Gantu Deck Capacity Increase"
+          },
+          {
+            "name": "Experiment 626 D-Link",
+            "ref": "Aqua Overview/Deep Space/World Cleared Experiment 626 D-Link"
+          },
+          {
+            "name": "Hyperdrive",
+            "ref": "Aqua Overview/Deep Space/World Cleared Hyperdrive"
+          },
+          {
+            "name": "Spaceship Board",
+            "ref": "Aqua Overview/Deep Space/World Cleared Spaceship Board"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_ds",
+            "x": 711,
+            "y": 82
+          }
+        ]
+      }
+    ]
+  }
+]

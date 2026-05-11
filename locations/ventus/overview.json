@@ -1,0 +1,654 @@
+[
+  {
+    "name": "Ventus Overview",
+    "visibility_rules": ["opt_character_ventus"],
+    "children": [
+      {
+        "name": "Land of Departure",
+        "sections": [
+          { "name": "Defeat Orbs Max HP Increase"},
+          { "name": "Defeat Orbs Fever Pitch"},
+          { "name": "World Cleared Aqua D-Link"},
+          { "name": "World Cleared Terra D-Link"},
+          { "name": "World Cleared Xehanort's Letter"},
+          { "name": "World Cleared Keyblade Board"}
+        ],
+        "map_locations": [
+          {
+            "map": "v_overworld",
+            "x": 155,
+            "y": 370
+          }
+        ]
+      },
+      {
+        "name": "Land of Departure - Unknown",
+        "access_rules": ["[$has_defensive_tools], [$has_x_worlds|9]"],
+        "visibility_rules": ["opt_superbosses_on"],
+        "sections": [
+          { "name": "Defeat Unknown No Name"}
+        ],
+        "map_locations": [
+          {
+            "map": "v_overworld",
+            "x": 170,
+            "y": 370
+          }
+        ]
+      },
+      {
+        "name": "Dwarf Woodlands",
+        "access_rules": ["dwarf_woodlands"],
+        "sections": [
+          { "name": "Mountain Trail Potion Chest 1"},
+          { "name": "Mountain Trail Ether Chest"},
+          { "name": "Mountain Trail Potion Chest 2"},
+          { "name": "Mine Entrance Balloon Sticker"},
+          { "name": "The Mine Payback Raid Chest"},
+          { "name": "The Mine Mini Chest"},
+          { "name": "The Mine Panacea Chest"},
+          { "name": "Cottage Clearing Fire Chest"},
+          { "name": "Cottage Clearing Poison Chest"},
+          { "name": "Cottage Clearing Map Chest"},
+          {
+            "name": "Cottage Clearing Ice Cream Sticker",
+            "access_rules": ["^$jump_or_dash"]
+          },
+          { "name": "The Cottage Attack Recipe Chest"},
+          { "name": "Deep Woods Shimmering Crystal Chest"},
+          { "name": "Deep Woods Potion Chest"},
+          { "name": "Deep Woods Ether Chest"},
+          { "name": "Flower Glade Soothing Crystal Chest"},
+          { "name": "Escort Snow White Max HP Increase"},
+          { "name": "Defeat Mad Treant Deck Capacity Increase"},
+          { "name": "Defeat Mad Treant Firestorm"},
+          { "name": "World Cleared Snow White D-Link"},
+          { "name": "World Cleared Treasure Trove"}
+        ],
+        "map_locations": [
+          {
+            "map": "v_overworld",
+            "x": 88,
+            "y": 277
+          }
+        ]
+      },
+      {
+        "name": "Castle of Dreams",
+        "access_rules": ["castle_of_dreams"],
+        "sections": [
+          { "name": "Cinderella's Room Map Chest"},
+          { "name": "Cinderella's Room Stun Edge Chest"},
+          { "name": "Cinderella's Room Magic Recipe Chest"},
+          { "name": "Cinderella's Room Fireworks Sticker"},
+          { "name": "Mousehole Potion Chest 1"},
+          {
+            "name": "Mousehole Thunderstorm Chest",
+            "access_rules": ["^$slide_or_glide_or_dash"]
+          },
+          { "name": "Mousehole Ether Chest"},
+          { "name": "Mousehole Pulsing Crystal Chest"},
+          { "name": "Mousehole Potion Chest 2"},
+          {
+            "name": "Mousehole Louie Sticker",
+            "access_rules": ["^$slide_or_glide_or_dash"]
+          },
+          { "name": "Wardrobe Room Zero Gravity Chest"},
+          { "name": "Wardrobe Room Balloon Letter Chest"},
+          { "name": "Wardrobe Room Blizzard Chest"},
+          { "name": "Wardrobe Room Fleeting Crystal Chest"},
+          { "name": "Mousehole Hungry Crystal Chest"},
+          { "name": "Defeat Lucifer Diamond Dust"},
+          { "name": "World Cleared Cinderella D-Link"},
+          { "name": "World Cleared Stroke of Midnight"},
+          { "name": "World Cleared Royal Board"}
+        ],
+        "map_locations": [
+          {
+            "map": "v_overworld",
+            "x": 200,
+            "y": 287
+          }
+        ]
+      },
+      {
+        "name": "Enchanted Dominion",
+        "access_rules": ["enchanted_dominion"],
+        "sections": [
+          { "name": "Tower Room Sleep Chest"},
+          { "name": "Hallway Hi-Potion Chest"},
+          { "name": "Audience Chamber Hi-Potion Chest"},
+          { "name": "Audience Chamber Thunder Chest"},
+          {
+            "name": "Audience Chamber Dewey Sticker",
+            "access_rules": ["^$jump_and_glide_or_dash"]
+          },
+          { "name": "Forest Clearing Map Chest"},
+          { "name": "Waterside Potion Chest"},
+          { "name": "Forbidden Mountain Ether Chest"},
+          
+          { "name": "Gates Absolute Zero Chest"},
+          { "name": "Gates Cure Chest"},
+          { "name": "Gates Soothing Crystal Chest"},
+          { "name": "Gates Balloon Letter Chest"},
+          { "name": "Gates Wellspring Crystal Chest"},
+          { "name": "Hall Wellspring Crystal Chest"},
+          { "name": "Hall Hungry Crystal Chest"},
+          { "name": "Hall Magnet Chest"},
+          { "name": "Hall Hi-Potion Chest"},
+          { "name": "Hall Confetti Sticker"},
+          { "name": "Dungeon Fleeting Crystal Chest"},
+          {
+            "name": "Dungeon Tornado Strike Chest",
+            "access_rules": ["^$slide_or_glide_or_dash"]
+          },
+          { "name": "Maleficent's Throne Hi-Potion Chest"},
+          { "name": "Defeat Maleficent Max HP Increase"},
+          { "name": "Defeat Maleficent Thunderbolt"},
+          { "name": "World Cleared Fairy Stars"}
+        ],
+        "map_locations": [
+          {
+            "map": "v_overworld",
+            "x": 145,
+            "y": 190
+          }
+        ]
+      },
+      {
+        "name": "Mysterious Tower",
+        "access_rules": ["mysterious_tower"],
+        "sections": [
+          { "name": "Mysterious Tower Magnega Chest"},
+          { "name": "Mysterious Tower Wellspring Crystal Chest"},
+          { "name": "Mysterious Tower Chaos Crystal Chest"},
+          { "name": "Tower Entrance Mega Magic Recipe Chest"},
+          { "name": "Mysterious Tower Ice Cream Sticker"},
+          { "name": "Met Donald & Goofy Donald D-Link"},
+          { "name": "Met Donald & Goofy Goofy D-Link"}
+        ],
+        "map_locations": [
+          {
+            "map": "v_overworld",
+            "x": 260,
+            "y": 306
+          }
+        ]
+      },
+      {
+        "name": "Radiant Garden",
+        "access_rules": ["radiant_garden"],
+        "sections": [
+          { "name": "Central Square Ether Chest"},
+          { "name": "Central Square Potion Chest"},
+          { "name": "Gardens Hi-Potion Chest"},
+          { "name": "Gardens Binding Strike Chest"},
+          { "name": "Gardens Wellspring Crystal Chest"},
+          { "name": "Gardens Slow Chest"},
+          {
+            "name": "Gardens Ice Cream Sticker",
+            "access_rules": ["^$jump_or_dash"]
+          },
+          { "name": "Front Doors Freeze Raid Chest"},
+          { "name": "Front Doors Hi-Potion Chest"},
+          {
+            "name": "Front Doors Fireworks Sticker",
+            "access_rules": ["$has|high_jump"]
+          },
+          { "name": "Meet Scrooge Disney Town Pass"},
+          { "name": "Castle Town Map Chest"},
+          { "name": "Merlin's House Block Recipe Chest"},
+          { "name": "Fountain Court Counter Rush Chest"},
+          {
+            "name": "Fountain Court Huey Sticker",
+            "access_rules": ["^$slide_or_glide_or_dash"]
+          },
+          { "name": "Aqueduct Panacea Chest"},
+          { "name": "Aqueduct Fira Chest"},
+          { "name": "Aqueduct Hi-Potion Chest"},
+          
+          { "name": "Defeat Trinity Armor Max HP Increase"},
+          { "name": "Defeat Trinity Armor Cyclone"},
+          { "name": "Outer Gardens Soothing Crystal Chest"},
+          { "name": "Outer Gardens Pulsing Crystal Chest"},
+          { "name": "Rescue Ienzo Reversal"},
+          { "name": "World Cleared Frolic Flame"}
+        ],
+        "map_locations": [
+          {
+            "map": "v_overworld",
+            "x": 289,
+            "y": 209
+          }
+        ]
+      },
+      {
+        "name": "Olympus Coliseum",
+        "access_rules": ["olympus_coliseum"],
+        "sections": [
+          { "name": "Coliseum Gates Fire Strike Chest"},
+          { "name": "Coliseum Gates Cura Chest"},
+          { "name": "Coliseum Gates Mega-Potion Chest"},
+          {
+            "name": "Coliseum Gates Confetti Sticker",
+            "access_rules": ["^$jump_or_dash"]
+          },
+          { "name": "Vestibule Map Chest"},
+          { "name": "Break the Urns 1 Complete Max HP Increase"},
+          { "name": "Break the Urns 2 Complete Deck Capacity Increase"},
+          { "name": "Defeat Jellyshade Swarm Air Slide"},
+          { "name": "World Cleared Zack D-Link"},
+          { "name": "World Cleared Mark of a Hero"}
+        ],
+        "map_locations": [
+          {
+            "map": "v_overworld",
+            "x": 518,
+            "y": 231
+          }
+        ]
+      },
+      {
+        "name": "Deep Space",
+        "access_rules": ["deep_space"],
+        "sections": [
+          { "name": "Defeat Metamorphosis 1 Wingblade"},
+          { "name": "Durgon Transporter Abounding Crystal Chest"},
+          { "name": "Ship Corridor Hi-Potion Chest 1"},
+          { "name": "Ship Corridor Pulsing Crystal Chest"},
+          { "name": "Ship Corridor Mega-Ether Chest"},
+          { "name": "Ship Corridor Hi-Potion Chest 2"},
+          { "name": "Control Room Map Chest"},
+          { "name": "Ship Hub Thundara Chest"},
+          { "name": "Ship Hub Zero Gravira Chest"},
+          { "name": "Ship Hub Pulse Bomb Chest"},
+          { "name": "Ship Hub UFO Sticker"},
+          { "name": "Launch Deck Xehanort's Report 1 Chest"},
+          { "name": "Launch Deck Mega Attack Recipe Chest"},
+          { "name": "Launch Deck Fire Surge Chest"},
+          { "name": "Launch Deck Fleeting Crystal Chest"},
+          { "name": "Launch Deck Ice Cream Sticker"},  
+          { "name": "Machinery Bay Access Mega-Potion Chest"},
+          { "name": "Machinery Bay Chaos Crystal Chest"},
+          { "name": "Machinery Bay Mine Shield Chest"},
+          { "name": "Defeat Metamorphosis 2 Max HP Increase"},
+          { "name": "Defeat Metamorphosis 2 Deck Capacity Increase"},
+          { "name": "World Cleared Experiment 626 D-Link"},
+          { "name": "World Cleared Hyperdrive"},
+          { "name": "World Cleared Spaceship Board"}
+        ],
+        "map_locations": [
+          {
+            "map": "v_overworld",
+            "x": 431,
+            "y": 305
+          }
+        ]
+      },
+      {
+        "name": "Never Land",
+        "access_rules": ["never_land"],
+        "sections": [
+          { "name": "Gully Map Chest"},
+          { "name": "Gully Abounding Crystal Chest"},
+          { "name": "Jungle Clearing Balloon Letter Chest"},
+          { "name": "Peter's Hideout Mega-Ether Chest"},
+          { "name": "Peter's Hideout Fleeting Crystal Chest"},
+          { "name": "Reunite with Tinker Bell Glide"},
+          { "name": "Mermaid Lagoon Aeroga Chest"},
+          { "name": "Mermaid Lagoon Elixir Chest"},
+          { 
+            "name": "Mermaid Lagoon Dale Sticker",
+            "access_rules": ["^$slide_or_glide_or_dash"]
+          },
+          { "name": "Cliff Path Hi-Potion Chest"},
+          { "name": "Cliff Path Treasure Raid Chest"},
+          { 
+            "name": "Cliff Path Firaga Chest",
+            "access_rules": ["^$slide_or_glide_or_dash"]
+          },
+          { 
+            "name": "Mermaid Lagoon Blitz Chest",
+            "access_rules": ["^$slide_or_glide_or_dash"]
+          },
+          { "name": "Seacoast Hi-Potion Chest"},
+          { "name": "Seacoast Panacea Chest"},
+          { "name": "Rainbow Falls: Base Megalixir Chest"},
+          {
+            "name": "Rainbow Falls: Base Rainbow Sticker",
+            "access_rules": ["^$jump_and_glide_or_dash"]
+          },
+          { "name": "Cove Megalixir Chest"},
+          { "name": "Cove Mega-Potion Chest"},
+          { "name": "Cove Ether Chest"},
+          { "name": "Defeat Captain Hook Deck Capacity Increase"},
+          { "name": "World Cleared Peter Pan D-Link"},
+          { "name": "World Cleared Pixie Petal"},
+          { "name": "World Cleared Skull Board"}
+        ],
+        "map_locations": [
+          {
+            "map": "v_overworld",
+            "x": 560,
+            "y": 295
+          }
+        ]
+      },
+      {
+        "name": "Disney Town",
+        "access_rules": ["disney_town"],
+        "sections": [
+          { "name": "Raceway Reversal Slash Chest"            },
+          { "name": "Raceway Shimmering Crystal Chest"        },
+          { "name": "Raceway Stop Chest"                      },
+          { "name": "Main Plaza Map (Disney Town) Chest"      },
+          { "name": "Main Plaza Potion Chest"                 },
+          { "name": "Gizmo Gallery Thunder Chest 1"           },
+          { "name": "Gizmo Gallery Thunder Chest 2"           },
+          {
+            "name": "Gizmo Gallery Mega-Ether Chest",
+            "access_rules": ["$has_thunder"]
+          },
+          { 
+            "name": "Gizmo Gallery Mega-Potion Chest 2",
+            "access_rules": ["$has_thunder"]
+          },
+          {
+            "name": "Gizmo Gallery Mega-Potion Chest 1",
+            "access_rules": ["$has_thunder, ^$slide_or_glide_or_dash"]
+          },
+          {
+            "name": "Gizmo Gallery Chaos Crystal Chest",
+            "access_rules": ["$has_thunder, ^$slide_or_glide_or_dash"]
+          },
+          {
+            "name": "Gizmo Gallery Mickey Sticker",
+            "access_rules": ["$has_thunder, ^$slide_or_glide_or_dash"]
+          },
+          {
+            "name": "Pete's Rec Room Wellspring Crystal Chest",
+            "access_rules": ["$has_thunder"]
+          },
+          {
+            "name": "Pete's Rec Room Panacea Chest",
+            "access_rules": ["$has_thunder, ^$slide_or_glide_or_dash"]
+          },
+          {
+            "name": "Pete's Rec Room Aerial Slam Chest",
+            "access_rules": ["$has_thunder, ^$slide_or_glide_or_dash"]
+          },
+          {
+            "name": "Pete's Rec Room Break Time Chest",
+            "access_rules": ["$has_thunder, ^$slide_or_glide_or_dash"]
+          },
+          {
+            "name": "Pete's Rec Room Action Recipe Chest",
+            "access_rules": ["$has_thunder, ^$slide_or_glide_or_dash"]
+          },
+          {
+            "name": "Pete's Rec Room Minnie Sticker",
+            "access_rules": ["$has_thunder, ^$slide_or_glide_or_dash"]
+          },
+          {
+            "name": "Raceway Slot Edge Chest",
+            "access_rules": ["$has_thunder"]
+          },
+          {
+            "name": "Raceway Superglide Chest",
+            "access_rules": ["$has_thunder, ^$glide_or_dash"]
+          },
+          {
+            "name": "Raceway Chip Sticker",
+            "access_rules": ["$has_thunder, ^$glide_or_dash"]
+          },
+          { 
+            "name": "World Cleared Toon Board",
+            "visibility_rules": ["opt_minigames_on"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_overworld",
+            "x": 419,
+            "y": 189
+          }
+        ]
+      },
+      {
+        "name": "Keyblade Graveyard",
+        "access_rules": ["$has_wayfinders, [$has_x_worlds|8]"],
+        "sections": [
+          { "name": "Seat of War Elixir Chest"},
+          { "name": "Seat of War Mega-Potion Chest"},
+          { "name": "Seat of War Map Chest"},
+          { "name": "Seat of War Xehanort's Report 12 Chest"},
+          {
+            "name": "Seat of War Ice Cream Sticker",
+            "access_rules": ["$has|high_jump"]
+          },
+          { "name": "Twister Trench Wind Raid Chest"},
+          { "name": "Twister Trench Mega-Ether Chest"},
+          { "name": "Twister Trench Mega-Potion Chest"},
+          { "name": "Twister Trench Megalixir Chest"},
+          { "name": "Twister Trench Elixir Chest"},
+          { "name": "Twister Trench Ice Cream Sticker"},
+          {
+            "name": "Defeat Vanitas 2 Max HP Increase",
+            "access_rules": ["[$has_defensive_tools]"]
+          },
+          {
+            "name": "Defeat Final Vanitas",
+            "access_rules": ["[$has_defensive_tools]"]
+          }        
+        ],
+        "map_locations": [
+          {
+            "map": "v_overworld",
+            "x": 273,
+            "y": 62
+          }
+        ]
+      },
+      {
+        "name": "Keyblade Graveyard - Vanitas 1",
+        "access_rules": ["$has_wayfinders, [$has_x_worlds|8]"],
+        "sections": [
+          { "name": "Defeat Vanitas 1 Max HP Increase"},
+          { "name": "Defeat Vanitas 1 Deck Capacity Increase"},
+          { "name": "Defeat Vanitas 1 High Jump"},
+          { "name": "Defeat Vanitas 1 Mickey D-Link"}
+        ],
+        "map_locations": [
+          {
+            "map": "v_overworld",
+            "x": 258,
+            "y": 62
+          }
+        ]
+      },
+      {
+        "name": "Keyblade Graveyard - Vanitas Remnant",
+        "access_rules": ["$has_wayfinders, [$has_x_worlds|9], [$has_defensive_tools]"],
+        "visibility_rules": ["opt_superbosses_on"],
+        "sections": [
+          { "name": "Defeat Vanitas Remnant Void Gear"}
+        ],
+        "map_locations": [
+          {
+            "map": "v_overworld",
+            "x": 288,
+            "y": 62
+          }
+        ]
+      },
+      {
+        "name": "Mirage Arena",
+        "access_rules": ["mirage_arena"],
+        "visibility_rules": ["opt_mirage_arena_on"],
+        "sections": [
+          {
+            "name": "Complete Day of Reckoning",
+            "access_rules": ["[$has_x_worlds|2]"]
+          },
+          {
+            "name": "Complete Wheels of Misfortune",
+            "access_rules": ["[$has_x_worlds|2]"],
+            "visibility_rules": "opt_arena_global_on"
+          },
+          {
+            "name": "Complete Risky Riches",
+            "access_rules": ["[$has_x_worlds|2]"]
+          },
+          {
+            "name": "Complete Weaver Fever",
+            "access_rules": ["[$has_x_worlds|4]"],
+            "visibility_rules": "opt_arena_global_on"
+          },
+          {
+            "name": "Complete Sinister Sentinel",
+            "access_rules": ["[$has_x_worlds|4]"]
+          },
+          {
+            "name": "Dead Ringer Darkgnaw",
+            "access_rules": ["[$has_x_worlds|4]"]
+          },
+          {
+            "name": "Complete Dead Ringer",
+            "access_rules": ["[$has_x_worlds|4]"]
+          },
+          {
+            "name": "Dead Ringer Max HP Increase",
+            "access_rules": ["[$has_x_worlds|4]"]
+          },
+          {
+            "name": "Complete Combined Threat",
+            "access_rules": ["[$has_x_worlds|6], $ma_world|radiant_garden"]
+          },
+          {
+            "name": "Complete Treasure Tussle",
+            "access_rules": ["[$has_x_worlds|6]"]
+          },
+          {
+            "name": "Complete Harsh Punishment",
+            "access_rules": ["[$has_x_worlds|6]"]
+          },
+          {
+            "name": "Complete A Time to Chill",
+            "access_rules": ["[$has_x_worlds|8], [$has_defensive_tools]"],
+            "visibility_rules": "opt_arena_global_on"
+          },
+          {
+            "name": "A Time to Chill Max HP Increasel",
+            "access_rules": ["[$has_x_worlds|8], [$has_defensive_tools]"],
+            "visibility_rules": "opt_arena_global_on"
+          },
+          {
+            "name": "Complete Copycat Crisis",
+            "access_rules": ["[$has_x_worlds|8], [$has_defensive_tools]"]
+          },
+          {
+            "name": "Keepers of the Arena Multivortex",
+            "access_rules": ["[$has_x_worlds|8], [$has_defensive_tools]"]
+          },
+          {
+            "name": "Complete Keepers of the Arena",
+            "access_rules": ["[$has_x_worlds|8], [$has_defensive_tools]"]
+          },
+          {
+            "name": "Monster of the Sea Mini",
+            "access_rules": ["[$has_x_worlds|8], [$has_defensive_tools], $ma_world|disney_town"],
+            "visibility_rules": ["$ma_monstro_vis"]
+          },
+          {
+            "name": "Complete Monster of the Sea",
+            "access_rules": ["[$has_x_worlds|8], [$has_defensive_tools], $ma_world|disney_town"],
+            "visibility_rules": ["$ma_monstro_vis"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_overworld",
+            "x": 52,
+            "y": 186
+          }
+        ]
+      },
+      {
+        "name": "Mirage Arena - Superboss",
+        "access_rules": ["mirage_arena, [$has_x_worlds|9], [$has_defensive_tools]"],
+        "visibility_rules": ["opt_mirage_arena_on, opt_superbosses_on"],
+        "sections": [
+          { "name": "Villains' Vendetta Ultima Weapon"},
+          { "name": "Complete Villains' Vendetta"},
+          { "name": "Light's Lessons Max HP Increase"},
+          { "name": "Complete Light's Lessons"},
+          { "name": "Peering into Darkness Royal Radiance"},
+          { "name": "Complete Peering into Darkness"}
+        ],
+        "map_locations": [
+          {
+            "map": "v_overworld",
+            "x": 67,
+            "y": 186
+          }
+        ]
+      },
+      {
+        "name": "Mirage Arena - Medals",
+        "access_rules": ["mirage_arena"],
+        "visibility_rules": ["$ma_medal_access, opt_arena_medals_on"],
+        "sections": [
+          { "name": "Collect 300 Medals"},
+          { "name": "Collect 1,000 Medals"},
+          { "name": "Collect 3,333 Medals"},
+          { "name": "Collect 5,555 Medals"},
+          { "name": "Collect 7,777 Medals"},
+          { "name": "Collect 9,999 Medals"}
+        ],
+        "map_locations": [
+          {
+            "map": "v_overworld",
+            "x": 37,
+            "y": 201
+          }
+        ]
+      },
+      {
+        "name": "Mirage Arena - Minigames",
+        "access_rules": ["mirage_arena, disney_town"],
+        "visibility_rules": ["opt_minigames_on"],
+        "sections": [
+          { "name": "Country Chase: Finish 5 laps in 2:30"},
+          { "name": "Disney Drive: Finish 5 laps in 5 minutes"},
+          { "name": "Grand Spree: Finish 5 laps in 5 minutes"},
+          { "name": "Castle Circuit: Finish 5 laps in 5:30"}
+        ],
+        "map_locations": [
+          {
+            "map": "v_overworld",
+            "x": 52,
+            "y": 201
+          }
+        ]
+      },
+      {
+        "name": "Mirage Arena - Command Board",
+        "access_rules": ["mirage_arena, $has|command_board"],
+        "visibility_rules": ["opt_command_board_on"],
+        "sections": [
+          { "name": "Win a Command Board game"},
+          { "name": "Win 3 Command Board games"},
+          { "name": "Win 5 Command Board games"},
+          { "name": "Win 7 Command Board games"}
+        ],
+        "map_locations": [
+          {
+            "map": "v_overworld",
+            "x": 67,
+            "y": 201
+          }
+        ]
+      }
+    ]
+  }
+]

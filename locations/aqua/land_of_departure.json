@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Aqua Land of Departure Chests",
+    "children": [
+      {
+        "name": "Mountain Path",
+        "sections": [
+          {
+            "name": "Shimmering Crystal Chest",
+            "ref": "Aqua Overview/Land of Departure/Mountain Path Shimmering Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_lod",
+            "x": 126,
+            "y": 355
+          }
+        ]
+      },
+      {
+        "name": "Mountain Path",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Aqua Overview/Land of Departure/Mountain Path Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_lod",
+            "x": 116,
+            "y": 364
+          }
+        ]
+      },
+      {
+        "name": "Mountain Path",
+        "sections": [
+          {
+            "name": "Bind Chest",
+            "ref": "Aqua Overview/Land of Departure/Mountain Path Bind Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_lod",
+            "x": 200,
+            "y": 399
+          }
+        ]
+      },
+      {
+        "name": "Summit",
+        "sections": [
+          {
+            "name": "Fleeting Crystal Chest",
+            "ref": "Aqua Overview/Land of Departure/Summit Fleeting Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_lod",
+            "x": 22,
+            "y": 247
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Land of Departure Events",
+    "children": [
+      {
+        "name": "Intro",
+        "sections": [
+          {
+            "name": "Max HP Increase",
+            "ref": "Aqua Overview/Land of Departure/Defeat Orbs Max HP Increase"
+          },
+          {
+            "name": "Spellweaver",
+            "ref": "Aqua Overview/Land of Departure/Defeat Orbs Spellweaver"
+          },
+          {
+            "name": "Ventus D-Link",
+            "ref": "Aqua Overview/Land of Departure/World Cleared Ventus D-Link"
+          },
+          {
+            "name": "Terra D-Link",
+            "ref": "Aqua Overview/Land of Departure/World Cleared Terra D-Link"
+          },
+          {
+            "name": "Keyblade Board",
+            "ref": "Aqua Overview/Land of Departure/World Cleared Keyblade Board"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_lod",
+            "x": 22,
+            "y": 40
+          }
+        ]
+      },
+      {
+        "name": "World Sealed",
+        "sections": [
+          {
+            "name": "Brightcrest",
+            "ref": "Aqua Overview/Land of Departure/World Sealed Brightcrest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_lod",
+            "x": 22,
+            "y": 55
+          }
+        ]
+      },
+      {
+        "name": "??? - Defeat Unknown",
+        "sections": [
+          {
+            "name": "No Name",
+            "ref": "Aqua Overview/Land of Departure - Unknown/Defeat Unknown No Name"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_lod",
+            "x": 22,
+            "y": 70
+          }
+        ]
+      }
+    ]
+  }
+]

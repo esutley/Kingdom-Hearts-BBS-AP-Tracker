@@ -1,0 +1,397 @@
+[
+  {
+    "name": "Aqua Radiant Garden Chests",
+    "children": [
+      {
+        "name": "Central Square",
+        "sections": [
+          {
+            "name": "Potion Chest",
+            "ref": "Aqua Overview/Radiant Garden/Central Square Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rg",
+            "x": 547,
+            "y": 714
+          }
+        ]
+      },
+      {
+        "name": "Central Square",
+        "sections": [
+          {
+            "name": "Ether Chest",
+            "ref": "Aqua Overview/Radiant Garden/Central Square Ether Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rg",
+            "x": 421,
+            "y": 776
+          }
+        ]
+      },
+      {
+        "name": "Gardens",
+        "sections": [
+          {
+            "name": "Zero Gravity Chest",
+            "ref": "Aqua Overview/Radiant Garden/Gardens Zero Gravity Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rg",
+            "x": 106,
+            "y": 613
+          }
+        ]
+      },
+      {
+        "name": "Gardens",
+        "sections": [
+          {
+            "name": "Wellspring Crystal Chest",
+            "ref": "Aqua Overview/Radiant Garden/Gardens Wellspring Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rg",
+            "x": 228,
+            "y": 612
+          }
+        ]
+      },
+      {
+        "name": "Gardens",
+        "sections": [
+          {
+            "name": "Strike Raid Chest",
+            "ref": "Aqua Overview/Radiant Garden/Gardens Strike Raid Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rg",
+            "x": 97,
+            "y": 495
+          }
+        ]
+      },
+      {
+        "name": "Gardens",
+        "sections": [
+          {
+            "name": "Fleeting Crystal Chest",
+            "ref": "Aqua Overview/Radiant Garden/Gardens Fleeting Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rg",
+            "x": 220,
+            "y": 487
+          }
+        ]
+      },
+      {
+        "name": "Front Doors",
+        "sections": [
+          {
+            "name": "Map Chest",
+            "ref": "Aqua Overview/Radiant Garden/Front Doors Map Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rg",
+            "x": 500,
+            "y": 490
+          }
+        ]
+      },
+      {
+        "name": "Front Doors",
+        "sections": [
+          {
+            "name": "Panacea Chest",
+            "ref": "Aqua Overview/Radiant Garden/Front Doors Panacea Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rg",
+            "x": 481,
+            "y": 512
+          }
+        ]
+      },
+      {
+        "name": "Front Doors",
+        "sections": [
+          {
+            "name": "Mine Square Chest",
+            "ref": "Aqua Overview/Radiant Garden/Front Doors Mine Square Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rg",
+            "x": 415,
+            "y": 397
+          }
+        ]
+      },
+      {
+        "name": "Aqueduct",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest 1",
+            "ref": "Aqua Overview/Radiant Garden/Aqueduct Hi-Potion Chest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rg",
+            "x": 126,
+            "y": 188
+          }
+        ]
+      },
+      {
+        "name": "Aqueduct",
+        "sections": [
+          {
+            "name": "Thundara Chest",
+            "ref": "Aqua Overview/Radiant Garden/Aqueduct Thundara Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rg",
+            "x": 110,
+            "y": 165
+          }
+        ]
+      },
+      {
+        "name": "Aqueduct",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest 2",
+            "ref": "Aqua Overview/Radiant Garden/Aqueduct Hi-Potion Chest 2"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rg",
+            "x": 59,
+            "y": 325
+          }
+        ]
+      },
+      {
+        "name": "Aqueduct",
+        "sections": [
+          {
+            "name": "Block Recipe Chest",
+            "ref": "Aqua Overview/Radiant Garden/Aqueduct Block Recipe Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rg",
+            "x": 115,
+            "y": 189
+          }
+        ]
+      },
+      {
+        "name": "Fountain Court",
+        "sections": [
+          {
+            "name": "Counter Blast Chest",
+            "ref": "Aqua Overview/Radiant Garden/Fountain Court Counter Blast Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rg",
+            "x": 648,
+            "y": 37
+          }
+        ]
+      },
+      {
+        "name": "Fountain Court",
+        "sections": [
+          {
+            "name": "Soothing Crystal Chest",
+            "ref": "Aqua Overview/Radiant Garden/Fountain Court Soothing Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rg",
+            "x": 648,
+            "y": 21
+          }
+        ]
+      },
+      {
+        "name": "Merlin's House",
+        "sections": [
+          {
+            "name": "Xehanort's Report 3 Chest",
+            "ref": "Aqua Overview/Radiant Garden/Merlin's House Xehanort's Report 3 Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rg",
+            "x": 776,
+            "y": 557
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Radiant Garden Stickers",
+    "children": [
+      {
+        "name": "Front Doors",
+        "sections": [
+          {
+            "name": "Juice Sticker",
+            "ref": "Aqua Overview/Radiant Garden/Front Doors Juice Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rg",
+            "x": 474,
+            "y": 488
+          }
+        ]
+      },
+      {
+        "name": "Aqueduct",
+        "sections": [
+          {
+            "name": "Donut Sticker",
+            "ref": "Aqua Overview/Radiant Garden/Aqueduct Donut Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rg",
+            "x": 94,
+            "y": 190
+          }
+        ]
+      },
+      {
+        "name": "Castle Town",
+        "sections": [
+          {
+            "name": "Flower Sticker",
+            "ref": "Aqua Overview/Radiant Garden/Castle Town Flower Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rg",
+            "x": 886,
+            "y": 548
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Radiant Garden Events",
+    "children": [
+      {
+        "name": "Rescue Kairi",
+        "sections": [
+          {
+            "name": "Mickey D-Link",
+            "ref": "Aqua Overview/Radiant Garden/Rescue Kairi Mickey D-Link"
+          },
+          {
+            "name": "Destiny's Embrace",
+            "ref": "Aqua Overview/Radiant Garden/Rescue Kairi Destiny's Embrace"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rg",
+            "x": 487,
+            "y": 351
+          }
+        ]
+      },
+      {
+        "name": "Defeat Trinity Armor",
+        "sections": [
+          {
+            "name": "Max HP Increase",
+            "ref": "Aqua Overview/Radiant Garden/Defeat Trinity Armor Max HP Increase"
+          },
+          {
+            "name": "Bladecharge",
+            "ref": "Aqua Overview/Radiant Garden/Defeat Trinity Armor Bladecharge"
+          },
+          {
+            "name": "Disney Town Pass",
+            "ref": "Aqua Overview/Radiant Garden/Defeat Trinity Armor Disney Town Pass"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rg",
+            "x": 142,
+            "y": 359
+          }
+        ]
+      },
+      {
+        "name": "Defeat Vanitas",
+        "sections": [
+          {
+            "name": "Deck Capacity Increase",
+            "ref": "Aqua Overview/Radiant Garden/Defeat Vanitas Deck Capacity Increase"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rg",
+            "x": 487,
+            "y": 754
+          }
+        ]
+      },
+      {
+        "name": "Defeat Final Terra-Xehanort II",
+        "sections": [
+          {
+            "name": "Defeat Final Terra-Xehanort II",
+            "ref": "Aqua Overview/Radiant Garden - Final Terra-Xehanort/Defeat Final Terra-Xehanort II"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rg",
+            "x": 22,
+            "y": 40
+          }
+        ]
+      }
+    ]
+  }
+]

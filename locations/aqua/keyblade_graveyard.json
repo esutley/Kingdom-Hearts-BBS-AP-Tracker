@@ -1,0 +1,197 @@
+[
+  {
+    "name": "Aqua Keyblade Graveyard Chests",
+    "children": [
+      {
+        "name": "Seat of War",
+        "sections": [
+          {
+            "name": "Elixir Chest",
+            "ref": "Aqua Overview/Keyblade Graveyard/Seat of War Elixir Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_kg",
+            "x": 620,
+            "y": 443
+          }
+        ]
+      },
+      {
+        "name": "Seat of War",
+        "sections": [
+          {
+            "name": "Mega-Potion Chest",
+            "ref": "Aqua Overview/Keyblade Graveyard/Seat of War Mega-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_kg",
+            "x": 638,
+            "y": 551
+          }
+        ]
+      },
+      {
+        "name": "Seat of War",
+        "sections": [
+          {
+            "name": "Map Chest",
+            "ref": "Aqua Overview/Keyblade Graveyard/Seat of War Map Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_kg",
+            "x": 534,
+            "y": 440
+          }
+        ]
+      },
+      {
+        "name": "Twister Trench",
+        "sections": [
+          {
+            "name": "Aeroga Chest",
+            "ref": "Aqua Overview/Keyblade Graveyard/Twister Trench Aeroga Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_kg",
+            "x": 275,
+            "y": 355
+          }
+        ]
+      },
+      {
+        "name": "Twister Trench",
+        "sections": [
+          {
+            "name": "Mega-Ether Chest",
+            "ref": "Aqua Overview/Keyblade Graveyard/Twister Trench Mega-Ether Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_kg",
+            "x": 290,
+            "y": 338
+          }
+        ]
+      },
+      {
+        "name": "Twister Trench",
+        "sections": [
+          {
+            "name": "Mega-Potion Chest",
+            "ref": "Aqua Overview/Keyblade Graveyard/Twister Trench Mega-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_kg",
+            "x": 286,
+            "y": 279
+          }
+        ]
+      },
+      {
+        "name": "Twister Trench",
+        "sections": [
+          {
+            "name": "Megalixir Chest",
+            "ref": "Aqua Overview/Keyblade Graveyard/Twister Trench Megalixir Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_kg",
+            "x": 236,
+            "y": 308
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Keyblade Graveyard Stickers",
+    "children": [
+      {
+        "name": "Seat of War",
+        "sections": [
+          {
+            "name": "Flower Sticker",
+            "ref": "Aqua Overview/Keyblade Graveyard/Seat of War Flower Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_kg",
+            "x": 517,
+            "y": 437
+          }
+        ]
+      },
+      {
+        "name": "Fissure",
+        "sections": [
+          {
+            "name": "Bubble Sticker",
+            "ref": "Aqua Overview/Keyblade Graveyard/Fissure Bubble Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_kg",
+            "x": 56,
+            "y": 187
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Keyblade Graveyard Events",
+    "children": [
+      {
+        "name": "Final Fights",
+        "sections": [
+          {
+            "name": "Defeat Braig Max HP Increase",
+            "ref": "Aqua Overview/Keyblade Graveyard/Defeat Braig Max HP Increase"
+          },
+          {
+            "name": "Defeat Ventus-Vanitas",
+            "ref": "Aqua Overview/Keyblade Graveyard/Defeat Ventus-Vanitas"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_kg",
+            "x": 56,
+            "y": 27
+          }
+        ]
+      },
+      {
+        "name": "Defeat Vanitas Remnant",
+        "sections": [
+          {
+            "name": "Void Gear",
+            "ref": "Aqua Overview/Keyblade Graveyard - Vanitas Remnant/Defeat Vanitas Remnant Void Gear"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_kg",
+            "x": 100,
+            "y": 27
+          }
+        ]
+      }
+    ]
+  }
+]

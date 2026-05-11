@@ -1,0 +1,337 @@
+[
+  {
+    "name": "Terra Radiant Garden Chests",
+    "children": [
+      {
+        "name": "Aqueduct",
+        "sections": [
+          {
+            "name": "Esuna Chest",
+            "ref": "Terra Overview/Radiant Garden/Aqueduct Esuna Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_rg",
+            "x": 127,
+            "y": 189
+          }
+        ]
+      },
+      {
+        "name": "Aqueduct",
+        "sections": [
+          {
+            "name": "Blackout Chest",
+            "ref": "Terra Overview/Radiant Garden/Aqueduct Blackout Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_rg",
+            "x": 108,
+            "y": 166
+          }
+        ]
+      },
+      {
+        "name": "Aqueduct",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Terra Overview/Radiant Garden/Aqueduct Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_rg",
+            "x": 59,
+            "y": 325
+          }
+        ]
+      },
+      {
+        "name": "Outer Gardens",
+        "sections": [
+          {
+            "name": "Fira Chest",
+            "ref": "Terra Overview/Radiant Garden/Outer Gardens Fira Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_rg",
+            "x": 513,
+            "y": 1096
+          }
+        ]
+      },
+      {
+        "name": "Outer Gardens",
+        "sections": [
+          {
+            "name": "Pulsing Crystal Chest",
+            "ref": "Terra Overview/Radiant Garden/Outer Gardens Pulsing Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_rg",
+            "x": 454,
+            "y": 1140
+          }
+        ]
+      },
+      {
+        "name": "Central Square",
+        "sections": [
+          {
+            "name": "Potion Chest",
+            "ref": "Terra Overview/Radiant Garden/Central Square Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_rg",
+            "x": 549,
+            "y": 711
+          }
+        ]
+      },
+      {
+        "name": "Central Square",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Terra Overview/Radiant Garden/Central Square Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_rg",
+            "x": 422,
+            "y": 783
+          }
+        ]
+      },
+      {
+        "name": "Purification Facility",
+        "sections": [
+          {
+            "name": "Mega-Potion Chest",
+            "ref": "Terra Overview/Radiant Garden/Purification Facility Mega-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_rg",
+            "x": 359,
+            "y": 1241
+          }
+        ]
+      },
+      {
+        "name": "Purification Facility",
+        "sections": [
+          {
+            "name": "Chaos Crystal Chest",
+            "ref": "Terra Overview/Radiant Garden/Purification Facility Chaos Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_rg",
+            "x": 378,
+            "y": 1354
+          }
+        ]
+      },
+      {
+        "name": "Castle Town",
+        "sections": [
+          {
+            "name": "Map Chest",
+            "ref": "Terra Overview/Radiant Garden/Castle Town Map Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_rg",
+            "x": 851,
+            "y": 548
+          }
+        ]
+      },
+      {
+        "name": "Fountain Court",
+        "sections": [
+          {
+            "name": "Thunder Surge Chest",
+            "ref": "Terra Overview/Radiant Garden/Fountain Court Thunder Surge Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_rg",
+            "x": 649,
+            "y": 34
+          }
+        ]
+      },
+      {
+        "name": "Fountain Court",
+        "sections": [
+          {
+            "name": "Fleeting Crystal Chest",
+            "ref": "Terra Overview/Radiant Garden/Fountain Court Fleeting Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_rg",
+            "x": 647,
+            "y": 20
+          }
+        ]
+      },
+      {
+        "name": "Fountain Court",
+        "sections": [
+          {
+            "name": "Panacea Chest",
+            "ref": "Terra Overview/Radiant Garden/Fountain Court Panacea Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_rg",
+            "x": 506,
+            "y": 103
+          }
+        ]
+      },
+      {
+        "name": "Merlin's House",
+        "sections": [
+          {
+            "name": "Shimmering Crystal Chest",
+            "ref": "Terra Overview/Radiant Garden/Merlin's House Shimmering Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_rg",
+            "x": 766,
+            "y": 523
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Terra Radiant Garden Stickers",
+    "children": [
+      {
+        "name": "Outer Gardens",
+        "sections": [
+          {
+            "name": "Airplane Sticker",
+            "ref": "Terra Overview/Radiant Garden/Outer Gardens Airplane Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_rg",
+            "x": 484,
+            "y": 1167
+          }
+        ]
+      },
+      {
+        "name": "Central Square",
+        "sections": [
+          {
+            "name": "Flying Balloon Sticker",
+            "ref": "Terra Overview/Radiant Garden/Central Square Flying Balloon Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_rg",
+            "x": 486,
+            "y": 671
+          }
+        ]
+      },
+      {
+        "name": "Fountain Court",
+        "sections": [
+          {
+            "name": "Dale Sticker",
+            "ref": "Terra Overview/Radiant Garden/Fountain Court Dale Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_rg",
+            "x": 653,
+            "y": 88
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Terra Radiant Garden Events",
+    "children": [
+      {
+        "name": "Defeat Trinity Armor",
+        "sections": [
+          {
+            "name": "Max HP Increase",
+            "ref": "Terra Overview/Radiant Garden/Defeat Trinity Armor Max HP Increase"
+          },
+          {
+            "name": "Rockbreaker",
+            "ref": "Terra Overview/Radiant Garden/Defeat Trinity Armor Rockbreaker"
+          },
+          {
+            "name": "Disney Town Pass",
+            "ref": "Terra Overview/Radiant Garden/Defeat Trinity Armor Disney Town Pass"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_rg",
+            "x": 141,
+            "y": 358
+          }
+        ]
+      },
+      {
+        "name": "Defeat Braig",
+        "sections": [
+          {
+            "name": "Deck Capacity Increase",
+            "ref": "Terra Overview/Radiant Garden/Defeat Braig Deck Capacity Increase"
+          },
+          {
+            "name": "World Cleared Dark Volley",
+            "ref": "Terra Overview/Radiant Garden/World Cleared Dark Volley"
+          },
+          {
+            "name": "World Cleared Xehanort's Report 2",
+            "ref": "Terra Overview/Radiant Garden/World Cleared Xehanort's Report 2"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_rg",
+            "x": 346,
+            "y": 1348
+          }
+        ]
+      }
+    ]
+  }
+]

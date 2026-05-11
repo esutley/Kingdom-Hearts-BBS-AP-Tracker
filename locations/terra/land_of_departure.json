@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Terra Land of Departure Chests",
+    "children": [
+      {
+        "name": "Mountain Path",
+        "sections": [
+          {
+            "name": "Pulsing Crystal Chest",
+            "ref": "Terra Overview/Land of Departure/Mountain Path Pulsing Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_lod",
+            "x": 162,
+            "y": 357
+          }
+        ]
+      },
+      {
+        "name": "Mountain Path",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Terra Overview/Land of Departure/Mountain Path Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_lod",
+            "x": 147,
+            "y": 353
+          }
+        ]
+      },
+      {
+        "name": "Mountain Path",
+        "sections": [
+          {
+            "name": "Stop Chest",
+            "ref": "Terra Overview/Land of Departure/Mountain Path Stop Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_lod",
+            "x": 207,
+            "y": 396
+          }
+        ]
+      },
+      {
+        "name": "Summit",
+        "sections": [
+          {
+            "name": "Soothing Crystal Chest",
+            "ref": "Terra Overview/Land of Departure/Summit Soothing Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_lod",
+            "x": 22,
+            "y": 253
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Terra Land of Departure Events",
+    "children": [
+      {
+        "name": "Intro",
+        "sections": [
+          {
+            "name": "Max HP Increase",
+            "ref": "Terra Overview/Land of Departure/Defeat Orbs Max HP Increase"
+          },
+          {
+            "name": "Critical Impact",
+            "ref": "Terra Overview/Land of Departure/Defeat Orbs Critical Impact"
+          },
+          {
+            "name": "Ventus D-Link",
+            "ref": "Terra Overview/Land of Departure/World Cleared Ventus D-Link"
+          },
+          {
+            "name": "Aqua D-Link",
+            "ref": "Terra Overview/Land of Departure/World Cleared Aqua D-Link"
+          },
+          {
+            "name": "Keyblade Board",
+            "ref": "Terra Overview/Land of Departure/World Cleared Keyblade Board"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_lod",
+            "x": 22,
+            "y": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Terra Land of Departure Defeat Eraqus",
+    "children": [
+      {
+        "name": "Eraqus - Defeat Eraqus",
+        "sections": [
+          {
+            "name": "Max HP Increase",
+            "ref": "Terra Overview/Land of Departure - Eraqus/Defeat Eraqus Max HP Increase"
+          },
+          {
+            "name": "Chaos Ripper",
+            "ref": "Terra Overview/Land of Departure - Eraqus/Defeat Eraqus Chaos Ripper"
+          },
+          {
+            "name": "Xehanort's Report 8",
+            "ref": "Terra Overview/Land of Departure - Eraqus/Defeat Eraqus Xehanort's Report 8"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_lod",
+            "x": 22,
+            "y": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Terra Land of Departure Defeat Unknown",
+    "children": [
+      {
+        "name": "??? - Defeat Unknown",
+        "sections": [
+          {
+            "name": "No Name",
+            "ref": "Terra Overview/Land of Departure - Unknown/Defeat Unknown No Name"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_lod",
+            "x": 22,
+            "y": 70
+          }
+        ]
+      }
+    ]
+  }
+]

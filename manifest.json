@@ -1,0 +1,19 @@
+{
+  "name": "Kingdom Hearts BBS AP Tracker",
+  "game_name": "Kingdom Hearts Birth By Sleep",
+  "package_version": "1.0.0",
+  "package_uid": "KHBBS_Goblin",
+  "platform": "PC",
+  "author": "esutley",
+  "min_poptracker_version": "0.25.9",
+  "target_poptracker_version": "0.35.1",
+  "variants": {
+    "standard": {
+      "display_name": "Map Tracker",
+      "flags": [
+        "ap"
+      ]
+    }
+  },
+  "versions_url": "https://raw.githubusercontent.com/esutley/Kingdom-Hearts-BBS-AP-Tracker/refs/heads/versions/versions.json"
+}

@@ -1,0 +1,146 @@
+{
+  "tv_worlds": {
+    "type": "itemgrid",
+    "item_margin": "5,5",
+    "item_size": "50,50",
+    "rows": [
+      ["dwarf_woodlands", "castle_of_dreams", "enchanted_dominion"],
+      ["mysterious_tower", "radiant_garden", "olympus_coliseum"],
+      ["disney_town", "deep_space", "never_land"],
+      ["mirage_arena"]
+    ]
+  },
+  "a_worlds": {
+    "type": "itemgrid",
+    "item_margin": "5,5",
+    "item_size": "50,50",
+    "rows": [
+      ["dwarf_woodlands", "castle_of_dreams", "enchanted_dominion"],
+      ["mysterious_tower", "radiant_garden", "olympus_coliseum"],
+      ["disney_town", "deep_space", "never_land"],
+      ["mirage_arena", "realm_of_darkness"]
+    ]
+  },
+  "wayfinders": {
+    "type": "itemgrid",
+    "item_margin": "5,5",
+    "item_size": "50,50",
+    "rows": [
+      ["wayfinder_ventus", "wayfinder_aqua", "wayfinder_terra"]
+    ]
+  },
+  "v_movement": {
+    "type": "itemgrid",
+    "item_margin": "5,5",
+    "item_size": "50,50",
+    "rows": [
+      [
+        "high_jump",
+        "air_slide",
+        "ice_slide"
+      ],
+      [
+        "glide",
+        "superglide",
+        "fire_glide"
+      ]
+    ]
+  },
+  "a_movement": {
+    "type": "itemgrid",
+    "item_margin": "5,5",
+    "item_size": "50,50",
+    "rows": [
+      [
+        "high_jump",
+        "air_slide",
+        "ice_slide"
+      ],
+      [
+        "doubleflight"
+      ]
+    ]
+  },
+  "t_movement": {
+    "type": "itemgrid",
+    "item_margin": "5,5",
+    "item_size": "50,50",
+    "rows": [
+      [
+        "high_jump",
+        "air_slide",
+        "ice_slide"
+      ],
+      [
+        "sonic_impact"
+      ]
+    ]
+  },
+  "movement": {
+    "type": "itemgrid",
+    "item_margin": "5,5",
+    "item_size": "50,50",
+    "rows": [
+      [
+        "high_jump",
+        "air_slide",
+        "ice_slide"
+      ],
+      [
+        "glide",
+        "superglide",
+        "fire_glide"
+      ],
+      [
+        "doubleflight",
+        "sonic_impact"
+      ]
+    ]
+  },
+  "abilities": {
+    "type": "itemgrid",
+    "item_margin": "5,5",
+    "item_size": "50,50",
+    "rows": [
+      [
+        "second_chance",
+        "once_more",
+        "leaf_bracer"
+      ]
+    ]
+  },
+  "v_misc": {
+    "type": "itemgrid",
+    "item_margin": "5,5",
+    "item_size": "50,50",
+    "rows": [
+      [
+        "thunder",
+        "command_board"
+      ]
+    ]
+  },
+  "a_misc": {
+    "type": "itemgrid",
+    "item_margin": "5,5",
+    "item_size": "50,50",
+    "rows": [
+      [
+        "fire",
+        "command_board"
+      ]
+    ]
+  },
+  "t_misc": {
+    "type": "itemgrid",
+    "item_margin": "5,5",
+    "item_size": "50,50",
+    "rows": [
+      [
+        "fire",
+        "thunder",
+        "command_board"
+      ]
+    ]
+  }
+}

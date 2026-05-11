@@ -1,0 +1,216 @@
+[
+    {
+        "name": "Character",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "stages": [
+            {
+                "img": "/images/items/wayfinderventus.png",
+                "codes": "opt_character, opt_character_ventus",
+                "inherit_codes": false,
+                "name": "Ventus"
+            },
+            {
+                "img": "/images/items/wayfinderaqua.png",
+                "codes": "opt_character, opt_character_aqua",
+                "inherit_codes": false,
+                "name": "Aqua"
+            },
+            {
+                "img": "/images/items/wayfinderterra.png",
+                "codes": "opt_character, opt_character_terra",
+                "inherit_codes": false,
+                "name": "Terra"
+            }
+        ]
+    },
+    {
+        "name": "Minigames",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "stages": [
+            {
+                "img": "/images/worlds/Disney Town.png",
+                "img_mods": "@disabled",
+                "codes": "opt_minigames, opt_minigames_off",
+                "inherit_codes": false,
+                "name": "Minigames Off"
+            },
+            {
+                "img": "/images/worlds/Disney Town.png",
+                "codes": "opt_minigames, opt_minigames_on",
+                "inherit_codes": false,
+                "name": "Minigames On"
+            }
+        ]
+    },
+    {
+        "name": "Mirage Arena",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "stages": [
+            {
+                "img": "/images/worlds/Mirage Arena.png",
+                "img_mods": "@disabled",
+                "codes": "opt_mirage_arena, opt_mirage_arena_off",
+                "inherit_codes": false,
+                "name": "Mirage Arena Off"
+            },
+            {
+                "img": "/images/worlds/Mirage Arena.png",
+                "codes": "opt_mirage_arena, opt_mirage_arena_on",
+                "inherit_codes": false,
+                "name": "Mirage Arena On"
+            }
+        ]
+    },
+    {
+        "name": "Command Board",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "stages": [
+            {
+                "img": "/images/settings/commandboard.png",
+                "img_mods": "@disabled",
+                "codes": "opt_command_board, opt_command_board_off",
+                "inherit_codes": false,
+                "name": "Command Board Off"
+            },
+            {
+                "img": "/images/settings/commandboard.png",
+                "codes": "opt_command_board, opt_command_board_on",
+                "inherit_codes": false,
+                "name": "Command Board On"
+            }
+        ]
+    },
+    {
+        "name": "Arena Medals",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "stages": [
+            {
+                "img": "/images/worlds/Mirage Arena.png",
+                "img_mods": "@disabled",
+                "codes": "opt_arena_medals, opt_arena_medals_off",
+                "inherit_codes": false,
+                "name": "Arena Medals Off"
+            },
+            {
+                "img": "/images/worlds/Mirage Arena.png",
+                "codes": "opt_arena_medals, opt_arena_medals_on",
+                "inherit_codes": false,
+                "name": "Arena Medals On"
+            }
+        ]
+    },
+    {
+        "name": "Arena Global Locations",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "stages": [
+            {
+                "img": "/images/worlds/Mirage Arena.png",
+                "img_mods": "@disabled",
+                "codes": "opt_arena_global, opt_arena_global_off",
+                "inherit_codes": false,
+                "name": "Arena Global Locations Off"
+            },
+            {
+                "img": "/images/worlds/Mirage Arena.png",
+                "codes": "opt_arena_global, opt_arena_global_on",
+                "inherit_codes": false,
+                "name": "Arena Global Locations On"
+            }
+        ]
+    },
+    {
+        "name": "Superbosses",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "stages": [
+            {
+                "img": "/images/settings/superbosses.png",
+                "img_mods": "@disabled",
+                "codes": "opt_superbosses, opt_superbosses_off",
+                "inherit_codes": false,
+                "name": "Superbosses Off"
+            },
+            {
+                "img": "/images/settings/superbosses.png",
+                "codes": "opt_superbosses, opt_superbosses_on",
+                "inherit_codes": false,
+                "name": "Superbosses On"
+            }
+        ]
+    },
+    {
+        "name": "Advanced Logic",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "stages": [
+            {
+                "img": "/images/settings/advancedlogic.png",
+                "img_mods": "@disabled",
+                "codes": "opt_advanced_logic, opt_advanced_logic_off",
+                "inherit_codes": false,
+                "name": "Advanced Logic Off"
+            },
+            {
+                "img": "/images/settings/advancedlogic.png",
+                "codes": "opt_advanced_logic, opt_advanced_logic_on",
+                "inherit_codes": false,
+                "name": "Advanced Logic On"
+            }
+        ]
+    },
+    {
+        "name": "Realm of Darkness",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "stages": [
+            {
+                "img": "/images/worlds/Realm of Darkness.png",
+                "img_mods": "@disabled",
+                "codes": "opt_realm, opt_realm_off",
+                "inherit_codes": false,
+                "name": "Realm of Darkness Off"
+            },
+            {
+                "img": "/images/worlds/Realm of Darkness.png",
+                "codes": "opt_realm, opt_realm_on",
+                "inherit_codes": false,
+                "name": "Realm of Darkness On"
+            }
+        ]
+    },
+    {
+        "name": "Final Terra-Xehanort II",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "stages": [
+            {
+                "img": "/images/settings/ventusvanitas.png",
+                "codes": "opt_final_terranort, opt_final_terranort_off",
+                "inherit_codes": false,
+                "name": "Final Terra-Xehanort II Off"
+            },
+            {
+                "img": "/images/settings/terranort.png",
+                "codes": "opt_final_terranort, opt_final_terranort_on",
+                "inherit_codes": false,
+                "name": "Final Terra-Xehanort II On"
+            }
+        ]
+    }
+]

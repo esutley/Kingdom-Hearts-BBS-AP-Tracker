@@ -1,0 +1,285 @@
+[
+  {
+    "name": "Ventus Castle of Dreams Chests",
+    "children": [
+      {
+        "name": "Cinderella's Room",
+        "sections": [
+          {
+            "name": "Map Chest",
+            "ref": "Ventus Overview/Castle of Dreams/Cinderella's Room Map Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_cod",
+            "x": 52,
+            "y": 232
+          }
+        ]
+      },
+      {
+        "name": "Cinderella's Room",
+        "sections": [
+          {
+            "name": "Stun Edge Chest",
+            "ref": "Ventus Overview/Castle of Dreams/Cinderella's Room Stun Edge Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_cod",
+            "x": 45,
+            "y": 187
+          }
+        ]
+      },
+      {
+        "name": "Cinderella's Room",
+        "sections": [
+          {
+            "name": "Magic Recipe Chest",
+            "ref": "Ventus Overview/Castle of Dreams/Cinderella's Room Magic Recipe Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_cod",
+            "x": 90,
+            "y": 224
+          }
+        ]
+      },
+      {
+        "name": "Mousehole",
+        "sections": [
+          {
+            "name": "Potion Chest 1",
+            "ref": "Ventus Overview/Castle of Dreams/Mousehole Potion Chest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_cod",
+            "x": 103,
+            "y": 80
+          }
+        ]
+      },
+      {
+        "name": "Mousehole",
+        "sections": [
+          {
+            "name": "Thunderstorm Chest",
+            "ref": "Ventus Overview/Castle of Dreams/Mousehole Thunderstorm Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_cod",
+            "x": 84,
+            "y": 128
+          }
+        ]
+      },
+      {
+        "name": "Mousehole",
+        "sections": [
+          {
+            "name": "Ether Chest",
+            "ref": "Ventus Overview/Castle of Dreams/Mousehole Ether Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_cod",
+            "x": 128,
+            "y": 136
+          }
+        ]
+      },
+      {
+        "name": "Mousehole",
+        "sections": [
+          {
+            "name": "Pulsing Crystal Chest",
+            "ref": "Ventus Overview/Castle of Dreams/Mousehole Pulsing Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_cod",
+            "x": 248,
+            "y": 80
+          }
+        ]
+      },
+      {
+        "name": "Mousehole",
+        "sections": [
+          {
+            "name": "Potion Chest 2",
+            "ref": "Ventus Overview/Castle of Dreams/Mousehole Potion Chest 2"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_cod",
+            "x": 294,
+            "y": 150
+          }
+        ]
+      },
+      {
+        "name": "Wardrobe Room",
+        "sections": [
+          {
+            "name": "",
+            "ref": "Ventus Overview/Castle of Dreams/Wardrobe Room Zero Gravity Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_cod",
+            "x": 175,
+            "y": 302
+          }
+        ]
+      },
+      {
+        "name": "Wardrobe Room",
+        "sections": [
+          {
+            "name": "",
+            "ref": "Ventus Overview/Castle of Dreams/Wardrobe Room Balloon Letter Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_cod",
+            "x": 280,
+            "y": 303
+          }
+        ]
+      },
+      {
+        "name": "Wardrobe Room",
+        "sections": [
+          {
+            "name": "",
+            "ref": "Ventus Overview/Castle of Dreams/Wardrobe Room Blizzard Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_cod",
+            "x": 286,
+            "y": 490
+          }
+        ]
+      },
+      {
+        "name": "Wardrobe Room",
+        "sections": [
+          {
+            "name": "",
+            "ref": "Ventus Overview/Castle of Dreams/Wardrobe Room Fleeting Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_cod",
+            "x": 194,
+            "y": 303
+          }
+        ]
+      },
+      {
+        "name": "Mousehole",
+        "sections": [
+          {
+            "name": "Hungry Crystal Chest",
+            "ref": "Ventus Overview/Castle of Dreams/Mousehole Hungry Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_cod",
+            "x": 294,
+            "y": 82
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ventus Castle of Dreams Stickers",
+    "children": [
+      {
+        "name": "Cinderella's Room",
+        "sections": [
+          {
+            "name": "Fireworks Sticker",
+            "ref": "Ventus Overview/Castle of Dreams/Cinderella's Room Fireworks Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_cod",
+            "x": 65,
+            "y": 234
+          }
+        ]
+      },
+      {
+        "name": "Mousehole",
+        "sections": [
+          {
+            "name": "Louie Sticker",
+            "ref": "Ventus Overview/Castle of Dreams/Mousehole Louie Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_cod",
+            "x": 244,
+            "y": 98
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ventus Castle of Dreams Events",
+    "children": [
+      {
+        "name": "Defeat Lucifer",
+        "sections": [
+          {
+            "name": "Diamond Dust",
+            "ref": "Ventus Overview/Castle of Dreams/Defeat Lucifer Diamond Dust"
+          },
+          {
+            "name": "Cinderella D-Link",
+            "ref": "Ventus Overview/Castle of Dreams/World Cleared Cinderella D-Link"
+          },
+          {
+            "name": "Stroke of Midnight",
+            "ref": "Ventus Overview/Castle of Dreams/World Cleared Stroke of Midnight"
+          },
+          {
+            "name": "Royal Board",
+            "ref": "Ventus Overview/Castle of Dreams/World Cleared Royal Board"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_cod",
+            "x": 236,
+            "y": 404
+          }
+        ]
+      }
+    ]
+  }
+]

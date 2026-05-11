@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Aqua Realm of Darkness Chests",
+    "children": [
+      {
+        "name": "Middle Zone",
+        "sections": [
+          {
+            "name": "Balloon Letter Chest",
+            "ref": "Aqua Overview/Realm of Darkness/Middle Zone Balloon Letter Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rod",
+            "x": 104,
+            "y": 645
+          }
+        ]
+      },
+      {
+        "name": "Middle Zone",
+        "sections": [
+          {
+            "name": "Zero Graviga Chest",
+            "ref": "Aqua Overview/Realm of Darkness/Middle Zone Zero Graviga Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rod",
+            "x": 188,
+            "y": 602
+          }
+        ]
+      },
+      {
+        "name": "Lower Zone",
+        "sections": [
+          {
+            "name": "Chaos Crystal Chest",
+            "ref": "Aqua Overview/Realm of Darkness/Lower Zone Chaos Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rod",
+            "x": 140,
+            "y": 496
+          }
+        ]
+      },
+      {
+        "name": "Lower Zone",
+        "sections": [
+          {
+            "name": "Blackout Chest",
+            "ref": "Aqua Overview/Realm of Darkness/Lower Zone Blackout Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rod",
+            "x": 220,
+            "y": 460
+          }
+        ]
+      },
+      {
+        "name": "Lower Zone",
+        "sections": [
+          {
+            "name": "Secret Gem Chest",
+            "ref": "Aqua Overview/Realm of Darkness/Lower Zone Secret Gem Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rod",
+            "x": 184,
+            "y": 422
+          }
+        ]
+      },
+      {
+        "name": "Lower Zone",
+        "sections": [
+          {
+            "name": "Transcendence Chest",
+            "ref": "Aqua Overview/Realm of Darkness/Lower Zone Transcendence Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rod",
+            "x": 201,
+            "y": 323
+          }
+        ]
+      },
+      {
+        "name": "Upper Zone",
+        "sections": [
+          {
+            "name": "Triple Firaga Chest",
+            "ref": "Aqua Overview/Realm of Darkness/Upper Zone Triple Firaga Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rod",
+            "x": 212,
+            "y": 76
+          }
+        ]
+      },
+      {
+        "name": "Upper Zone",
+        "sections": [
+          {
+            "name": "Megalixir Chest",
+            "ref": "Aqua Overview/Realm of Darkness/Upper Zone Megalixir Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rod",
+            "x": 38,
+            "y": 104
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Realm of Darkness Events",
+    "children": [
+      {
+        "name": "Enter World",
+        "sections": [
+          {
+            "name": "Map",
+            "ref": "Aqua Overview/Realm of Darkness/Enter World Map"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rod",
+            "x": 216,
+            "y": 748
+          }
+        ]
+      },
+      {
+        "name": "Defeat Dark Hide",
+        "sections": [
+          {
+            "name": "Defeat Dark Hide",
+            "ref": "Aqua Overview/Realm of Darkness/Defeat Dark Hide"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_rod",
+            "x": 138,
+            "y": 22
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+{
+  //sets the layout for the broadcast view
+  "tracker_broadcast": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "layout",
+            "key": "wayfinders"
+          },
+          {
+            "type": "layout",
+            "key": "a_worlds"
+          },
+          {
+            "type": "layout",
+            "key": "movement"
+          },
+          {
+            "type": "layout",
+            "key": "abilities"
+          },
+          {
+            "type": "layout",
+            "key": "misc"
+          }
+        ]
+      }
+    ]
+  }
+}

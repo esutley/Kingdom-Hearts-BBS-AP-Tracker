@@ -1,0 +1,369 @@
+[
+  {
+    "name": "Aqua Never Land Chests",
+    "children": [
+      {
+        "name": "Gully",
+        "sections": [
+          {
+            "name": "Map Chest",
+            "ref": "Aqua Overview/Never Land/Gully Map Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_nl",
+            "x": 325,
+            "y": 283
+          }
+        ]
+      },
+      {
+        "name": "Gully",
+        "sections": [
+          {
+            "name": "Mega-Potion Chest",
+            "ref": "Aqua Overview/Never Land/Gully Mega-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_nl",
+            "x": 363,
+            "y": 287
+          }
+        ]
+      },
+      {
+        "name": "Jungle Clearing",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Aqua Overview/Never Land/Jungle Clearing Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_nl",
+            "x": 603,
+            "y": 210
+          }
+        ]
+      },
+      {
+        "name": "Peter's Hideout",
+        "sections": [
+          {
+            "name": "Mine Shield Chest",
+            "ref": "Aqua Overview/Never Land/Peter's Hideout Mine Shield Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_nl",
+            "x": 515,
+            "y": 56
+          }
+        ]
+      },
+      {
+        "name": "Peter's Hideout",
+        "sections": [
+          {
+            "name": "Elixir Chest",
+            "ref": "Aqua Overview/Never Land/Peter's Hideout Elixir Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_nl",
+            "x": 510,
+            "y": 47
+          }
+        ]
+      },
+      {
+        "name": "Mermaid Lagoon",
+        "sections": [
+          {
+            "name": "Firaga Burst Chest",
+            "ref": "Aqua Overview/Never Land/Mermaid Lagoon Firaga Burst Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_nl",
+            "x": 1034,
+            "y": 440
+          }
+        ]
+      },
+      {
+        "name": "Mermaid Lagoon",
+        "sections": [
+          {
+            "name": "Elixir Chest",
+            "ref": "Aqua Overview/Never Land/Mermaid Lagoon Elixir Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_nl",
+            "x": 1033,
+            "y": 514
+          }
+        ]
+      },
+      {
+        "name": "Sea Coast",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Aqua Overview/Never Land/Sea Coast Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_nl",
+            "x": 714,
+            "y": 888
+          }
+        ]
+      },
+      {
+        "name": "Sea Coast",
+        "sections": [
+          {
+            "name": "Ether Chest",
+            "ref": "Aqua Overview/Never Land/Sea Coast Ether Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_nl",
+            "x": 643,
+            "y": 887
+          }
+        ]
+      },
+      {
+        "name": "Rainbow Falls: Base",
+        "sections": [
+          {
+            "name": "Panacea Chest",
+            "ref": "Aqua Overview/Never Land/Rainbow Falls: Base Panacea Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_nl",
+            "x": 541,
+            "y": 776
+          }
+        ]
+      },
+      {
+        "name": "Rainbow Falls: Base",
+        "sections": [
+          {
+            "name": "Fleeting Crystal Chest",
+            "ref": "Aqua Overview/Never Land/Rainbow Falls: Base Fleeting Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_nl",
+            "x": 483,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Rainbow Falls: Ascent",
+        "sections": [
+          {
+            "name": "Time Splicer Chest",
+            "ref": "Aqua Overview/Never Land/Rainbow Falls: Ascent Time Splicer Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_nl",
+            "x": 290,
+            "y": 589
+          }
+        ]
+      },
+      {
+        "name": "Rainbow Falls: Ascent",
+        "sections": [
+          {
+            "name": "Thundaga Chest",
+            "ref": "Aqua Overview/Never Land/Rainbow Falls: Ascent Thundaga Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_nl",
+            "x": 286,
+            "y": 600
+          }
+        ]
+      },
+      {
+        "name": "Rainbow Falls: Ascent",
+        "sections": [
+          {
+            "name": "Chaos Crystal Chest",
+            "ref": "Aqua Overview/Never Land/Rainbow Falls: Ascent Chaos Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_nl",
+            "x": 297,
+            "y": 599
+          }
+        ]
+      },
+      {
+        "name": "Rainbow Falls: Ascent",
+        "sections": [
+          {
+            "name": "Firaga Chest",
+            "ref": "Aqua Overview/Never Land/Rainbow Falls: Ascent Firaga Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_nl",
+            "x": 378,
+            "y": 573
+          }
+        ]
+      },
+      {
+        "name": "Rainbow Falls: Crest",
+        "sections": [
+          {
+            "name": "Mega-Ether Chest",
+            "ref": "Aqua Overview/Never Land/Rainbow Falls: Crest Mega-Ether Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_nl",
+            "x": 226,
+            "y": 456
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Never Land Stickers",
+    "children": [
+      {
+        "name": "Jungle Clearing",
+        "sections": [
+          {
+            "name": "Fireworks Sticker",
+            "ref": "Aqua Overview/Never Land/Jungle Clearing Fireworks Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_nl",
+            "x": 585,
+            "y": 205
+          }
+        ]
+      },
+      {
+        "name": "Mermaid Lagoon",
+        "sections": [
+          {
+            "name": "Rainbow Sticker",
+            "ref": "Aqua Overview/Never Land/Mermaid Lagoon Rainbow Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_nl",
+            "x": 1006,
+            "y": 559
+          }
+        ]
+      },
+      {
+        "name": "Rainbow Falls: Ascent",
+        "sections": [
+          {
+            "name": "Chip Sticker",
+            "ref": "Aqua Overview/Never Land/Rainbow Falls: Ascent Chip Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_nl",
+            "x": 300,
+            "y": 587
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Never Land Events",
+    "children": [
+      {
+        "name": "Follow Map",
+        "sections": [
+          {
+            "name": "Doubleflight",
+            "ref": "Aqua Overview/Never Land/Follow Map Doubleflight"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_nl",
+            "x": 260,
+            "y": 435
+          }
+        ]
+      },
+      {
+        "name": "Defeat Vanitas",
+        "sections": [
+          {
+            "name": "",
+            "ref": "Aqua Overview/Never Land/Defeat Vanitas Max HP Increase"
+          },
+          {
+            "name": "",
+            "ref": "Aqua Overview/Never Land/Defeat Vanitas Ghost Drive"
+          },
+          {
+            "name": "",
+            "ref": "Aqua Overview/Never Land/World Cleared Peter Pan D-Link"
+          },
+          {
+            "name": "",
+            "ref": "Aqua Overview/Never Land/World Cleared Pixie Petal"
+          },
+          {
+            "name": "",
+            "ref": "Aqua Overview/Never Land/World Cleared Skull Board"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_nl",
+            "x": 70,
+            "y": 227
+          }
+        ]
+      }
+    ]
+  }
+]

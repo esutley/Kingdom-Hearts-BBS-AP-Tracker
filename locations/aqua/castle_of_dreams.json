@@ -1,0 +1,241 @@
+[
+  {
+    "name": "Aqua Castle of Dreams Chests",
+    "children": [
+      {
+        "name": "Foyer",
+        "sections": [
+          {
+            "name": "Fleeting Crystal Chest",
+            "ref": "Aqua Overview/Castle of Dreams/Foyer Fleeting Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_cod",
+            "x": 64,
+            "y": 67
+          }
+        ]
+      },
+      {
+        "name": "Foyer",
+        "sections": [
+          {
+            "name": "Barrier Surge Chest",
+            "ref": "Aqua Overview/Castle of Dreams/Foyer Barrier Surge Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_cod",
+            "x": 112,
+            "y": 63
+          }
+        ]
+      },
+      {
+        "name": "Foyer",
+        "sections": [
+          {
+            "name": "Potion Chest",
+            "ref": "Aqua Overview/Castle of Dreams/Foyer Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_cod",
+            "x": 65,
+            "y": 34
+          }
+        ]
+      },
+      {
+        "name": "Foyer",
+        "sections": [
+          {
+            "name": "Thunderstorm Chest",
+            "ref": "Aqua Overview/Castle of Dreams/Foyer Thunderstorm Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_cod",
+            "x": 138,
+            "y": 58
+          }
+        ]
+      },
+      {
+        "name": "Palace Courtyard",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Aqua Overview/Castle of Dreams/Palace Courtyard Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_cod",
+            "x": 85,
+            "y": 324
+          }
+        ]
+      },
+      {
+        "name": "Palace Courtyard",
+        "sections": [
+          {
+            "name": "Slow Chest",
+            "ref": "Aqua Overview/Castle of Dreams/Palace Courtyard Slow Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_cod",
+            "x": 33,
+            "y": 358
+          }
+        ]
+      },
+      {
+        "name": "Palace Courtyard",
+        "sections": [
+          {
+            "name": "Potion Chest",
+            "ref": "Aqua Overview/Castle of Dreams/Palace Courtyard Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_cod",
+            "x": 167,
+            "y": 472
+          }
+        ]
+      },
+      {
+        "name": "Chateau",
+        "sections": [
+          {
+            "name": "Magic Recipe Chest",
+            "ref": "Aqua Overview/Castle of Dreams/Chateau Magic Recipe Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_cod",
+            "x": 315,
+            "y": 650
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Castle of Dreams Stickers",
+    "children": [
+      {
+        "name": "Foyer",
+        "sections": [
+          {
+            "name": "Fireworks Sticker",
+            "ref": "Aqua Overview/Castle of Dreams/Foyer Fireworks Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_cod",
+            "x": 102,
+            "y": 43
+          }
+        ]
+      },
+      {
+        "name": "Palace Courtyard",
+        "sections": [
+          {
+            "name": "Bubble Sticker",
+            "ref": "Aqua Overview/Castle of Dreams/Palace Courtyard Bubble Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_cod",
+            "x": 34,
+            "y": 411
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Castle of Dreams Events",
+    "children": [
+      {
+        "name": "Ballroom",
+        "sections": [
+          {
+            "name": "Map",
+            "ref": "Aqua Overview/Castle of Dreams/Ballroom Scene Map"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_cod",
+            "x": 102,
+            "y": 23
+          }
+        ]
+      },
+      {
+        "name": "Escort Jaq",
+        "sections": [
+          {
+            "name": "Thunderbolt",
+            "ref": "Aqua Overview/Castle of Dreams/Escort Jaq Thunderbolt"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_cod",
+            "x": 255,
+            "y": 670
+          }
+        ]
+      },
+      {
+        "name": "Defeat Cursed Coach",
+        "sections": [
+          {
+            "name": "Max HP Increase",
+            "ref": "Aqua Overview/Castle of Dreams/Defeat Cursed Coach Max HP Increase"
+          },
+          {
+            "name": "Deck Capacity Increase",
+            "ref": "Aqua Overview/Castle of Dreams/Defeat Cursed Coach Deck Capacity Increase"
+          },
+          {
+            "name": "Cinderella D-Link",
+            "ref": "Aqua Overview/Castle of Dreams/World Cleared Cinderella D-Link"
+          },
+          {
+            "name": "Stroke of Midnight",
+            "ref": "Aqua Overview/Castle of Dreams/World Cleared Stroke of Midnight"
+          },
+          {
+            "name": "Royal Board",
+            "ref": "Aqua Overview/Castle of Dreams/World Cleared Royal Board"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_cod",
+            "x": 130,
+            "y": 547
+          }
+        ]
+      }
+    ]
+  }
+]

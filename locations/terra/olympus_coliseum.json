@@ -1,0 +1,129 @@
+[
+  {
+    "name": "Terra Olympus Coliseum Chests",
+    "children": [
+      {
+        "name": "Coliseum Gates",
+        "sections": [
+          {
+            "name": "Fire Strike Chest",
+            "ref": "Terra Overview/Olympus Coliseum/Coliseum Gates Fire Strike Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_oc",
+            "x": 104,
+            "y": 156
+          }
+        ]
+      },
+      {
+        "name": "Coliseum Gates",
+        "sections": [
+          {
+            "name": "Mega Attack Recipe Chest",
+            "ref": "Terra Overview/Olympus Coliseum/Coliseum Gates Mega Attack Recipe Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_oc",
+            "x": 50,
+            "y": 157
+          }
+        ]
+      },
+      {
+        "name": "Coliseum Gates",
+        "sections": [
+          {
+            "name": "Mega-Potion Chest",
+            "ref": "Terra Overview/Olympus Coliseum/Coliseum Gates Mega-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_oc",
+            "x": 21,
+            "y": 226
+          }
+        ]
+      },
+      {
+        "name": "Vestibule",
+        "sections": [
+          {
+            "name": "Map Chest",
+            "ref": "Terra Overview/Olympus Coliseum/Vestibule Map Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_oc",
+            "x": 98,
+            "y": 59
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Terra Olympus Coliseum Stickers",
+    "children": [
+      {
+        "name": "Coliseum Gates",
+        "sections": [
+          {
+            "name": "Balloon Sticker",
+            "ref": "Terra Overview/Olympus Coliseum/Coliseum Gates Balloon Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_oc",
+            "x": 75,
+            "y": 157
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Terra Olympus Coliseum Events",
+    "children": [
+      {
+        "name": "Tournament",
+        "sections": [
+          {
+            "name": "Tournament Complete Max HP Increase",
+            "ref": "Terra Overview/Olympus Coliseum/Tournament Complete Max HP Increase"
+          },
+          {
+            "name": "Tournament Complete Sonic Impact",
+            "ref": "Terra Overview/Olympus Coliseum/Tournament Complete Sonic Impact"
+          },
+          {
+            "name": "Defeat Zack 2 Deck Capacity Increase",
+            "ref": "Terra Overview/Olympus Coliseum/Defeat Zack 2 Deck Capacity Increase"
+          },
+          {
+            "name": "World Cleared Zack D-Link",
+            "ref": "Terra Overview/Olympus Coliseum/World Cleared Zack D-Link"
+          },
+          {
+            "name": "World Cleared Mark of a Hero",
+            "ref": "Terra Overview/Olympus Coliseum/World Cleared Mark of a Hero"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_oc",
+            "x": 85,
+            "y": 30
+          }
+        ]
+      }
+    ]
+  }
+]

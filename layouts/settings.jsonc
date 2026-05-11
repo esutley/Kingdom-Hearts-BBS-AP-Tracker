@@ -1,0 +1,43 @@
+{
+    "settings_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2,2",
+                        "h_alignment": "center",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "opt_minigames",
+                                "opt_superbosses",
+                                "opt_advanced_logic"
+                            ],
+                            [
+                                "opt_mirage_arena",
+                                "opt_command_board",
+                                "opt_arena_medals",
+                                "opt_arena_global"
+                            ],
+                            [
+                                "opt_character",
+                                "opt_realm",
+                                "opt_final_terranort"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

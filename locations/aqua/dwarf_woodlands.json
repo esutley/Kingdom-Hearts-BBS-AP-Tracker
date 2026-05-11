@@ -1,0 +1,361 @@
+[
+  {
+    "name": "Aqua Dwarf Woodlands Chests",
+    "children": [
+      {
+        "name": "Cottage Clearing",
+        "sections": [
+          {
+            "name": "Payback Surge Chest",
+            "ref": "Aqua Overview/Dwarf Woodlands/Cottage Clearing Payback Surge Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dw",
+            "x": 413,
+            "y": 801
+          }
+        ]
+      },
+      {
+        "name": "Cottage Clearing",
+        "sections": [
+          {
+            "name": "Poison Chest",
+            "ref": "Aqua Overview/Dwarf Woodlands/Cottage Clearing Poison Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dw",
+            "x": 348,
+            "y": 743
+          }
+        ]
+      },
+      {
+        "name": "Cottage",
+        "sections": [
+          {
+            "name": "Attack Recipe Chest",
+            "ref": "Aqua Overview/Dwarf Woodlands/Cottage Attack Recipe Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dw",
+            "x": 340,
+            "y": 965
+          }
+        ]
+      },
+      {
+        "name": "Deep Woods",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Aqua Overview/Dwarf Woodlands/Deep Woods Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dw",
+            "x": 406,
+            "y": 588
+          }
+        ]
+      },
+      {
+        "name": "Deep Woods",
+        "sections": [
+          {
+            "name": "Ether Chest",
+            "ref": "Aqua Overview/Dwarf Woodlands/Deep Woods Ether Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dw",
+            "x": 413,
+            "y": 645
+          }
+        ]
+      },
+      {
+        "name": "Deep Woods",
+        "sections": [
+          {
+            "name": "Potion Chest",
+            "ref": "Aqua Overview/Dwarf Woodlands/Deep Woods Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dw",
+            "x": 399,
+            "y": 652
+          }
+        ]
+      },
+      {
+        "name": "Flower Glade",
+        "sections": [
+          {
+            "name": "Hungry Crystal Chest",
+            "ref": "Aqua Overview/Dwarf Woodlands/Flower Glade Hungry Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dw",
+            "x": 440,
+            "y": 524
+          }
+        ]
+      },
+      {
+        "name": "Courtyard",
+        "sections": [
+          {
+            "name": "Fission Firaga Chest",
+            "ref": "Aqua Overview/Dwarf Woodlands/Courtyard Fission Firaga Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dw",
+            "x": 357,
+            "y": 379
+          }
+        ]
+      },
+      {
+        "name": "Courtyard",
+        "sections": [
+          {
+            "name": "Potion Chest",
+            "ref": "Aqua Overview/Dwarf Woodlands/Courtyard Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dw",
+            "x": 438,
+            "y": 333
+          }
+        ]
+      },
+      {
+        "name": "Courtyard",
+        "sections": [
+          {
+            "name": "Map Chest",
+            "ref": "Aqua Overview/Dwarf Woodlands/Courtyard Map Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dw",
+            "x": 396,
+            "y": 379
+          }
+        ]
+      },
+      {
+        "name": "Courtyard",
+        "sections": [
+          {
+            "name": "Fleeting Crystal Chest",
+            "ref": "Aqua Overview/Dwarf Woodlands/Courtyard Fleeting Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dw",
+            "x": 394,
+            "y": 366
+          }
+        ]
+      },
+      {
+        "name": "Underground Waterway",
+        "sections": [
+          {
+            "name": "Shimmering Crystal Chest",
+            "ref": "Aqua Overview/Dwarf Woodlands/Underground Waterway Shimmering Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dw",
+            "x": 426,
+            "y": 22
+          }
+        ]
+      },
+      {
+        "name": "Underground Waterway",
+        "sections": [
+          {
+            "name": "Fleeting Crystal Chest",
+            "ref": "Aqua Overview/Dwarf Woodlands/Underground Waterway Fleeting Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dw",
+            "x": 486,
+            "y": 169
+          }
+        ]
+      },
+      {
+        "name": "Underground Waterway",
+        "sections": [
+          {
+            "name": "Fire Chest",
+            "ref": "Aqua Overview/Dwarf Woodlands/Underground Waterway Fire Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dw",
+            "x": 510,
+            "y": 240
+          }
+        ]
+      },
+      {
+        "name": "Vault",
+        "sections": [
+          {
+            "name": "Balloon Letter Chest",
+            "ref": "Aqua Overview/Dwarf Woodlands/Vault Balloon Letter Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dw",
+            "x": 227,
+            "y": 127
+          }
+        ]
+      },
+      {
+        "name": "Vault",
+        "sections": [
+          {
+            "name": "Potion Chest",
+            "ref": "Aqua Overview/Dwarf Woodlands/Vault Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dw",
+            "x": 185,
+            "y": 104
+          }
+        ]
+      },
+      {
+        "name": "Vault",
+        "sections": [
+          {
+            "name": "Shimmering Crystal Chest",
+            "ref": "Aqua Overview/Dwarf Woodlands/Vault Shimmering Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dw",
+            "x": 200,
+            "y": 213
+          }
+        ]
+      },
+      {
+        "name": "Vault",
+        "sections": [
+          {
+            "name": "Magnet Chest",
+            "ref": "Aqua Overview/Dwarf Woodlands/Vault Magnet Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dw",
+            "x": 201,
+            "y": 118
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Dwarf Woodlands Stickers",
+    "children": [
+      {
+        "name": "Courtyard",
+        "sections": [
+          {
+            "name": "Picnic Basket Sticker",
+            "ref": "Aqua Overview/Dwarf Woodlands/Courtyard Picnic Basket Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dw",
+            "x": 371,
+            "y": 386
+          }
+        ]
+      },
+      {
+        "name": "Vault",
+        "sections": [
+          {
+            "name": "Bubble Sticker",
+            "ref": "Aqua Overview/Dwarf Woodlands/Vault Bubble Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dw",
+            "x": 153,
+            "y": 134
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Dwarf Woodlands Events",
+    "children": [
+      {
+        "name": "Defeat Spirit of the Magic Mirror",
+        "sections": [
+          {
+            "name": "Deck Capacity Increase",
+            "ref": "Aqua Overview/Dwarf Woodlands/Defeat Spirit of the Magic Mirror Deck Capacity Increase"
+          },
+          {
+            "name": "Snow White D-Link",
+            "ref": "Aqua Overview/Dwarf Woodlands/World Cleared Snow White D-Link"
+          },
+          {
+            "name": "Treasure Trove",
+            "ref": "Aqua Overview/Dwarf Woodlands/World Cleared Treasure Trove"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dw",
+            "x": 44,
+            "y": 130
+          }
+        ]
+      }
+    ]
+  }
+]

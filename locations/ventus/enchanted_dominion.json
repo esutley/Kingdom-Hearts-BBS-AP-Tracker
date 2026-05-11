@@ -1,0 +1,377 @@
+[
+  {
+    "name": "Ventus Enchanted Dominion Chests",
+    "children": [
+      {
+        "name": "Tower Room",
+        "sections": [
+          {
+            "name": "Sleep Chest",
+            "ref": "Ventus Overview/Enchanted Dominion/Tower Room Sleep Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ed",
+            "x": 403,
+            "y": 71
+          }
+        ]
+      },
+      {
+        "name": "Hallway",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Ventus Overview/Enchanted Dominion/Hallway Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ed",
+            "x": 274,
+            "y": 149
+          }
+        ]
+      },
+      {
+        "name": "Audience Chamber",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Ventus Overview/Enchanted Dominion/Audience Chamber Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ed",
+            "x": 165,
+            "y": 174
+          }
+        ]
+      },
+      {
+        "name": "Audience Chamber",
+        "sections": [
+          {
+            "name": "Thunder Chest",
+            "ref": "Ventus Overview/Enchanted Dominion/Audience Chamber Thunder Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ed",
+            "x": 100,
+            "y": 22
+          }
+        ]
+      },
+      {
+        "name": "Forest Clearing",
+        "sections": [
+          {
+            "name": "Map Chest",
+            "ref": "Ventus Overview/Enchanted Dominion/Forest Clearing Map Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ed",
+            "x": 89,
+            "y": 450
+          }
+        ]
+      },
+      {
+        "name": "Waterside",
+        "sections": [
+          {
+            "name": "Potion Chest",
+            "ref": "Ventus Overview/Enchanted Dominion/Waterside Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ed",
+            "x": 79,
+            "y": 589
+          }
+        ]
+      },
+      {
+        "name": "Forbidden Mountain",
+        "sections": [
+          {
+            "name": "Ether Chest",
+            "ref": "Ventus Overview/Enchanted Dominion/Forbidden Mountain Ether Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ed",
+            "x": 136,
+            "y": 783
+          }
+        ]
+      },
+      {
+        "name": "Gates",
+        "sections": [
+          {
+            "name": "Balloon Letter Chest",
+            "ref": "Ventus Overview/Enchanted Dominion/Gates Balloon Letter Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ed",
+            "x": 371,
+            "y": 349
+          }
+        ]
+      },
+      {
+        "name": "Gates",
+        "sections": [
+          {
+            "name": "Soothing Crystal Chest",
+            "ref": "Ventus Overview/Enchanted Dominion/Gates Soothing Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ed",
+            "x": 386,
+            "y": 228
+          }
+        ]
+      },
+      {
+        "name": "Gates",
+        "sections": [
+          {
+            "name": "Cure Chest",
+            "ref": "Ventus Overview/Enchanted Dominion/Gates Cure Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ed",
+            "x": 463,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "Gates",
+        "sections": [
+          {
+            "name": "Wellspring Crystal Chest",
+            "ref": "Ventus Overview/Enchanted Dominion/Gates Wellspring Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ed",
+            "x": 371,
+            "y": 372
+          }
+        ]
+      },
+      {
+        "name": "Gates",
+        "sections": [
+          {
+            "name": "Absolute Zero Chest",
+            "ref": "Ventus Overview/Enchanted Dominion/Gates Absolute Zero Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ed",
+            "x": 328,
+            "y": 250
+          }
+        ]
+      },
+      {
+        "name": "Hall",
+        "sections": [
+          {
+            "name": "Wellspring Crystal Chest",
+            "ref": "Ventus Overview/Enchanted Dominion/Hall Wellspring Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ed",
+            "x": 382,
+            "y": 571
+          }
+        ]
+      },
+      {
+        "name": "Hall",
+        "sections": [
+          {
+            "name": "Hungry Crystal Chest",
+            "ref": "Ventus Overview/Enchanted Dominion/Hall Hungry Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ed",
+            "x": 406,
+            "y": 588
+          }
+        ]
+      },
+      {
+        "name": "Hall",
+        "sections": [
+          {
+            "name": "Magnet Chest",
+            "ref": "Ventus Overview/Enchanted Dominion/Hall Magnet Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ed",
+            "x": 454,
+            "y": 685
+          }
+        ]
+      },
+      {
+        "name": "Hall",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Ventus Overview/Enchanted Dominion/Hall Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ed",
+            "x": 370,
+            "y": 658
+          }
+        ]
+      },
+      {
+        "name": "Dungeon",
+        "sections": [
+          {
+            "name": "Fleeting Crystal Chest",
+            "ref": "Ventus Overview/Enchanted Dominion/Dungeon Fleeting Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ed",
+            "x": 424,
+            "y": 853
+          }
+        ]
+      },
+      {
+        "name": "Dungeon",
+        "sections": [
+          {
+            "name": "Tornado Strike Chest",
+            "ref": "Ventus Overview/Enchanted Dominion/Dungeon Tornado Strike Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ed",
+            "x": 394,
+            "y": 914
+          }
+        ]
+      },
+      {
+        "name": "Maleficent's Throne",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Ventus Overview/Enchanted Dominion/Maleficent's Throne Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ed",
+            "x": 371,
+            "y": 480
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ventus Enchanted Dominion Stickers",
+    "children": [
+      {
+        "name": "Audience Chamber",
+        "sections": [
+          {
+            "name": "Dewey Sticker",
+            "ref": "Ventus Overview/Enchanted Dominion/Audience Chamber Dewey Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ed",
+            "x": 154,
+            "y": 39
+          }
+        ]
+      },
+      {
+        "name": "Hall",
+        "sections": [
+          {
+            "name": "Confetti Sticker",
+            "ref": "Ventus Overview/Enchanted Dominion/Hall Confetti Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ed",
+            "x": 467,
+            "y": 644
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ventus Enchanted Dominion Events",
+    "children": [
+      {
+        "name": "Defeat Maleficent",
+        "sections": [
+          {
+            "name": "Max HP Increase",
+            "ref": "Ventus Overview/Enchanted Dominion/Defeat Maleficent Max HP Increase"
+          },
+          {
+            "name": "hunderbolt",
+            "ref": "Ventus Overview/Enchanted Dominion/Defeat Maleficent Thunderbolt"
+          },
+          {
+            "name": "Fairy Stars",
+            "ref": "Ventus Overview/Enchanted Dominion/World Cleared Fairy Stars"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ed",
+            "x": 404,
+            "y": 454
+          }
+        ]
+      }
+    ]
+  }
+]

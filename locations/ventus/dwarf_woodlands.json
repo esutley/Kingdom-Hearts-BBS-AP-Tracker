@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Ventus Dwarf Woodlands Chests",
+    "children": [
+      {
+        "name": "Cottage Clearing",
+        "sections": [
+          {
+            "name": "Fire Chest",
+            "ref": "Ventus Overview/Dwarf Woodlands/Cottage Clearing Fire Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dw",
+            "x": 123,
+            "y": 373
+          }
+        ]
+      },
+      {
+        "name": "Cottage Clearing",
+        "sections": [
+          {
+            "name": "Poison Chest",
+            "ref": "Ventus Overview/Dwarf Woodlands/Cottage Clearing Poison Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dw",
+            "x": 56,
+            "y": 315
+          }
+        ]
+      },
+      {
+        "name": "Cottage Clearing",
+        "sections": [
+          {
+            "name": "Map Chest",
+            "ref": "Ventus Overview/Dwarf Woodlands/Cottage Clearing Map Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dw",
+            "x": 85,
+            "y": 385
+          }
+        ]
+      },
+      {
+        "name": "The Cottage",
+        "sections": [
+          {
+            "name": "Attack Recipe Chest",
+            "ref": "Ventus Overview/Dwarf Woodlands/The Cottage Attack Recipe Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dw",
+            "x": 50,
+            "y": 537
+          }
+        ]
+      },
+      {
+        "name": "Flower Glade",
+        "sections": [
+          {
+            "name": "Soothing Crystal Chest",
+            "ref": "Ventus Overview/Dwarf Woodlands/Flower Glade Soothing Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dw",
+            "x": 150,
+            "y": 38
+          }
+        ]
+      },
+      {
+        "name": "Deep Woods",
+        "sections": [
+          {
+            "name": "Shimmering Crystal Chest",
+            "ref": "Ventus Overview/Dwarf Woodlands/Deep Woods Shimmering Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dw",
+            "x": 118,
+            "y": 163
+          }
+        ]
+      },
+      {
+        "name": "Deep Woods",
+        "sections": [
+          {
+            "name": "Potion Chest",
+            "ref": "Ventus Overview/Dwarf Woodlands/Deep Woods Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dw",
+            "x": 120,
+            "y": 217
+          }
+        ]
+      },
+      {
+        "name": "Deep Woods",
+        "sections": [
+          {
+            "name": "Ether Chest",
+            "ref": "Ventus Overview/Dwarf Woodlands/Deep Woods Ether Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dw",
+            "x": 106,
+            "y": 226
+          }
+        ]
+      },
+      {
+        "name": "Mountain Trail",
+        "sections": [
+          {
+            "name": "Potion Chest 1",
+            "ref": "Ventus Overview/Dwarf Woodlands/Mountain Trail Potion Chest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dw",
+            "x": 270,
+            "y": 256
+          }
+        ]
+      },
+      {
+        "name": "Mountain Trail",
+        "sections": [
+          {
+            "name": "Ether Chest",
+            "ref": "Ventus Overview/Dwarf Woodlands/Mountain Trail Ether Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dw",
+            "x": 372,
+            "y": 277
+          }
+        ]
+      },
+      {
+        "name": "Mountain Trail",
+        "sections": [
+          {
+            "name": "Potion Chest 2",
+            "ref": "Ventus Overview/Dwarf Woodlands/Mountain Trail Potion Chest 2"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dw",
+            "x": 372,
+            "y": 315
+          }
+        ]
+      },
+      {
+        "name": "The Mine",
+        "sections": [
+          {
+            "name": "Payback Raid Chest",
+            "ref": "Ventus Overview/Dwarf Woodlands/The Mine Payback Raid Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dw",
+            "x": 574,
+            "y": 449
+          }
+        ]
+      },
+      {
+        "name": "The Mine",
+        "sections": [
+          {
+            "name": "Mini Chest",
+            "ref": "Ventus Overview/Dwarf Woodlands/The Mine Mini Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dw",
+            "x": 525,
+            "y": 473
+          }
+        ]
+      },
+      {
+        "name": "The Mine",
+        "sections": [
+          {
+            "name": "Panacea Chest",
+            "ref": "Ventus Overview/Dwarf Woodlands/The Mine Panacea Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dw",
+            "x": 543,
+            "y": 477
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ventus Dwarf Woodlands Stickers",
+    "children": [
+      {
+        "name": "Cottage Clearing",
+        "sections": [
+          {
+            "name": "Ice Cream Sticker",
+            "ref": "Ventus Overview/Dwarf Woodlands/Cottage Clearing Ice Cream Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dw",
+            "x": 94,
+            "y": 339
+          }
+        ]
+      },
+      {
+        "name": "Mine Entrance",
+        "sections": [
+          {
+            "name": "Balloon Sticker",
+            "ref": "Ventus Overview/Dwarf Woodlands/Mine Entrance Balloon Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dw",
+            "x": 465,
+            "y": 335
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ventus Dwarf Woodlands Events",
+    "children": [
+      {
+        "name": "Escort Snow White",
+        "sections": [
+          {
+            "name": "Max HP Increase",
+            "ref": "Ventus Overview/Dwarf Woodlands/Escort Snow White Max HP Increase"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dw",
+            "x": 131,
+            "y": 204
+          }
+        ]
+      },
+      {
+        "name": "Defeat Mad Treant",
+        "sections": [
+          {
+            "name": "Deck Capacity Increase",
+            "ref": "Ventus Overview/Dwarf Woodlands/Defeat Mad Treant Deck Capacity Increase"
+          },
+          {
+            "name": "Firestorm",
+            "ref": "Ventus Overview/Dwarf Woodlands/Defeat Mad Treant Firestorm"
+          },
+          {
+            "name": "Snow White D-Link",
+            "ref": "Ventus Overview/Dwarf Woodlands/World Cleared Snow White D-Link"
+          },
+          {
+            "name": "Treasure Trove",
+            "ref": "Ventus Overview/Dwarf Woodlands/World Cleared Treasure Trove"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dw",
+            "x": 131,
+            "y": 175
+          }
+        ]
+      }
+    ]
+  }
+]

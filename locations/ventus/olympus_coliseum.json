@@ -1,0 +1,141 @@
+[
+  {
+    "name": "Ventus Olympus Coliseum Chests",
+    "children": [
+      {
+        "name": "Coliseum Gates",
+        "sections": [
+          {
+            "name": "Fire Strike Chest",
+            "ref": "Ventus Overview/Olympus Coliseum/Coliseum Gates Fire Strike Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_oc",
+            "x": 104,
+            "y": 156
+          }
+        ]
+      },
+      {
+        "name": "Coliseum Gates",
+        "sections": [
+          {
+            "name": "Cura Chest",
+            "ref": "Ventus Overview/Olympus Coliseum/Coliseum Gates Cura Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_oc",
+            "x": 50,
+            "y": 157
+          }
+        ]
+      },
+      {
+        "name": "Coliseum Gates",
+        "sections": [
+          {
+            "name": "Mega-Potion Chest",
+            "ref": "Ventus Overview/Olympus Coliseum/Coliseum Gates Mega-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_oc",
+            "x": 21,
+            "y": 225
+          }
+        ]
+      },
+      {
+        "name": "Vestibule",
+        "sections": [
+          {
+            "name": "Map Chest",
+            "ref": "Ventus Overview/Olympus Coliseum/Vestibule Map Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_oc",
+            "x": 98,
+            "y": 51
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ventus Olympus Coliseum Stickers",
+    "children": [
+      {
+        "name": "Coliseum Gates",
+        "sections": [
+          {
+            "name": "Confetti Sticker",
+            "ref": "Ventus Overview/Olympus Coliseum/Coliseum Gates Confetti Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_oc",
+            "x": 36,
+            "y": 226
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ventus Olympus Coliseum Events",
+    "children": [
+      {
+        "name": "Break the Urns",
+        "sections": [
+          {
+            "name": "Max HP Increase",
+            "ref": "Ventus Overview/Olympus Coliseum/Break the Urns 1 Complete Max HP Increase"
+          },
+          {
+            "name": "Deck Capacity Increase",
+            "ref": "Ventus Overview/Olympus Coliseum/Break the Urns 2 Complete Deck Capacity Increase"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_oc",
+            "x": 64,
+            "y": 31
+          }
+        ]
+      },
+      {
+        "name": "Defeat Jellyshade Swarm",
+        "sections": [
+          {
+            "name": "Air Slide",
+            "ref": "Ventus Overview/Olympus Coliseum/Defeat Jellyshade Swarm Air Slide"
+          },
+          {
+            "name": "Zack D-Link",
+            "ref": "Ventus Overview/Olympus Coliseum/World Cleared Zack D-Link"
+          },
+          {
+            "name": "Mark of a Hero",
+            "ref": "Ventus Overview/Olympus Coliseum/World Cleared Mark of a Hero"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_oc",
+            "x": 61,
+            "y": 330
+          }
+        ]
+      }
+    ]
+  }
+]

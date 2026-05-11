@@ -1,0 +1,429 @@
+[
+  {
+    "name": "Terra Never Land Chests",
+    "children": [
+      {
+        "name": "Gully",
+        "sections": [
+          {
+            "name": "Map Chest",
+            "ref": "Terra Overview/Never Land/Gully Map Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_nl",
+            "x": 130,
+            "y": 541
+          }
+        ]
+      },
+      {
+        "name": "Gully",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Terra Overview/Never Land/Gully Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_nl",
+            "x": 166,
+            "y": 538
+          }
+        ]
+      },
+      {
+        "name": "Cove",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Terra Overview/Never Land/Cove Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_nl",
+            "x": 828,
+            "y": 320
+          }
+        ]
+      },
+      {
+        "name": "Cove",
+        "sections": [
+          {
+            "name": "Ether Chest",
+            "ref": "Terra Overview/Never Land/Cove Ether Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_nl",
+            "x": 778,
+            "y": 392
+          }
+        ]
+      },
+      {
+        "name": "Cliff Path",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Terra Overview/Never Land/Cliff Path Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_nl",
+            "x": 822,
+            "y": 562
+          }
+        ]
+      },
+      {
+        "name": "Cliff Path",
+        "sections": [
+          {
+            "name": "Mega-Potion Chest",
+            "ref": "Terra Overview/Never Land/Cliff Path Mega-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_nl",
+            "x": 812,
+            "y": 556
+          }
+        ]
+      },
+      {
+        "name": "Cliff Path",
+        "sections": [
+          {
+            "name": "Firaga Chest",
+            "ref": "Terra Overview/Never Land/Cliff Path Firaga Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_nl",
+            "x": 752,
+            "y": 507
+          }
+        ]
+      },
+      {
+        "name": "Mermaid Lagoon",
+        "sections": [
+          {
+            "name": "Dark Haze Chest",
+            "ref": "Terra Overview/Never Land/Mermaid Lagoon Dark Haze Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_nl",
+            "x": 838,
+            "y": 769
+          }
+        ]
+      },
+      {
+        "name": "Mermaid Lagoon",
+        "sections": [
+          {
+            "name": "Geo Impact Chest",
+            "ref": "Terra Overview/Never Land/Mermaid Lagoon Geo Impact Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_nl",
+            "x": 739,
+            "y": 710
+          }
+        ]
+      },
+      {
+        "name": "Mermaid Lagoon",
+        "sections": [
+          {
+            "name": "Elixir Chest",
+            "ref": "Terra Overview/Never Land/Mermaid Lagoon Elixir Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_nl",
+            "x": 841,
+            "y": 767
+          }
+        ]
+      },
+      {
+        "name": "Jungle Clearing",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Terra Overview/Never Land/Jungle Clearing Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_nl",
+            "x": 403,
+            "y": 460
+          }
+        ]
+      },
+      {
+        "name": "Peter's Hideout",
+        "sections": [
+          {
+            "name": "Mega Magic Recipe Chest",
+            "ref": "Terra Overview/Never Land/Peter's Hideout Mega Magic Recipe Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_nl",
+            "x": 323,
+            "y": 312
+          }
+        ]
+      },
+      {
+        "name": "Peter's Hideout",
+        "sections": [
+          {
+            "name": "Shimmering Crystal Chest",
+            "ref": "Terra Overview/Never Land/Peter's Hideout Shimmering Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_nl",
+            "x": 319,
+            "y": 299
+          }
+        ]
+      },
+      {
+        "name": "Rainbow Falls: Crest",
+        "sections": [
+          {
+            "name": "Abounding Crystal Chest",
+            "ref": "Terra Overview/Never Land/Rainbow Falls: Crest Abounding Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_nl",
+            "x": 34,
+            "y": 714
+          }
+        ]
+      },
+      {
+        "name": "Rainbow Falls: Base",
+        "sections": [
+          {
+            "name": "Megalixir Chest",
+            "ref": "Terra Overview/Never Land/Rainbow Falls: Base Megalixir Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_nl",
+            "x": 346,
+            "y": 1017
+          }
+        ]
+      },
+      {
+        "name": "Rainbow Falls: Base",
+        "sections": [
+          {
+            "name": "Zero Graviga Chest",
+            "ref": "Terra Overview/Never Land/Rainbow Falls: Base Zero Graviga Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_nl",
+            "x": 285,
+            "y": 954
+          }
+        ]
+      },
+      {
+        "name": "Skull Rock: Entrance",
+        "sections": [
+          {
+            "name": "Panacea Chest",
+            "ref": "Terra Overview/Never Land/Skull Rock: Entrance Panacea Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_nl",
+            "x": 511,
+            "y": 156
+          }
+        ]
+      },
+      {
+        "name": "Skull Rock: Cavern",
+        "sections": [
+          {
+            "name": "Megalixir Chest",
+            "ref": "Terra Overview/Never Land/Skull Rock: Cavern Megalixir Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_nl",
+            "x": 523,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Skull Rock: Cavern",
+        "sections": [
+          {
+            "name": "Ars Solum Chest",
+            "ref": "Terra Overview/Never Land/Skull Rock: Cavern Ars Solum Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_nl",
+            "x": 568,
+            "y": 82
+          }
+        ]
+      },
+      {
+        "name": "Skull Rock: Cavern",
+        "sections": [
+          {
+            "name": "Chaos Crystal Chest",
+            "ref": "Terra Overview/Never Land/Skull Rock: Cavern Chaos Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_nl",
+            "x": 561,
+            "y": 89
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Terra Never Land Stickers",
+    "children": [
+      {
+        "name": "Peter's Hideout",
+        "sections": [
+          {
+            "name": "Dewey Sticker",
+            "ref": "Terra Overview/Never Land/Peter's Hideout Dewey Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_nl",
+            "x": 359,
+            "y": 299
+          }
+        ]
+      },
+      {
+        "name": "Rainbow Falls: Base",
+        "sections": [
+          {
+            "name": "Rainbow Sticker",
+            "ref": "Terra Overview/Never Land/Rainbow Falls: Base Rainbow Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_nl",
+            "x": 313,
+            "y": 917
+          }
+        ]
+      },
+      {
+        "name": "Skull Rock: Entrance",
+        "sections": [
+          {
+            "name": "Chip Sticker",
+            "ref": "Terra Overview/Never Land/Skull Rock: Entrance Chip Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_nl",
+            "x": 570,
+            "y": 165
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Terra Never Land Events",
+    "children": [
+      {
+        "name": "Defeat Peter Pan",
+        "sections": [
+          {
+            "name": "Bladecharge",
+            "ref": "Terra Overview/Never Land/Defeat Peter Pan Bladecharge"
+          },
+          {
+            "name": "Peter Pan D-Link",
+            "ref": "Terra Overview/Never Land/Defeat Peter Pan Peter Pan D-Link"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_nl",
+            "x": 544,
+            "y": 42
+          }
+        ]
+      },
+      {
+        "name": "Defeat Jellyshade Swarm",
+        "sections": [
+          {
+            "name": "Deck Capacity Increase",
+            "ref": "Terra Overview/Never Land/Defeat Jellyshade Swarm Deck Capacity Increase"
+          },
+          {
+            "name": "Pixie Petal",
+            "ref": "Terra Overview/Never Land/World Cleared Pixie Petal"
+          },
+          {
+            "name": "Skull Board",
+            "ref": "Terra Overview/Never Land/World Cleared Skull Board"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_nl",
+            "x": 544,
+            "y": 67
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,265 @@
+[
+  {
+    "name": "Terra Enchanted Dominion Chests",
+    "children": [
+      {
+        "name": "Waterside",
+        "sections": [
+          {
+            "name": "Potion Chest",
+            "ref": "Terra Overview/Enchanted Dominion/Waterside Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ed",
+            "x": 74,
+            "y": 533
+          }
+        ]
+      },
+      {
+        "name": "Waterside",
+        "sections": [
+          {
+            "name": "Pulsing Crystal Chest",
+            "ref": "Terra Overview/Enchanted Dominion/Waterside Pulsing Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ed",
+            "x": 84,
+            "y": 588
+          }
+        ]
+      },
+      {
+        "name": "Forest Clearing",
+        "sections": [
+          {
+            "name": "Blizzard Chest",
+            "ref": "Terra Overview/Enchanted Dominion/Forest Clearing Blizzard Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ed",
+            "x": 87,
+            "y": 451
+          }
+        ]
+      },
+      {
+        "name": "Audience Chamber",
+        "sections": [
+          {
+            "name": "Zero Gravity Chest",
+            "ref": "Terra Overview/Enchanted Dominion/Audience Chamber Zero Gravity Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ed",
+            "x": 165,
+            "y": 172
+          }
+        ]
+      },
+      {
+        "name": "Audience Chamber",
+        "sections": [
+          {
+            "name": "Ether Chest",
+            "ref": "Terra Overview/Enchanted Dominion/Audience Chamber Ether Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ed",
+            "x": 173,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Audience Chamber",
+        "sections": [
+          {
+            "name": "Potion Chest",
+            "ref": "Terra Overview/Enchanted Dominion/Audience Chamber Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ed",
+            "x": 100,
+            "y": 24
+          }
+        ]
+      },
+      {
+        "name": "Hallway",
+        "sections": [
+          {
+            "name": "Ether Chest",
+            "ref": "Terra Overview/Enchanted Dominion/Hallway Ether Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ed",
+            "x": 276,
+            "y": 151
+          }
+        ]
+      },
+      {
+        "name": "Aurora's Chamber",
+        "sections": [
+          {
+            "name": "Map Chest",
+            "ref": "Terra Overview/Enchanted Dominion/Aurora's Chamber Map Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ed",
+            "x": 315,
+            "y": 45
+          }
+        ]
+      },
+      {
+        "name": "Tower Room",
+        "sections": [
+          {
+            "name": "Sleep Chest",
+            "ref": "Terra Overview/Enchanted Dominion/Tower Room Sleep Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ed",
+            "x": 389,
+            "y": 92
+          }
+        ]
+      },
+      {
+        "name": "Tower Room",
+        "sections": [
+          {
+            "name": "Attack Recipe Chest",
+            "ref": "Terra Overview/Enchanted Dominion/Tower Room Attack Recipe Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ed",
+            "x": 402,
+            "y": 64
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Terra Enchanted Dominion Stickers",
+    "children": [
+      {
+        "name": "Forest Clearing",
+        "sections": [
+          {
+            "name": "Balloon Sticker",
+            "ref": "Terra Overview/Enchanted Dominion/Forest Clearing Balloon Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ed",
+            "x": 126,
+            "y": 444
+          }
+        ]
+      },
+      {
+        "name": "Audience Chamber",
+        "sections": [
+          {
+            "name": "Huey Sticker",
+            "ref": "Terra Overview/Enchanted Dominion/Audience Chamber Huey Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ed",
+            "x": 151,
+            "y": 83
+          }
+        ]
+      },
+      {
+        "name": "Tower Room",
+        "sections": [
+          {
+            "name": "Flying Balloon Sticker",
+            "ref": "Terra Overview/Enchanted Dominion/Tower Room Flying Balloon Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ed",
+            "x": 390,
+            "y": 74
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Terra Enchanted Dominion Events",
+    "children": [
+      {
+        "name": "",
+        "sections": [
+          {
+            "name": "Unlock Aurora's Heart Maleficent D-Link",
+            "ref": "Terra Overview/Enchanted Dominion/Unlock Aurora's Heart Maleficent D-Link"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ed",
+            "x": 325,
+            "y": 147
+          }
+        ]
+      },
+      {
+        "name": "Defeat Wheel Master",
+        "sections": [
+          {
+            "name": "Deck Capacity Increase",
+            "ref": "Terra Overview/Enchanted Dominion/Defeat Wheel Master Deck Capacity Increase"
+          },
+          {
+            "name": "Diamond Dust",
+            "ref": "Terra Overview/Enchanted Dominion/Defeat Wheel Master Diamond Dust"
+          },
+          {
+            "name": "Fairy Stars",
+            "ref": "Terra Overview/Enchanted Dominion/World Cleared Fairy Stars"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ed",
+            "x": 120,
+            "y": 97
+          }
+        ]
+      }
+    ]
+  }
+]

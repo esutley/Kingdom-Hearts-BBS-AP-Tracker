@@ -1,0 +1,129 @@
+[
+  {
+    "name": "Aqua Olympus Coliseum Chests",
+    "children": [
+      {
+        "name": "Coliseum Gates",
+        "sections": [
+          {
+            "name": "Fire Strike Chest",
+            "ref": "Aqua Overview/Olympus Coliseum/Coliseum Gates Fire Strike Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_oc",
+            "x": 106,
+            "y": 157
+          }
+        ]
+      },
+      {
+        "name": "Coliseum Gates",
+        "sections": [
+          {
+            "name": "Cura Chest",
+            "ref": "Aqua Overview/Olympus Coliseum/Coliseum Gates Cura Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_oc",
+            "x": 47,
+            "y": 158
+          }
+        ]
+      },
+      {
+        "name": "Coliseum Gates",
+        "sections": [
+          {
+            "name": "Mega-Potion Chest",
+            "ref": "Aqua Overview/Olympus Coliseum/Coliseum Gates Mega-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_oc",
+            "x": 20,
+            "y": 226
+          }
+        ]
+      },
+      {
+        "name": "Vestibule",
+        "sections": [
+          {
+            "name": "Map Chest",
+            "ref": "Aqua Overview/Olympus Coliseum/Vestibule Map Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_oc",
+            "x": 99,
+            "y": 51
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Olympus Coliseum Stickers",
+    "children": [
+      {
+        "name": "Coliseum Gates",
+        "sections": [
+          {
+            "name": "Fireworks Sticker",
+            "ref": "Aqua Overview/Olympus Coliseum/Coliseum Gates Fireworks Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_oc",
+            "x": 91,
+            "y": 225
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Olympus Coliseum Events",
+    "children": [
+      {
+        "name": "Tournament",
+        "sections": [
+          {
+            "name": "Tournament Complete Max HP Increase",
+            "ref": "Aqua Overview/Olympus Coliseum/Tournament Complete Max HP Increase"
+          },
+          {
+            "name": "Defeat Zack Deck Capacity Increase",
+            "ref": "Aqua Overview/Olympus Coliseum/Defeat Zack Deck Capacity Increase"
+          },
+          {
+            "name": "Defeat Hades & Ice Colossus Diamond Dust",
+            "ref": "Aqua Overview/Olympus Coliseum/Defeat Hades & Ice Colossus Diamond Dust"
+          },
+          {
+            "name": "World Cleared Zack D-Link",
+            "ref": "Aqua Overview/Olympus Coliseum/World Cleared Zack D-Link"
+          },
+          {
+            "name": "World Cleared Mark of a Hero",
+            "ref": "Aqua Overview/Olympus Coliseum/World Cleared Mark of a Hero"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_oc",
+            "x": 85,
+            "y": 30
+          }
+        ]
+      }
+    ]
+  }
+]

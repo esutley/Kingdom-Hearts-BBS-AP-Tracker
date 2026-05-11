@@ -1,0 +1,353 @@
+[
+  {
+    "name": "Ventus Deep Space Chests",
+    "children": [
+      {
+        "name": "Control Room",
+        "sections": [
+          {
+            "name": "Map Chest",
+            "ref": "Ventus Overview/Deep Space/Control Room Map Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ds",
+            "x": 281,
+            "y": 298
+          }
+        ]
+      },
+      {
+        "name": "Durgon Transporter",
+        "sections": [
+          {
+            "name": "Abounding Crystal Chest",
+            "ref": "Ventus Overview/Deep Space/Durgon Transporter Abounding Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ds",
+            "x": 120,
+            "y": 604
+          }
+        ]
+      },
+      {
+        "name": "Ship Corridor",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest 1",
+            "ref": "Ventus Overview/Deep Space/Ship Corridor Hi-Potion Chest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ds",
+            "x": 91,
+            "y": 528
+          }
+        ]
+      },
+      {
+        "name": "Ship Corridor",
+        "sections": [
+          {
+            "name": "Pulsing Crystal Chest",
+            "ref": "Ventus Overview/Deep Space/Ship Corridor Pulsing Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ds",
+            "x": 123,
+            "y": 528
+          }
+        ]
+      },
+      {
+        "name": "Ship Corridor",
+        "sections": [
+          {
+            "name": "Mega-Ether Chest",
+            "ref": "Ventus Overview/Deep Space/Ship Corridor Mega-Ether Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ds",
+            "x": 51,
+            "y": 384
+          }
+        ]
+      },
+      {
+        "name": "Ship Corridor",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest 2",
+            "ref": "Ventus Overview/Deep Space/Ship Corridor Hi-Potion Chest 2"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ds",
+            "x": 67,
+            "y": 393
+          }
+        ]
+      },
+      {
+        "name": "Machinery Bay Access",
+        "sections": [
+          {
+            "name": "Mega-Potion Chest",
+            "ref": "Ventus Overview/Deep Space/Machinery Bay Access Mega-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ds",
+            "x": 657,
+            "y": 303
+          }
+        ]
+      },
+      {
+        "name": "Ship Hub",
+        "sections": [
+          {
+            "name": "Thundara Chest",
+            "ref": "Ventus Overview/Deep Space/Ship Hub Thundara Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ds",
+            "x": 396,
+            "y": 303
+          }
+        ]
+      },
+      {
+        "name": "Launch Deck",
+        "sections": [
+          {
+            "name": "Xehanort's Report 1 Chest",
+            "ref": "Ventus Overview/Deep Space/Launch Deck Xehanort's Report 1 Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ds",
+            "x": 545,
+            "y": 284
+          }
+        ]
+      },
+      {
+        "name": "Machinery Bay",
+        "sections": [
+          {
+            "name": "Chaos Crystal Chest",
+            "ref": "Ventus Overview/Deep Space/Machinery Bay Chaos Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ds",
+            "x": 651,
+            "y": 54
+          }
+        ]
+      },
+      {
+        "name": "Machinery Bay",
+        "sections": [
+          {
+            "name": "Mine Shield Chest",
+            "ref": "Ventus Overview/Deep Space/Machinery Bay Mine Shield Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ds",
+            "x": 617,
+            "y": 107
+          }
+        ]
+      },
+      {
+        "name": "Launch Deck",
+        "sections": [
+          {
+            "name": "Mega Attack Recipe Chest",
+            "ref": "Ventus Overview/Deep Space/Launch Deck Mega Attack Recipe Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ds",
+            "x": 457,
+            "y": 307
+          }
+        ]
+      },
+      {
+        "name": "Launch Deck",
+        "sections": [
+          {
+            "name": "Fire Surge Chest",
+            "ref": "Ventus Overview/Deep Space/Launch Deck Fire Surge Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ds",
+            "x": 540,
+            "y": 311
+          }
+        ]
+      },
+      {
+        "name": "Launch Deck",
+        "sections": [
+          {
+            "name": "Fleeting Crystal Chest",
+            "ref": "Ventus Overview/Deep Space/Launch Deck Fleeting Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ds",
+            "x": 527,
+            "y": 353
+          }
+        ]
+      },
+      {
+        "name": "Ship Hub",
+        "sections": [
+          {
+            "name": "Zero Gravira Chest",
+            "ref": "Ventus Overview/Deep Space/Ship Hub Zero Gravira Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ds",
+            "x": 380,
+            "y": 317
+          }
+        ]
+      },
+      {
+        "name": "Ship Hub",
+        "sections": [
+          {
+            "name": "Pulse Bomb Chest",
+            "ref": "Ventus Overview/Deep Space/Ship Hub Pulse Bomb Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ds",
+            "x": 397,
+            "y": 272
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ventus Deep Space Stickers",
+    "children": [
+      {
+        "name": "Ship Hub",
+        "sections": [
+          {
+            "name": "UFO Sticker",
+            "ref": "Ventus Overview/Deep Space/Ship Hub UFO Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ds",
+            "x": 371,
+            "y": 286
+          }
+        ]
+      },
+      {
+        "name": "Launch Deck",
+        "sections": [
+          {
+            "name": "Ice Cream Sticker",
+            "ref": "Ventus Overview/Deep Space/Launch Deck Ice Cream Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ds",
+            "x": 487,
+            "y": 260
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ventus Deep Space Events",
+    "children": [
+      {
+        "name": "Defeat Metamorphosis 1",
+        "sections": [
+          {
+            "name": "Wingblade",
+            "ref": "Ventus Overview/Deep Space/Defeat Metamorphosis 1 Wingblade"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ds",
+            "x": 40,
+            "y": 40
+          }
+        ]
+      },
+      {
+        "name": "Defeat Metamorphosis 2",
+        "sections": [
+          {
+            "name": "Max HP Increase",
+            "ref": "Ventus Overview/Deep Space/Defeat Metamorphosis 2 Max HP Increase"
+          },
+          {
+            "name": "Deck Capacity Increase",
+            "ref": "Ventus Overview/Deep Space/Defeat Metamorphosis 2 Deck Capacity Increase"
+          },
+          {
+            "name": "Experiment 626 D-Link",
+            "ref": "Ventus Overview/Deep Space/World Cleared Experiment 626 D-Link"
+          },
+          {
+            "name": "Hyperdrive",
+            "ref": "Ventus Overview/Deep Space/World Cleared Hyperdrive"
+          },
+          {
+            "name": "Spaceship Board",
+            "ref": "Ventus Overview/Deep Space/World Cleared Spaceship Board"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_ds",
+            "x": 632,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  }
+]

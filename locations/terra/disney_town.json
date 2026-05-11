@@ -1,0 +1,325 @@
+[
+  {
+    "name": "Terra Disney Town Chests",
+    "children": [
+      {
+        "name": "Main Plaza",
+        "sections": [
+          {
+            "name": "Map Chest",
+            "ref": "Terra Overview/Disney Town/Main Plaza Map Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dt",
+            "x": 691,
+            "y": 119
+          }
+        ]
+      },
+      {
+        "name": "Main Plaza",
+        "sections": [
+          {
+            "name": "Potion Chest",
+            "ref": "Terra Overview/Disney Town/Main Plaza Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dt",
+            "x": 695,
+            "y": 77
+          }
+        ]
+      },
+      {
+        "name": "Raceway",
+        "sections": [
+          {
+            "name": "Payback Fang Chest",
+            "ref": "Terra Overview/Disney Town/Raceway Payback Fang Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dt",
+            "x": 269,
+            "y": 535
+          }
+        ]
+      },
+      {
+        "name": "Raceway",
+        "sections": [
+          {
+            "name": "Abounding Crystal Chest",
+            "ref": "Terra Overview/Disney Town/Raceway Abounding Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dt",
+            "x": 187,
+            "y": 478
+          }
+        ]
+      },
+      {
+        "name": "Gizmo Gallery",
+        "sections": [
+          {
+            "name": "Thunder Chest 1",
+            "ref": "Terra Overview/Disney Town/Gizmo Gallery Thunder Chest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dt",
+            "x": 581,
+            "y": 216
+          }
+        ]
+      },
+      {
+        "name": "Gizmo Gallery",
+        "sections": [
+          {
+            "name": "Thunder Chest 2",
+            "ref": "Terra Overview/Disney Town/Gizmo Gallery Thunder Chest 2"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dt",
+            "x": 587,
+            "y": 344
+          }
+        ]
+      },
+      {
+        "name": "Gizmo Gallery",
+        "sections": [
+          {
+            "name": "Mega-Potion Chest",
+            "ref": "Terra Overview/Disney Town/Gizmo Gallery Mega-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dt",
+            "x": 644,
+            "y": 284
+          }
+        ]
+      },
+      {
+        "name": "Gizmo Gallery",
+        "sections": [
+          {
+            "name": "Absolute Zero Chest",
+            "ref": "Terra Overview/Disney Town/Gizmo Gallery Absolute Zero Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dt",
+            "x": 657,
+            "y": 290
+          }
+        ]
+      },
+      {
+        "name": "Gizmo Gallery",
+        "sections": [
+          {
+            "name": "Action Recipe Chest",
+            "ref": "Terra Overview/Disney Town/Gizmo Gallery Action Recipe Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dt",
+            "x": 582,
+            "y": 224
+          }
+        ]
+      },
+      {
+        "name": "Gizmo Gallery",
+        "sections": [
+          {
+            "name": "Chaos Crystal Chest",
+            "ref": "Terra Overview/Disney Town/Gizmo Gallery Chaos Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dt",
+            "x": 595,
+            "y": 211
+          }
+        ]
+      },
+      {
+        "name": "Gizmo Gallery",
+        "sections": [
+          {
+            "name": "Panacea Chest",
+            "ref": "Terra Overview/Disney Town/Gizmo Gallery Panacea Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dt",
+            "x": 591,
+            "y": 358
+          }
+        ]
+      },
+      {
+        "name": "Pete's Rec Room",
+        "sections": [
+          {
+            "name": "Zero Gravira Chest",
+            "ref": "Terra Overview/Disney Town/Pete's Rec Room Zero Gravira Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dt",
+            "x": 431,
+            "y": 585
+          }
+        ]
+      },
+      {
+        "name": "Pete's Rec Room",
+        "sections": [
+          {
+            "name": "Aerial Slam Chest",
+            "ref": "Terra Overview/Disney Town/Pete's Rec Room Aerial Slam Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dt",
+            "x": 477,
+            "y": 428
+          }
+        ]
+      },
+      {
+        "name": "Pete's Rec Room",
+        "sections": [
+          {
+            "name": "Break Time Chest",
+            "ref": "Terra Overview/Disney Town/Pete's Rec Room Break Time Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dt",
+            "x": 421,
+            "y": 516
+          }
+        ]
+      },
+      {
+        "name": "Pete's Rec Room",
+        "sections": [
+          {
+            "name": "Chaos Crystal Chest",
+            "ref": "Terra Overview/Disney Town/Pete's Rec Room Chaos Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dt",
+            "x": 416,
+            "y": 530
+          }
+        ]
+      },
+      {
+        "name": "Raceway",
+        "sections": [
+          {
+            "name": "Slot Edge Chest",
+            "ref": "Terra Overview/Disney Town/Raceway Slot Edge Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dt",
+            "x": 297,
+            "y": 535
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Terra Disney Town Stickers",
+    "children": [
+      {
+        "name": "Gizmo Gallery",
+        "sections": [
+          {
+            "name": "Pete Sticker",
+            "ref": "Terra Overview/Disney Town/Gizmo Gallery Pete Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dt",
+            "x": 622,
+            "y": 324
+          }
+        ]
+      },
+      {
+        "name": "Raceway",
+        "sections": [
+          {
+            "name": "Traffic Cone Sticker",
+            "ref": "Terra Overview/Disney Town/Raceway Traffic Cone Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dt",
+            "x": 155,
+            "y": 456
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Terra Disney Town Events",
+    "children": [
+      {
+        "name": "Complete Rumble Racing",
+        "sections": [
+          {
+            "name": "Hi-Potion",
+            "ref": "Terra Overview/Disney Town/Complete Rumble Racing Hi-Potion"
+          },
+          {
+            "name": "World Cleared Toon Board",
+            "ref": "Terra Overview/Disney Town/World Cleared Toon Board"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_dt",
+            "x": 41,
+            "y": 535
+          }
+        ]
+      }
+    ]
+  }
+]

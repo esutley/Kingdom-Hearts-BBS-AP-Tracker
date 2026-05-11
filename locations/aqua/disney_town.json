@@ -1,0 +1,341 @@
+[
+  {
+    "name": "Aqua Disney Town Chests",
+    "children": [
+      {
+        "name": "Main Plaza",
+        "sections": [
+          {
+            "name": "Map Chest",
+            "ref": "Aqua Overview/Disney Town/Main Plaza Map Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dt",
+            "x": 691,
+            "y": 117
+          }
+        ]
+      },
+      {
+        "name": "Main Plaza",
+        "sections": [
+          {
+            "name": "Potion Chest",
+            "ref": "Aqua Overview/Disney Town/Main Plaza Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dt",
+            "x": 705,
+            "y": 66
+          }
+        ]
+      },
+      {
+        "name": "Raceway",
+        "sections": [
+          {
+            "name": "Abounding Crystal Chest",
+            "ref": "Aqua Overview/Disney Town/Raceway Abounding Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dt",
+            "x": 183,
+            "y": 477
+          }
+        ]
+      },
+      {
+        "name": "Raceway",
+        "sections": [
+          {
+            "name": "Fira Chest",
+            "ref": "Aqua Overview/Disney Town/Raceway Fira Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dt",
+            "x": 269,
+            "y": 533
+          }
+        ]
+      },
+      {
+        "name": "Gizmo Gallery",
+        "sections": [
+          {
+            "name": "Thunder Chest 1",
+            "ref": "Aqua Overview/Disney Town/Gizmo Gallery Thunder Chest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dt",
+            "x": 581,
+            "y": 213
+          }
+        ]
+      },
+      {
+        "name": "Gizmo Gallery",
+        "sections": [
+          {
+            "name": "Thunder Chest 2",
+            "ref": "Aqua Overview/Disney Town/Gizmo Gallery Thunder Chest 2"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dt",
+            "x": 589,
+            "y": 345
+          }
+        ]
+      },
+      {
+        "name": "Gizmo Gallery",
+        "sections": [
+          {
+            "name": "Hungry Crystal Chest",
+            "ref": "Aqua Overview/Disney Town/Gizmo Gallery Hungry Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dt",
+            "x": 589,
+            "y": 360
+          }
+        ]
+      },
+      {
+        "name": "Gizmo Gallery",
+        "sections": [
+          {
+            "name": "Mega-Potion Chest 1",
+            "ref": "Aqua Overview/Disney Town/Gizmo Gallery Mega-Potion Chest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dt",
+            "x": 581,
+            "y": 224
+          }
+        ]
+      },
+      {
+        "name": "Gizmo Gallery",
+        "sections": [
+          {
+            "name": "Chaos Crystal Chest",
+            "ref": "Aqua Overview/Disney Town/Gizmo Gallery Chaos Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dt",
+            "x": 604,
+            "y": 212
+          }
+        ]
+      },
+      {
+        "name": "Gizmo Gallery",
+        "sections": [
+          {
+            "name": "Mega-Potion Chest 2",
+            "ref": "Aqua Overview/Disney Town/Gizmo Gallery Mega-Potion Chest 2"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dt",
+            "x": 643,
+            "y": 286
+          }
+        ]
+      },
+      {
+        "name": "Gizmo Gallery",
+        "sections": [
+          {
+            "name": "Pulsing Crystal Chest",
+            "ref": "Aqua Overview/Disney Town/Gizmo Gallery Pulsing Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dt",
+            "x": 656,
+            "y": 286
+          }
+        ]
+      },
+      {
+        "name": "Pete's Rec Room",
+        "sections": [
+          {
+            "name": "Soothing Crystal Chest",
+            "ref": "Aqua Overview/Disney Town/Pete's Rec Room Soothing Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dt",
+            "x": 417,
+            "y": 528
+          }
+        ]
+      },
+      {
+        "name": "Pete's Rec Room",
+        "sections": [
+          {
+            "name": "Panacea Chest",
+            "ref": "Aqua Overview/Disney Town/Pete's Rec Room Panacea Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dt",
+            "x": 426,
+            "y": 586
+          }
+        ]
+      },
+      {
+        "name": "Pete's Rec Room",
+        "sections": [
+          {
+            "name": "Action Recipe Chest",
+            "ref": "Aqua Overview/Disney Town/Pete's Rec Room Action Recipe Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dt",
+            "x": 438,
+            "y": 586
+          }
+        ]
+      },
+      {
+        "name": "Pete's Rec Room",
+        "sections": [
+          {
+            "name": "Aerial Slam Chest",
+            "ref": "Aqua Overview/Disney Town/Pete's Rec Room Aerial Slam Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dt",
+            "x": 478,
+            "y": 426
+          }
+        ]
+      },
+      {
+        "name": "Pete's Rec Room",
+        "sections": [
+          {
+            "name": "Break Time Chest",
+            "ref": "Aqua Overview/Disney Town/Pete's Rec Room Break Time Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dt",
+            "x": 419,
+            "y": 516
+          }
+        ]
+      },
+      {
+        "name": "Raceway",
+        "sections": [
+          {
+            "name": "Slot Edge Chest",
+            "ref": "Aqua Overview/Disney Town/Raceway Slot Edge Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dt",
+            "x": 300,
+            "y": 541
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Disney Town Stickers",
+    "children": [
+      {
+        "name": "Main Plaza",
+        "sections": [
+          {
+            "name": "Minnie Sticker",
+            "ref": "Aqua Overview/Disney Town/Main Plaza Minnie Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dt",
+            "x": 730,
+            "y": 70
+          }
+        ]
+      },
+      {
+        "name": "Raceway",
+        "sections": [
+          {
+            "name": "Daisy Sticker",
+            "ref": "Aqua Overview/Disney Town/Raceway Daisy Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dt",
+            "x": 237,
+            "y": 543
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aqua Disney Town Events",
+    "children": [
+      {
+        "name": "Complete Fruit Ball",
+        "sections": [
+          {
+            "name": "Balloon Letter",
+            "ref": "Aqua Overview/Disney Town/Complete Fruit Ball Balloon Letter"
+          },
+          {
+            "name": "Toon Board",
+            "ref": "Aqua Overview/Disney Town/World Cleared Toon Board"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "a_dt",
+            "x": 696,
+            "y": 582
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "name": "v_overworld",
+    "location_size": 12,
+    "location_border_thickness": 1,
+    "img": "images/maps/overworld.png"
+  },
+  {
+    "name": "v_dw",
+    "location_size": 12,
+    "location_border_thickness": 1,
+    "img": "images/maps/v_dw.png"
+  },
+  {
+    "name": "v_cod",
+    "location_size": 12,
+    "location_border_thickness": 1,
+    "img": "images/maps/v_cod.png"
+  },
+  {
+    "name": "v_ed",
+    "location_size": 12,
+    "location_border_thickness": 1,
+    "img": "images/maps/v_ed.png"
+  },
+  {
+    "name": "v_rg",
+    "location_size": 24,
+    "location_border_thickness": 1,
+    "img": "images/maps/v_rg.png"
+  },
+  {
+    "name": "v_dt",
+    "location_size": 24,
+    "location_border_thickness": 1,
+    "img": "images/maps/dt.png"
+  },
+  {
+    "name": "v_oc",
+    "location_size": 12,
+    "location_border_thickness": 1,
+    "img": "images/maps/oc.png"
+  },
+  {
+    "name": "v_ds",
+    "location_size": 24,
+    "location_border_thickness": 1,
+    "img": "images/maps/v_ds.png"
+  },
+  {
+    "name": "v_nl",
+    "location_size": 24,
+    "location_border_thickness": 1,
+    "img": "images/maps/v_nl.png"
+  },
+  {
+    "name": "v_kg",
+    "location_size": 12,
+    "location_border_thickness": 1,
+    "img": "images/maps/kg.png"
+  },
+  {
+    "name": "a_overworld",
+    "location_size": 12,
+    "location_border_thickness": 1,
+    "img": "images/maps/overworld.png"
+  },
+  {
+    "name": "a_lod",
+    "location_size": 12,
+    "location_border_thickness": 1,
+    "img": "images/maps/lod.png"
+  },
+  {
+    "name": "a_dw",
+    "location_size": 12,
+    "location_border_thickness": 1,
+    "img": "images/maps/a_dw.png"
+  },
+  {
+    "name": "a_cod",
+    "location_size": 12,
+    "location_border_thickness": 1,
+    "img": "images/maps/a_cod.png"
+  },
+  {
+    "name": "a_ed",
+    "location_size": 24,
+    "location_border_thickness": 1,
+    "img": "images/maps/a_ed.png"
+  },
+  {
+    "name": "a_rg",
+    "location_size": 24,
+    "location_border_thickness": 1,
+    "img": "images/maps/a_rg.png"
+  },
+  {
+    "name": "a_dt",
+    "location_size": 24,
+    "location_border_thickness": 1,
+    "img": "images/maps/dt.png"
+  },
+  {
+    "name": "a_oc",
+    "location_size": 12,
+    "location_border_thickness": 1,
+    "img": "images/maps/oc.png"
+  },
+  {
+    "name": "a_ds",
+    "location_size": 24,
+    "location_border_thickness": 1,
+    "img": "images/maps/at_ds.png"
+  },
+  {
+    "name": "a_nl",
+    "location_size": 24,
+    "location_border_thickness": 1,
+    "img": "images/maps/a_nl.png"
+  },
+  {
+    "name": "a_kg",
+    "location_size": 12,
+    "location_border_thickness": 1,
+    "img": "images/maps/kg.png"
+  },
+  {
+    "name": "a_rod",
+    "location_size": 12,
+    "location_border_thickness": 1,
+    "img": "images/maps/rod.png"
+  },
+  {
+    "name": "t_overworld",
+    "location_size": 12,
+    "location_border_thickness": 1,
+    "img": "images/maps/overworld.png"
+  },
+  {
+    "name": "t_lod",
+    "location_size": 12,
+    "location_border_thickness": 1,
+    "img": "images/maps/lod.png"
+  },
+  {
+    "name": "t_dw",
+    "location_size": 12,
+    "location_border_thickness": 1,
+    "img": "images/maps/t_dw.png"
+  },
+  {
+    "name": "t_cod",
+    "location_size": 12,
+    "location_border_thickness": 1,
+    "img": "images/maps/t_cod.png"
+  },
+  {
+    "name": "t_ed",
+    "location_size": 12,
+    "location_border_thickness": 1,
+    "img": "images/maps/t_ed.png"
+  },
+  {
+    "name": "t_rg",
+    "location_size": 24,
+    "location_border_thickness": 1,
+    "img": "images/maps/t_rg.png"
+  },
+  {
+    "name": "t_dt",
+    "location_size": 24,
+    "location_border_thickness": 1,
+    "img": "images/maps/dt.png"
+  },
+  {
+    "name": "t_oc",
+    "location_size": 12,
+    "location_border_thickness": 1,
+    "img": "images/maps/oc.png"
+  },
+  {
+    "name": "t_ds",
+    "location_size": 24,
+    "location_border_thickness": 1,
+    "img": "images/maps/at_ds.png"
+  },
+  {
+    "name": "t_nl",
+    "location_size": 24,
+    "location_border_thickness": 1,
+    "img": "images/maps/t_nl.png"
+  },
+  {
+    "name": "t_kg",
+    "location_size": 12,
+    "location_border_thickness": 1,
+    "img": "images/maps/kg.png"
+  }
+]

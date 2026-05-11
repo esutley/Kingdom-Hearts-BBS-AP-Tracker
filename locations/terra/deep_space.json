@@ -1,0 +1,397 @@
+[
+  {
+    "name": "Terra Deep Space Chests",
+    "children": [
+      {
+        "name": "Turo Prison Block",
+        "sections": [
+          {
+            "name": "High Jump Chest",
+            "ref": "Terra Overview/Deep Space/Turo Prison Block High Jump Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ds",
+            "x": 16,
+            "y": 590
+          }
+        ]
+      },
+      {
+        "name": "Turo Prison Block",
+        "sections": [
+          {
+            "name": "Brutal Blast Chest",
+            "ref": "Terra Overview/Deep Space/Turo Prison Block Brutal Blast Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ds",
+            "x": 110,
+            "y": 637
+          }
+        ]
+      },
+      {
+        "name": "Turo Prison Block",
+        "sections": [
+          {
+            "name": "Pulsing Crystal Chest",
+            "ref": "Terra Overview/Deep Space/Turo Prison Block Pulsing Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ds",
+            "x": 16,
+            "y": 516
+          }
+        ]
+      },
+      {
+        "name": "Turo Prison Block",
+        "sections": [
+          {
+            "name": "Mega-Ether Chest",
+            "ref": "Terra Overview/Deep Space/Turo Prison Block Mega-Ether Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ds",
+            "x": 105,
+            "y": 612
+          }
+        ]
+      },
+      {
+        "name": "Turo Prison Block",
+        "sections": [
+          {
+            "name": "Mega-Potion Chest",
+            "ref": "Terra Overview/Deep Space/Turo Prison Block Mega-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ds",
+            "x": 16,
+            "y": 670
+          }
+        ]
+      },
+      {
+        "name": "Durgon Transporter",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Terra Overview/Deep Space/Durgon Transporter Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ds",
+            "x": 334,
+            "y": 394
+          }
+        ]
+      },
+      {
+        "name": "Ship Corridor",
+        "sections": [
+          {
+            "name": "Ether Chest",
+            "ref": "Terra Overview/Deep Space/Ship Corridor Ether Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ds",
+            "x": 342,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Ship Corridor",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Terra Overview/Deep Space/Ship Corridor Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ds",
+            "x": 343,
+            "y": 281
+          }
+        ]
+      },
+      {
+        "name": "Ship Corridor",
+        "sections": [
+          {
+            "name": "Pulsing Crystal Chest",
+            "ref": "Terra Overview/Deep Space/Ship Corridor Pulsing Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ds",
+            "x": 300,
+            "y": 323
+          }
+        ]
+      },
+      {
+        "name": "Ship Corridor",
+        "sections": [
+          {
+            "name": "Warp Chest",
+            "ref": "Terra Overview/Deep Space/Ship Corridor Warp Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ds",
+            "x": 276,
+            "y": 267
+          }
+        ]
+      },
+      {
+        "name": "Control Room",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Terra Overview/Deep Space/Control Room Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ds",
+            "x": 442,
+            "y": 98
+          }
+        ]
+      },
+      {
+        "name": "Ship Hub",
+        "sections": [
+          {
+            "name": "Hungry Crystal Chest",
+            "ref": "Terra Overview/Deep Space/Ship Hub Hungry Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ds",
+            "x": 600,
+            "y": 80
+          }
+        ]
+      },
+      {
+        "name": "Ship Hub",
+        "sections": [
+          {
+            "name": "Mega-Potion Chest",
+            "ref": "Terra Overview/Deep Space/Ship Hub Mega-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ds",
+            "x": 587,
+            "y": 113
+          }
+        ]
+      },
+      {
+        "name": "Ship Hub",
+        "sections": [
+          {
+            "name": "Fleeting Crystal Chest",
+            "ref": "Terra Overview/Deep Space/Ship Hub Fleeting Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ds",
+            "x": 593,
+            "y": 64
+          }
+        ]
+      },
+      {
+        "name": "Machinery Bay Access",
+        "sections": [
+          {
+            "name": "Mine Square Chest",
+            "ref": "Terra Overview/Deep Space/Machinery Bay Access Mine Square Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ds",
+            "x": 864,
+            "y": 98
+          }
+        ]
+      },
+      {
+        "name": "Launch Deck",
+        "sections": [
+          {
+            "name": "Thundara Chest",
+            "ref": "Terra Overview/Deep Space/Launch Deck Thundara Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ds",
+            "x": 754,
+            "y": 80
+          }
+        ]
+      },
+      {
+        "name": "Launch Deck",
+        "sections": [
+          {
+            "name": "Abounding Crystal Chest",
+            "ref": "Terra Overview/Deep Space/Launch Deck Abounding Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ds",
+            "x": 753,
+            "y": 103
+          }
+        ]
+      },
+      {
+        "name": "Launch Deck",
+        "sections": [
+          {
+            "name": "Wellspring Crystal Chest",
+            "ref": "Terra Overview/Deep Space/Launch Deck Wellspring Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ds",
+            "x": 734,
+            "y": 52
+          }
+        ]
+      },
+      {
+        "name": "Turo Transporter",
+        "sections": [
+          {
+            "name": "Map Chest",
+            "ref": "Terra Overview/Deep Space/Turo Transporter Map Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ds",
+            "x": 118,
+            "y": 400
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Terra Deep Space Stickers",
+    "children": [
+      {
+        "name": "Turo Prison Block",
+        "sections": [
+          {
+            "name": "Flying Balloon Sticker",
+            "ref": "Terra Overview/Deep Space/Turo Prison Block Flying Balloon Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ds",
+            "x": 87,
+            "y": 666
+          }
+        ]
+      },
+      {
+        "name": "Ship Corridor",
+        "sections": [
+          {
+            "name": "UFO Sticker",
+            "ref": "Terra Overview/Deep Space/Ship Corridor UFO Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ds",
+            "x": 335,
+            "y": 274
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Terra Deep Space Events",
+    "children": [
+      {
+        "name": "Defeat Jellyshade Swarm",
+        "sections": [
+          {
+            "name": "Max HP Increase",
+            "ref": "Terra Overview/Deep Space/Defeat Jellyshade Swarm Max HP Increase"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ds",
+            "x": 40,
+            "y": 40
+          }
+        ]
+      },
+      {
+        "name": "Defeat Experiment 221",
+        "sections": [
+          {
+            "name": "Thunderbolt",
+            "ref": "Terra Overview/Deep Space/Defeat Experiment 221 Thunderbolt"
+          },
+          {
+            "name": "Experiment 626 D-Link",
+            "ref": "Terra Overview/Deep Space/World Cleared Experiment 626 D-Link"
+          },
+          {
+            "name": "Hyperdrive",
+            "ref": "Terra Overview/Deep Space/World Cleared Hyperdrive"
+          },
+          {
+            "name": "Spaceship Board",
+            "ref": "Terra Overview/Deep Space/World Cleared Spaceship Board"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_ds",
+            "x": 311,
+            "y": 225
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  // Movement
+  {
+    "name": "High Jump",
+    "type": "toggle",
+    "img": "images/items/highjump.png",
+    "codes": "high_jump"
+  },
+  {
+    "name": "Air Slide",
+    "type": "toggle",
+    "img": "images/items/airslide.png",
+    "codes": "air_slide"
+  },
+  {
+    "name": "Ice Slide",
+    "type": "toggle",
+    "img": "images/items/iceslide.png",
+    "codes": "ice_slide"
+  },
+  {
+    "name": "Glide",
+    "type": "toggle",
+    "img": "images/items/glide.png",
+    "codes": "glide"
+  },
+  {
+    "name": "Superglide",
+    "type": "toggle",
+    "img": "images/items/superglide.png",
+    "codes": "superglide"
+  },
+  {
+    "name": "Fire Glide",
+    "type": "toggle",
+    "img": "images/items/fireglide.png",
+    "codes": "fire_glide"
+  },
+  {
+    "name": "Sonic Impact",
+    "type": "toggle",
+    "img": "images/items/sonicimpact.png",
+    "codes": "sonic_impact"
+  },
+  {
+    "name": "Doubleflight",
+    "type": "toggle",
+    "img": "images/items/doubleflight.png",
+    "codes": "doubleflight"
+  },
+  
+  // Abilities
+  {
+    "name": "Second Chance",
+    "type": "toggle",
+    "img": "images/items/Second Chance.png",
+    "codes": "second_chance"
+  },
+  {
+    "name": "Once More",
+    "type": "toggle",
+    "img": "images/items/Once More.png",
+    "codes": "once_more"
+  },
+  {
+    "name": "Leaf Bracer",
+    "type": "toggle",
+    "img": "images/items/Leaf Bracer.png",
+    "codes": "leaf_bracer"
+  },
+
+  // Spells
+  {
+    "name": "Fire",
+    "type": "toggle",
+    "img": "images/items/fire.png",
+    "codes": "fire"
+  },
+  {
+    "name": "Thunder",
+    "type": "toggle",
+    "img": "images/items/thunder.png",
+    "codes": "thunder"
+  },
+
+  // Wayfinders
+  {
+    "name": "Wayfinder Ventus",
+    "type": "toggle",
+    "img": "images/items/wayfinderventus.png",
+    "codes": "wayfinder_ventus"
+  },
+  {
+    "name": "Wayfinder Aqua",
+    "type": "toggle",
+    "img": "images/items/wayfinderaqua.png",
+    "codes": "wayfinder_aqua"
+  },
+  {
+    "name": "Wayfinder Terra",
+    "type": "toggle",
+    "img": "images/items/wayfinderterra.png",
+    "codes": "wayfinder_terra"
+  },
+
+  // Worlds
+  {
+    "name": "Dwarf Woodlands",
+    "type": "toggle",
+    "img": "images/worlds/Dwarf Woodlands.png",
+    "codes": "dwarf_woodlands"
+  },
+  {
+    "name": "Castle of Dreams",
+    "type": "toggle",
+    "img": "images/worlds/Castle of Dreams.png",
+    "codes": "castle_of_dreams"
+  },
+  {
+    "name": "Enchanted Dominion",
+    "type": "toggle",
+    "img": "images/worlds/Enchanted Dominion.png",
+    "codes": "enchanted_dominion"
+  },
+  {
+    "name": "Mysterious Tower",
+    "type": "toggle",
+    "img": "images/worlds/Mysterious Tower.png",
+    "codes": "mysterious_tower"
+  },
+  {
+    "name": "Radiant Garden",
+    "type": "toggle",
+    "img": "images/worlds/Radiant Garden.png",
+    "codes": "radiant_garden"
+  },
+  {
+    "name": "Mirage Arena",
+    "type": "toggle",
+    "img": "images/worlds/Mirage Arena.png",
+    "codes": "mirage_arena"
+  },
+  {
+    "name": "Olympus Coliseum",
+    "type": "toggle",
+    "img": "images/worlds/Olympus Coliseum.png",
+    "codes": "olympus_coliseum"
+  },
+  {
+    "name": "Deep Space",
+    "type": "toggle",
+    "img": "images/worlds/Deep Space.png",
+    "codes": "deep_space"
+  },
+  {
+    "name": "Realm of Darkness",
+    "type": "toggle",
+    "img": "images/worlds/Realm of Darkness.png",
+    "codes": "realm_of_darkness"
+  },
+  {
+    "name": "Never Land",
+    "type": "toggle",
+    "img": "images/worlds/Never Land.png",
+    "codes": "never_land"
+  },
+  {
+    "name": "Disney Town",
+    "type": "toggle",
+    "img": "images/worlds/Disney Town.png",
+    "codes": "disney_town"
+  },
+  {
+    "name": "Command Boards",
+    "type": "consumable",
+    "img": "images/settings/commandboard.png",
+    "max_quantity": 7,
+    "initial_quantity": 0,
+    "overlay_font_size": 8,
+    "codes": "command_board"
+  }
+]

@@ -1,0 +1,369 @@
+[
+  {
+    "name": "Ventus Disney Town Chests",
+    "children": [
+      {
+        "name": "Raceway",
+        "sections": [
+          {
+            "name": "Reversal Slash Chest",
+            "ref": "Ventus Overview/Disney Town/Raceway Reversal Slash Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dt",
+            "x": 296,
+            "y": 464
+          }
+        ]
+      },
+      {
+        "name": "Raceway",
+        "sections": [
+          {
+            "name": "Shimmering Crystal Chest",
+            "ref": "Ventus Overview/Disney Town/Raceway Shimmering Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dt",
+            "x": 183,
+            "y": 475
+          }
+        ]
+      },
+      {
+        "name": "Raceway",
+        "sections": [
+          {
+            "name": "Stop Chest",
+            "ref": "Ventus Overview/Disney Town/Raceway Stop Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dt",
+            "x": 269,
+            "y": 534
+          }
+        ]
+      },
+      {
+        "name": "Main Plaza",
+        "sections": [
+          {
+            "name": "Map (Disney Town) Chest",
+            "ref": "Ventus Overview/Disney Town/Main Plaza Map (Disney Town) Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dt",
+            "x": 691,
+            "y": 117
+          }
+        ]
+      },
+      {
+        "name": "Main Plaza",
+        "sections": [
+          {
+            "name": "Potion Chest",
+            "ref": "Ventus Overview/Disney Town/Main Plaza Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dt",
+            "x": 705,
+            "y": 65
+          }
+        ]
+      },
+      {
+        "name": "Gizmo Gallery",
+        "sections": [
+          {
+            "name": "Thunder Chest 1",
+            "ref": "Ventus Overview/Disney Town/Gizmo Gallery Thunder Chest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dt",
+            "x": 582,
+            "y": 214
+          }
+        ]
+      },
+      {
+        "name": "Gizmo Gallery",
+        "sections": [
+          {
+            "name": "Thunder Chest 2",
+            "ref": "Ventus Overview/Disney Town/Gizmo Gallery Thunder Chest 2"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dt",
+            "x": 589,
+            "y": 345
+          }
+        ]
+      },
+      {
+        "name": "Gizmo Gallery",
+        "sections": [
+          {
+            "name": "Mega-Ether Chest",
+            "ref": "Ventus Overview/Disney Town/Gizmo Gallery Mega-Ether Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dt",
+            "x": 588,
+            "y": 360
+          }
+        ]
+      },
+      {
+        "name": "Gizmo Gallery",
+        "sections": [
+          {
+            "name": "Mega-Potion Chest 2",
+            "ref": "Ventus Overview/Disney Town/Gizmo Gallery Mega-Potion Chest 2"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dt",
+            "x": 643,
+            "y": 288
+          }
+        ]
+      },
+      {
+        "name": "Gizmo Gallery",
+        "sections": [
+          {
+            "name": "Mega-Potion Chest 1",
+            "ref": "Ventus Overview/Disney Town/Gizmo Gallery Mega-Potion Chest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dt",
+            "x": 580,
+            "y": 226
+          }
+        ]
+      },
+      {
+        "name": "Gizmo Gallery",
+        "sections": [
+          {
+            "name": "Chaos Crystal Chest",
+            "ref": "Ventus Overview/Disney Town/Gizmo Gallery Chaos Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dt",
+            "x": 604,
+            "y": 212
+          }
+        ]
+      },
+      {
+        "name": "Pete's Rec Room",
+        "sections": [
+          {
+            "name": "Wellspring Crystal Chest",
+            "ref": "Ventus Overview/Disney Town/Pete's Rec Room Wellspring Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dt",
+            "x": 416,
+            "y": 529
+          }
+        ]
+      },
+      {
+        "name": "Pete's Rec Room",
+        "sections": [
+          {
+            "name": "Panacea Chest",
+            "ref": "Ventus Overview/Disney Town/Pete's Rec Room Panacea Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dt",
+            "x": 425,
+            "y": 587
+          }
+        ]
+      },
+      {
+        "name": "Pete's Rec Room",
+        "sections": [
+          {
+            "name": "Aerial Slam Chest",
+            "ref": "Ventus Overview/Disney Town/Pete's Rec Room Aerial Slam Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dt",
+            "x": 474,
+            "y": 425
+          }
+        ]
+      },
+      {
+        "name": "Pete's Rec Room",
+        "sections": [
+          {
+            "name": "Break Time Chest",
+            "ref": "Ventus Overview/Disney Town/Pete's Rec Room Break Time Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dt",
+            "x": 416,
+            "y": 515
+          }
+        ]
+      },
+      {
+        "name": "Pete's Rec Room",
+        "sections": [
+          {
+            "name": "Action Recipe Chest",
+            "ref": "Ventus Overview/Disney Town/Pete's Rec Room Action Recipe Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dt",
+            "x": 438,
+            "y": 587
+          }
+        ]
+      },
+      {
+        "name": "Raceway",
+        "sections": [
+          {
+            "name": "Slot Edge Chest",
+            "ref": "Ventus Overview/Disney Town/Raceway Slot Edge Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dt",
+            "x": 299,
+            "y": 541
+          }
+        ]
+      },
+      {
+        "name": "Raceway",
+        "sections": [
+          {
+            "name": "Superglide Chest",
+            "ref": "Ventus Overview/Disney Town/Raceway Superglide Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dt",
+            "x": 150,
+            "y": 454
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ventus Disney Town Stickers",
+    "children": [
+      {
+        "name": "Gizmo Gallery",
+        "sections": [
+          {
+            "name": "Mickey Sticker",
+            "ref": "Ventus Overview/Disney Town/Gizmo Gallery Mickey Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dt",
+            "x": 614,
+            "y": 259
+          }
+        ]
+      },
+      {
+        "name": "Pete's Rec Room",
+        "sections": [
+          {
+            "name": "Minnie Sticker",
+            "ref": "Ventus Overview/Disney Town/Pete's Rec Room Minnie Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dt",
+            "x": 429,
+            "y": 437
+          }
+        ]
+      },
+      {
+        "name": "Raceway",
+        "sections": [
+          {
+            "name": "Chip Sticker",
+            "ref": "Ventus Overview/Disney Town/Raceway Chip Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dt",
+            "x": 296,
+            "y": 488
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ventus Disney Town Events",
+    "children": [
+      {
+        "name": "Complete Ice Cream Beat",
+        "sections": [
+          {
+            "name": "Toon Board",
+            "ref": "Ventus Overview/Disney Town/World Cleared Toon Board"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "v_dt",
+            "x": 752,
+            "y": 122
+          }
+        ]
+      }
+    ]
+  }
+]

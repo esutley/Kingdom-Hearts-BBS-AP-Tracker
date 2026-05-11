@@ -1,0 +1,273 @@
+[
+  {
+    "name": "Terra Castle of Dreams Chests",
+    "children": [
+      {
+        "name": "Palace Courtyard",
+        "sections": [
+          {
+            "name": "Pulsing Crystal Chest",
+            "ref": "Terra Overview/Castle of Dreams/Palace Courtyard Pulsing Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_cod",
+            "x": 118,
+            "y": 502
+          }
+        ]
+      },
+      {
+        "name": "Palace Courtyard",
+        "sections": [
+          {
+            "name": "Wellspring Crystal Chest",
+            "ref": "Terra Overview/Castle of Dreams/Palace Courtyard Wellspring Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_cod",
+            "x": 44,
+            "y": 485
+          }
+        ]
+      },
+      {
+        "name": "Palace Courtyard",
+        "sections": [
+          {
+            "name": "Slow Chest",
+            "ref": "Terra Overview/Castle of Dreams/Palace Courtyard Slow Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_cod",
+            "x": 169,
+            "y": 645
+          }
+        ]
+      },
+      {
+        "name": "Palace Courtyard",
+        "sections": [
+          {
+            "name": "Map Chest",
+            "ref": "Terra Overview/Castle of Dreams/Palace Courtyard Map Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_cod",
+            "x": 35,
+            "y": 593
+          }
+        ]
+      },
+      {
+        "name": "Ballroom",
+        "sections": [
+          {
+            "name": "Fleeting Crystal Chest",
+            "ref": "Terra Overview/Castle of Dreams/Ballroom Fleeting Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_cod",
+            "x": 145,
+            "y": 60
+          }
+        ]
+      },
+      {
+        "name": "Foyer",
+        "sections": [
+          {
+            "name": "Strike Raid Chest",
+            "ref": "Terra Overview/Castle of Dreams/Foyer Strike Raid Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_cod",
+            "x": 65,
+            "y": 250
+          }
+        ]
+      },
+      {
+        "name": "Foyer",
+        "sections": [
+          {
+            "name": "Potion Chest",
+            "ref": "Terra Overview/Castle of Dreams/Foyer Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_cod",
+            "x": 116,
+            "y": 230
+          }
+        ]
+      },
+      {
+        "name": "Foyer",
+        "sections": [
+          {
+            "name": "Hi-Potion Chest",
+            "ref": "Terra Overview/Castle of Dreams/Foyer Hi-Potion Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_cod",
+            "x": 68,
+            "y": 209
+          }
+        ]
+      },
+      {
+        "name": "Foyer",
+        "sections": [
+          {
+            "name": "Soothing Crystal Chest",
+            "ref": "Terra Overview/Castle of Dreams/Foyer Soothing Crystal Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_cod",
+            "x": 139,
+            "y": 237
+          }
+        ]
+      },
+      {
+        "name": "Antechamber",
+        "sections": [
+          {
+            "name": "Thunder Chest",
+            "ref": "Terra Overview/Castle of Dreams/Antechamber Thunder Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_cod",
+            "x": 221,
+            "y": 105
+          }
+        ]
+      },
+      {
+        "name": "Chateau",
+        "sections": [
+          {
+            "name": "Thunderstorm Chest",
+            "ref": "Terra Overview/Castle of Dreams/Chateau Thunderstorm Chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_cod",
+            "x": 318,
+            "y": 827
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Terra Castle of Dreams Stickers",
+    "children": [
+      {
+        "name": "Chateau",
+        "sections": [
+          {
+            "name": "Traffic Cone Sticker",
+            "ref": "Terra Overview/Castle of Dreams/Chateau Traffic Cone Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_cod",
+            "x": 325,
+            "y": 835
+          }
+        ]
+      },
+      {
+        "name": "Passage",
+        "sections": [
+          {
+            "name": "Flying Balloon Sticker",
+            "ref": "Terra Overview/Castle of Dreams/Passage Flying Balloon Sticker"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_cod",
+            "x": 247,
+            "y": 278
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Terra Castle of Dreams Events",
+    "children": [
+      {
+        "name": "Escort Cinderella",
+        "sections": [
+          {
+            "name": "Counter Hammer",
+            "ref": "Terra Overview/Castle of Dreams/Escort Cinderella Counter Hammer"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_cod",
+            "x": 101,
+            "y": 505
+          }
+        ]
+      },
+      {
+        "name": "Defeat Symphony Master",
+        "sections": [
+          {
+            "name": "Max HP Increase",
+            "ref": "Terra Overview/Castle of Dreams/Defeat Symphony Master Max HP Increase"
+          },
+          {
+            "name": "Deck Capacity Increase",
+            "ref": "Terra Overview/Castle of Dreams/Defeat Symphony Master Deck Capacity Increase"
+          },
+          {
+            "name": "Cinderella D-Link",
+            "ref": "Terra Overview/Castle of Dreams/World Cleared Cinderella D-Link"
+          },
+          {
+            "name": "Stroke of Midnight",
+            "ref": "Terra Overview/Castle of Dreams/World Cleared Stroke of Midnight"
+          },
+          {
+            "name": "Royal Board",
+            "ref": "Terra Overview/Castle of Dreams/World Cleared Royal Board"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "t_cod",
+            "x": 103,
+            "y": 61
+          }
+        ]
+      }
+    ]
+  }
+]
