@@ -507,27 +507,27 @@
             "access_rules": ["[$has_x_worlds|2]"]
           },
           {
-            "name": "Weaver Fever Max HP Increase",
-            "access_rules": ["[$has_x_worlds|4], enchanted_dominion"]
-          },
-          {
             "name": "Complete Weaver Fever",
             "access_rules": ["[$has_x_worlds|4], enchanted_dominion"]
           },
           {
-            "name": "Sinister Sentinel Xehanort's Report 5",
-            "access_rules": ["[$has_x_worlds|4]"]
+            "name": "Weaver Fever Max HP Increase",
+            "access_rules": ["[$has_x_worlds|4], enchanted_dominion"]
           },
           {
             "name": "Complete Sinister Sentinel",
             "access_rules": ["[$has_x_worlds|4]"]
           },
           {
-            "name": "Dead Ringer Darkgnaw",
+            "name": "Sinister Sentinel Xehanort's Report 5",
             "access_rules": ["[$has_x_worlds|4]"]
           },
           {
             "name": "Complete Dead Ringer",
+            "access_rules": ["[$has_x_worlds|4]"]
+          },
+          {
+            "name": "Dead Ringer Darkgnaw",
             "access_rules": ["[$has_x_worlds|4]"]
           },
           {
@@ -548,15 +548,11 @@
             "visibility_rules": "opt_arena_global_on"
           },
           {
-            "name": "Copycat Crisis Max HP Increase",
-            "access_rules": ["[$has_x_worlds|8], [$has_defensive_tools]"]
-          },
-          {
             "name": "Complete Copycat Crisis",
             "access_rules": ["[$has_x_worlds|8], [$has_defensive_tools]"]
           },
           {
-            "name": "Keepers of the Arena Ultima Cannon",
+            "name": "Copycat Crisis Max HP Increase",
             "access_rules": ["[$has_x_worlds|8], [$has_defensive_tools]"]
           },
           {
@@ -564,12 +560,16 @@
             "access_rules": ["[$has_x_worlds|8], [$has_defensive_tools]"]
           },
           {
-            "name": "Monster of the Sea Mini",
+            "name": "Keepers of the Arena Ultima Cannon",
+            "access_rules": ["[$has_x_worlds|8], [$has_defensive_tools]"]
+          },
+          {
+            "name": "Complete Monster of the Sea",
             "access_rules": ["[$has_x_worlds|8], [$has_defensive_tools], $ma_world|disney_town"],
             "visibility_rules": ["$ma_monstro_vis"]
           },
           {
-            "name": "Complete Monster of the Sea",
+            "name": "Monster of the Sea Mini",
             "access_rules": ["[$has_x_worlds|8], [$has_defensive_tools], $ma_world|disney_town"],
             "visibility_rules": ["$ma_monstro_vis"]
           }
@@ -587,12 +587,12 @@
         "access_rules": ["mirage_arena, [$has_x_worlds|9], [$has_defensive_tools]"],
         "visibility_rules": ["opt_mirage_arena_on, opt_superbosses_on"],
         "sections": [
-          { "name": "Villains' Vendetta Ultima Weapon"},
           { "name": "Complete Villains' Vendetta"},
-          { "name": "Light's Lessons Max HP Increase"},
+          { "name": "Villains' Vendetta Ultima Weapon"},
           { "name": "Complete Light's Lessons"},
-          { "name": "Peering into Darkness Royal Radiance"},
-          { "name": "Complete Peering into Darkness"}
+          { "name": "Light's Lessons Max HP Increase"},
+          { "name": "Complete Peering into Darkness"},
+          { "name": "Peering into Darkness Royal Radiance"}
         ],
         "map_locations": [
           {
