@@ -1,6 +1,12 @@
 {
     "versions": [
         {
+            "package_version": "1.0.2",
+            "download_url": "https://github.com/esutley/Kingdom-Hearts-BBS-AP-Tracker/archive/refs/tags/1.0.2.zip",
+            "sha256": "70841c387336bc2e150821a6f7fefab124307421f2de12cc71d330cd4a7e54b1",
+            "changelog": ["More Cleanup"]
+        },
+        {
             "package_version": "1.0.1",
             "download_url": "https://github.com/esutley/Kingdom-Hearts-BBS-AP-Tracker/archive/refs/tags/1.0.1.zip",
             "sha256": "fb05fcd0a5de5ae12648a33ec4ac61eeb1efd9d18a5d3f6064fbe946d165fb2f",
