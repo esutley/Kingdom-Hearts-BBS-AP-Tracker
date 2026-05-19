@@ -134,7 +134,7 @@
         "name": "Wardrobe Room",
         "sections": [
           {
-            "name": "",
+            "name": "Zero Gravity Chest",
             "ref": "Ventus Overview/Castle of Dreams/Wardrobe Room Zero Gravity Chest"
           }
         ],
@@ -150,7 +150,7 @@
         "name": "Wardrobe Room",
         "sections": [
           {
-            "name": "",
+            "name": "Balloon Letter Chest",
             "ref": "Ventus Overview/Castle of Dreams/Wardrobe Room Balloon Letter Chest"
           }
         ],
@@ -166,7 +166,7 @@
         "name": "Wardrobe Room",
         "sections": [
           {
-            "name": "",
+            "name": "Blizzard Chest",
             "ref": "Ventus Overview/Castle of Dreams/Wardrobe Room Blizzard Chest"
           }
         ],
@@ -182,7 +182,7 @@
         "name": "Wardrobe Room",
         "sections": [
           {
-            "name": "",
+            "name": "Fleeting Crystal Chest",
             "ref": "Ventus Overview/Castle of Dreams/Wardrobe Room Fleeting Crystal Chest"
           }
         ],

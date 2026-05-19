@@ -221,10 +221,10 @@
     "name": "Terra Enchanted Dominion Events",
     "children": [
       {
-        "name": "",
+        "name": "Unlock Aurora's Heart",
         "sections": [
           {
-            "name": "Unlock Aurora's Heart Maleficent D-Link",
+            "name": "Maleficent D-Link",
             "ref": "Terra Overview/Enchanted Dominion/Unlock Aurora's Heart Maleficent D-Link"
           }
         ],
