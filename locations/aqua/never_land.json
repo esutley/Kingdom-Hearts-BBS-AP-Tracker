@@ -336,23 +336,23 @@
         "name": "Defeat Vanitas",
         "sections": [
           {
-            "name": "",
+            "name": "Max HP Increase",
             "ref": "Aqua Overview/Never Land/Defeat Vanitas Max HP Increase"
           },
           {
-            "name": "",
+            "name": "Ghost Drive",
             "ref": "Aqua Overview/Never Land/Defeat Vanitas Ghost Drive"
           },
           {
-            "name": "",
+            "name": "Peter Pan D-Link",
             "ref": "Aqua Overview/Never Land/World Cleared Peter Pan D-Link"
           },
           {
-            "name": "",
+            "name": "Pixie Petal",
             "ref": "Aqua Overview/Never Land/World Cleared Pixie Petal"
           },
           {
-            "name": "",
+            "name": "Skull Board",
             "ref": "Aqua Overview/Never Land/World Cleared Skull Board"
           }
         ],
